@@ -1,0 +1,55 @@
+        var eng_dictionary = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${EngSpan[random_no].English}`);  // English Dictionary API
+        var english_dict = await eng_dictionary.json();
+
+
+        console.log(english_dict);
+        console.log(english_dict[0].meanings[0].partOfSpeech); // parts of Speech
+        console.log(english_dict[0].phonetic); // Phonetics
+        console.log(english_dict[0].meanings[0].definitions[0].definition); // Definition and meaning
+
+
+
+
+
+        var eng_dictionary = await fetch('../Datos/eng_dictionary.json');  // English Dictionary API
+        var english_dict = await eng_dictionary.json();
+
+
+        console.log(english_dict[(EngSpan[random_no].English)]);
+
+
+
+
+         // console.log(english_dict);
+        console.log(english_dict[0].meanings[0].partOfSpeech); 
+        // console.log(english_dict[0].phonetic); // Phonetics
+        console.log(english_dict[0].meanings[0].definitions[0].definition); // Definition and meaning
+
+
+
+
+         <div id="mainBody">
+        <div id="mainBody_container">
+            <br id="para_desktop">   
+            <br id="para_desktop">    
+            <br id="para_mobile">   
+            <br id="para_mobile">                   
+           <a class="uk-text-lead" id="questionTotranslate" href="#modal-example" uk-toggle></a>
+        </div><!--End of mainBody_container-->      
+        <div class="uk-position-center" id="containerforCHOICES">                       
+            <div id="choices1">               
+                <div class="uk-margin uk-grid-small uk-child-width-auto uk-grid">
+                    <label><input class="uk-radio" type="radio" name="radio2" ><span id="choice1"></span></label>
+                    <label><input class="uk-radio" type="radio" name="radio2" ><span id="choice2"></span></label>     
+                </div>
+            </div><!--End of choices1-->
+            <div id="choices2">                
+                <div class="uk-margin uk-grid-small uk-child-width-auto uk-grid">
+                    <label><input class="uk-radio" type="radio" name="radio2"><span id="choice3"></span></label>
+                    <label><input class="uk-radio" type="radio" name="radio2"><span id="choice4"></span></label>     
+                </div>
+                <br>                
+                <button class="uk-button uk-button-primary uk-width-1-1 uk-margin-small-bottom" id="btnSubmit" onclick="getAnswer()">Submit</button>                                   
+            </div><!--End of choices2-->         
+        </div><!--containerforCHOICES--> 
+    </div><!--End of mainBody-->

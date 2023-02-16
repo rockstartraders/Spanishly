@@ -1,0 +1,7955 @@
+[
+ 
+    {
+     "spanish_noun": " el tiempo",
+     "english_noun": "time"
+    },
+    {
+     "spanish_noun": " el año",
+     "english_noun": "year"
+    },
+    {
+     "spanish_noun": " la cosa",
+     "english_noun": "thing"
+    },
+    {
+     "spanish_noun": " el camino",
+     "english_noun": "way"
+    },
+    {
+     "spanish_noun": " el día",
+     "english_noun": "day"
+    },
+    {
+     "spanish_noun": " el hombre",
+     "english_noun": "man"
+    },
+    {
+     "spanish_noun": " el estado",
+     "english_noun": "state"
+    },
+    {
+     "spanish_noun": " el lote",
+     "english_noun": "lot"
+    },
+    {
+     "spanish_noun": " la mujer",
+     "english_noun": "woman"
+    },
+    {
+     "spanish_noun": " el país",
+     "english_noun": "country"
+    },
+    {
+     "spanish_noun": " la vida",
+     "english_noun": "life"
+    },
+    {
+     "spanish_noun": " la cuestión",
+     "english_noun": "question"
+    },
+    {
+     "spanish_noun": " el presidente",
+     "english_noun": "president"
+    },
+    {
+     "spanish_noun": " el niño",
+     "english_noun": "child"
+    },
+    {
+     "spanish_noun": " la semana",
+     "english_noun": "week"
+    },
+    {
+     "spanish_noun": " el mundo",
+     "english_noun": "world"
+    },
+    {
+     "spanish_noun": " el tipo",
+     "english_noun": "kind"
+    },
+    {
+     "spanish_noun": " el caso",
+     "english_noun": "case"
+    },
+    {
+     "spanish_noun": " el problema",
+     "english_noun": "problem"
+    },
+    {
+     "spanish_noun": " el hecho",
+     "english_noun": "fact"
+    },
+    {
+     "spanish_noun": " la familia",
+     "english_noun": "family"
+    },
+    {
+     "spanish_noun": " la historia",
+     "english_noun": "story"
+    },
+    {
+     "spanish_noun": " el punto",
+     "english_noun": "point"
+    },
+    {
+     "spanish_noun": " el gobierno",
+     "english_noun": "government"
+    },
+    {
+     "spanish_noun": " el dinero",
+     "english_noun": "money"
+    },
+    {
+     "spanish_noun": " la cuestión",
+     "english_noun": "issue"
+    },
+    {
+     "spanish_noun": " la parte",
+     "english_noun": "part"
+    },
+    {
+     "spanish_noun": " la mañana",
+     "english_noun": "morning"
+    },
+    {
+     "spanish_noun": " el chico",
+     "english_noun": "guy"
+    },
+    {
+     "spanish_noun": " el número",
+     "english_noun": "number"
+    },
+    {
+     "spanish_noun": " el trabajo",
+     "english_noun": "job"
+    },
+    {
+     "spanish_noun": " la noche",
+     "english_noun": "night"
+    },
+    {
+     "spanish_noun": " el derecho",
+     "english_noun": "right"
+    },
+    {
+     "spanish_noun": " la escuela",
+     "english_noun": "school"
+    },
+    {
+     "spanish_noun": " el lugar",
+     "english_noun": "place"
+    },
+    {
+     "spanish_noun": " la guerra",
+     "english_noun": "war"
+    },
+    {
+     "spanish_noun": " el niño",
+     "english_noun": "kid"
+    },
+    {
+     "spanish_noun": " el mes",
+     "english_noun": "month"
+    },
+    {
+     "spanish_noun": " el libro",
+     "english_noun": "book"
+    },
+    {
+     "spanish_noun": " la hora",
+     "english_noun": "hour"
+    },
+    {
+     "spanish_noun": " el show",
+     "english_noun": "show"
+    },
+    {
+     "spanish_noun": " la policía",
+     "english_noun": "police"
+    },
+    {
+     "spanish_noun": " el programa",
+     "english_noun": "program"
+    },
+    {
+     "spanish_noun": " el partido",
+     "english_noun": "party"
+    },
+    {
+     "spanish_noun": " la ley",
+     "english_noun": "law"
+    },
+    {
+     "spanish_noun": " la palabra",
+     "english_noun": "word"
+    },
+    {
+     "spanish_noun": " la persona",
+     "english_noun": "person"
+    },
+    {
+     "spanish_noun": " el hogar",
+     "english_noun": "home"
+    },
+    {
+     "spanish_noun": " el negocio",
+     "english_noun": "business"
+    },
+    {
+     "spanish_noun": " el amigo",
+     "english_noun": "friend"
+    },
+    {
+     "spanish_noun": " la empresa",
+     "english_noun": "company"
+    },
+    {
+     "spanish_noun": " el lado",
+     "english_noun": "side"
+    },
+    {
+     "spanish_noun": " el impuesto",
+     "english_noun": "tax"
+    },
+    {
+     "spanish_noun": " el demócrata",
+     "english_noun": "democrat"
+    },
+    {
+     "spanish_noun": " el grupo",
+     "english_noun": "group"
+    },
+    {
+     "spanish_noun": " el momento",
+     "english_noun": "moment"
+    },
+    {
+     "spanish_noun": " la ruptura",
+     "english_noun": "break"
+    },
+    {
+     "spanish_noun": " la idea",
+     "english_noun": "idea"
+    },
+    {
+     "spanish_noun": " el miembro",
+     "english_noun": "member"
+    },
+    {
+     "spanish_noun": " el sistema de",
+     "english_noun": "system"
+    },
+    {
+     "spanish_noun": " el minuto",
+     "english_noun": "minute"
+    },
+    {
+     "spanish_noun": " la razón",
+     "english_noun": "reason"
+    },
+    {
+     "spanish_noun": " la campaña",
+     "english_noun": "campaign"
+    },
+    {
+     "spanish_noun": " la obra",
+     "english_noun": "work"
+    },
+    {
+     "spanish_noun": " la nación",
+     "english_noun": "nation"
+    },
+    {
+     "spanish_noun": " el congreso",
+     "english_noun": "congress"
+    },
+    {
+     "spanish_noun": " la madre",
+     "english_noun": "mother"
+    },
+    {
+     "spanish_noun": " la fuerza",
+     "english_noun": "force"
+    },
+    {
+     "spanish_noun": " la salud",
+     "english_noun": "health"
+    },
+    {
+     "spanish_noun": " la parte de atrás",
+     "english_noun": "back"
+    },
+    {
+     "spanish_noun": " la zona",
+     "english_noun": "area"
+    },
+    {
+     "spanish_noun": " el nombre",
+     "english_noun": "name"
+    },
+    {
+     "spanish_noun": " el informe",
+     "english_noun": "report"
+    },
+    {
+     "spanish_noun": " la mano",
+     "english_noun": "hand"
+    },
+    {
+     "spanish_noun": " la línea",
+     "english_noun": "line"
+    },
+    {
+     "spanish_noun": " el fin",
+     "english_noun": "end"
+    },
+    {
+     "spanish_noun": " la corte",
+     "english_noun": "court"
+    },
+    {
+     "spanish_noun": " el cuidado",
+     "english_noun": "care"
+    },
+    {
+     "spanish_noun": " la pareja",
+     "english_noun": "couple"
+    },
+    {
+     "spanish_noun": " la casa",
+     "english_noun": "house"
+    },
+    {
+     "spanish_noun": " la americana",
+     "english_noun": "american"
+    },
+    {
+     "spanish_noun": " el padre",
+     "english_noun": "father"
+    },
+    {
+     "spanish_noun": " la situación",
+     "english_noun": "situation"
+    },
+    {
+     "spanish_noun": " el coche",
+     "english_noun": "car"
+    },
+    {
+     "spanish_noun": " el padre",
+     "english_noun": "parent"
+    },
+    {
+     "spanish_noun": " la administración",
+     "english_noun": "administration"
+    },
+    {
+     "spanish_noun": " la droga",
+     "english_noun": "drug"
+    },
+    {
+     "spanish_noun": " la ciudad",
+     "english_noun": "city"
+    },
+    {
+     "spanish_noun": " el sentido",
+     "english_noun": "sense"
+    },
+    {
+     "spanish_noun": " la política",
+     "english_noun": "policy"
+    },
+    {
+     "spanish_noun": " la oficina",
+     "english_noun": "office"
+    },
+    {
+     "spanish_noun": " la decisión",
+     "english_noun": "decision"
+    },
+    {
+     "spanish_noun": " el poder",
+     "english_noun": "power"
+    },
+    {
+     "spanish_noun": " el plan",
+     "english_noun": "plan"
+    },
+    {
+     "spanish_noun": " el líder",
+     "english_noun": "leader"
+    },
+    {
+     "spanish_noun": " la información",
+     "english_noun": "information"
+    },
+    {
+     "spanish_noun": " la elección",
+     "english_noun": "election"
+    },
+    {
+     "spanish_noun": " la película",
+     "english_noun": "movie"
+    },
+    {
+     "spanish_noun": " la muerte",
+     "english_noun": "death"
+    },
+    {
+     "spanish_noun": " el aire",
+     "english_noun": "air"
+    },
+    {
+     "spanish_noun": " la llamada",
+     "english_noun": "call"
+    },
+    {
+     "spanish_noun": " la comunidad",
+     "english_noun": "community"
+    },
+    {
+     "spanish_noun": " la mirada",
+     "english_noun": "look"
+    },
+    {
+     "spanish_noun": " la evidencia",
+     "english_noun": "evidence"
+    },
+    {
+     "spanish_noun": " la chica",
+     "english_noun": "girl"
+    },
+    {
+     "spanish_noun": " el médico",
+     "english_noun": "doctor"
+    },
+    {
+     "spanish_noun": " el voto",
+     "english_noun": "vote"
+    },
+    {
+     "spanish_noun": " el video",
+     "english_noun": "video"
+    },
+    {
+     "spanish_noun": " la imagen",
+     "english_noun": "picture"
+    },
+    {
+     "spanish_noun": " la habitación",
+     "english_noun": "room"
+    },
+    {
+     "spanish_noun": " la economía",
+     "english_noun": "economy"
+    },
+    {
+     "spanish_noun": " el teléfono",
+     "english_noun": "phone"
+    },
+    {
+     "spanish_noun": " la historia",
+     "english_noun": "history"
+    },
+    {
+     "spanish_noun": " el tipo",
+     "english_noun": "sort"
+    },
+    {
+     "spanish_noun": " el niño",
+     "english_noun": "boy"
+    },
+    {
+     "spanish_noun": " el crimen",
+     "english_noun": "crime"
+    },
+    {
+     "spanish_noun": " el proceso de",
+     "english_noun": "process"
+    },
+    {
+     "spanish_noun": " la esposa",
+     "english_noun": "wife"
+    },
+    {
+     "spanish_noun": " la música",
+     "english_noun": "music"
+    },
+    {
+     "spanish_noun": " el agua",
+     "english_noun": "water"
+    },
+    {
+     "spanish_noun": " el servicio",
+     "english_noun": "service"
+    },
+    {
+     "spanish_noun": " el registro",
+     "english_noun": "record"
+    },
+    {
+     "spanish_noun": " la seguridad",
+     "english_noun": "security"
+    },
+    {
+     "spanish_noun": " la charla",
+     "english_noun": "talk"
+    },
+    {
+     "spanish_noun": " la mente",
+     "english_noun": "mind"
+    },
+    {
+     "spanish_noun": " la cabeza",
+     "english_noun": "head"
+    },
+    {
+     "spanish_noun": " el candidato",
+     "english_noun": "candidate"
+    },
+    {
+     "spanish_noun": " el funcionario",
+     "english_noun": "official"
+    },
+    {
+     "spanish_noun": " la cámara",
+     "english_noun": "camera"
+    },
+    {
+     "spanish_noun": " el estudiante",
+     "english_noun": "student"
+    },
+    {
+     "spanish_noun": " el ataque",
+     "english_noun": "attack"
+    },
+    {
+     "spanish_noun": " la oportunidad",
+     "english_noun": "chance"
+    },
+    {
+     "spanish_noun": " el juego",
+     "english_noun": "game"
+    },
+    {
+     "spanish_noun": " el bebé",
+     "english_noun": "baby"
+    },
+    {
+     "spanish_noun": " el sur",
+     "english_noun": "south"
+    },
+    {
+     "spanish_noun": " cambio",
+     "english_noun": "change"
+    },
+    {
+     "spanish_noun": " el juicio",
+     "english_noun": "trial"
+    },
+    {
+     "spanish_noun": " el cuerpo",
+     "english_noun": "body"
+    },
+    {
+     "spanish_noun": " el mercado",
+     "english_noun": "market"
+    },
+    {
+     "spanish_noun": " las cosas",
+     "english_noun": "stuff"
+    },
+    {
+     "spanish_noun": " el interés",
+     "english_noun": "interest"
+    },
+    {
+     "spanish_noun": " el arma",
+     "english_noun": "weapon"
+    },
+    {
+     "spanish_noun": " el corazón",
+     "english_noun": "heart"
+    },
+    {
+     "spanish_noun": " el hijo",
+     "english_noun": "son"
+    },
+    {
+     "spanish_noun": " el equipo",
+     "english_noun": "team"
+    },
+    {
+     "spanish_noun": " la ciudad",
+     "english_noun": "town"
+    },
+    {
+     "spanish_noun": " la televisión",
+     "english_noun": "television"
+    },
+    {
+     "spanish_noun": " la voluntad",
+     "english_noun": "will"
+    },
+    {
+     "spanish_noun": " la tropa",
+     "english_noun": "troop"
+    },
+    {
+     "spanish_noun": " el juez",
+     "english_noun": "judge"
+    },
+    {
+     "spanish_noun": " la acción",
+     "english_noun": "action"
+    },
+    {
+     "spanish_noun": " la respuesta",
+     "english_noun": "answer"
+    },
+    {
+     "spanish_noun": " la posición",
+     "english_noun": "position"
+    },
+    {
+     "spanish_noun": " la vista",
+     "english_noun": "view"
+    },
+    {
+     "spanish_noun": " la diferencia",
+     "english_noun": "difference"
+    },
+    {
+     "spanish_noun": " la comida",
+     "english_noun": "food"
+    },
+    {
+     "spanish_noun": " la hija",
+     "english_noun": "daughter"
+    },
+    {
+     "spanish_noun": " la carrera",
+     "english_noun": "race"
+    },
+    {
+     "spanish_noun": " el acuerdo",
+     "english_noun": "deal"
+    },
+    {
+     "spanish_noun": " la calle",
+     "english_noun": "street"
+    },
+    {
+     "spanish_noun": " el precio",
+     "english_noun": "price"
+    },
+    {
+     "spanish_noun": " el mensaje",
+     "english_noun": "message"
+    },
+    {
+     "spanish_noun": " el control",
+     "english_noun": "control"
+    },
+    {
+     "spanish_noun": " el debate",
+     "english_noun": "debate"
+    },
+    {
+     "spanish_noun": " el oficial",
+     "english_noun": "officer"
+    },
+    {
+     "spanish_noun": " la película",
+     "english_noun": "film"
+    },
+    {
+     "spanish_noun": " el nivel",
+     "english_noun": "level"
+    },
+    {
+     "spanish_noun": " el esfuerzo",
+     "english_noun": "effort"
+    },
+    {
+     "spanish_noun": " la relación",
+     "english_noun": "relationship"
+    },
+    {
+     "spanish_noun": " el corresponsal",
+     "english_noun": "correspondent"
+    },
+    {
+     "spanish_noun": " el terreno",
+     "english_noun": "ground"
+    },
+    {
+     "spanish_noun": " la pieza",
+     "english_noun": "piece"
+    },
+    {
+     "spanish_noun": " el marido",
+     "english_noun": "husband"
+    },
+    {
+     "spanish_noun": " el presupuesto",
+     "english_noun": "budget"
+    },
+    {
+     "spanish_noun": " el jurado",
+     "english_noun": "jury"
+    },
+    {
+     "spanish_noun": " el reportero",
+     "english_noun": "reporter"
+    },
+    {
+     "spanish_noun": " el fin de semana",
+     "english_noun": "weekend"
+    },
+    {
+     "spanish_noun": " la materia",
+     "english_noun": "matter"
+    },
+    {
+     "spanish_noun": " la edad",
+     "english_noun": "age"
+    },
+    {
+     "spanish_noun": " la pistola",
+     "english_noun": "gun"
+    },
+    {
+     "spanish_noun": " la paz",
+     "english_noun": "peace"
+    },
+    {
+     "spanish_noun": " el asesinato",
+     "english_noun": "murder"
+    },
+    {
+     "spanish_noun": " el papel",
+     "english_noun": "role"
+    },
+    {
+     "spanish_noun": " la investigación",
+     "english_noun": "investigation"
+    },
+    {
+     "spanish_noun": " la experiencia",
+     "english_noun": "experience"
+    },
+    {
+     "spanish_noun": " el hospital",
+     "english_noun": "hospital"
+    },
+    {
+     "spanish_noun": " el ojo",
+     "english_noun": "eye"
+    },
+    {
+     "spanish_noun": " el director",
+     "english_noun": "director"
+    },
+    {
+     "spanish_noun": " el futuro",
+     "english_noun": "future"
+    },
+    {
+     "spanish_noun": " la cara",
+     "english_noun": "face"
+    },
+    {
+     "spanish_noun": " el aceite",
+     "english_noun": "oil"
+    },
+    {
+     "spanish_noun": " el resultado",
+     "english_noun": "result"
+    },
+    {
+     "spanish_noun": " el público",
+     "english_noun": "public"
+    },
+    {
+     "spanish_noun": " el abogado",
+     "english_noun": "lawyer"
+    },
+    {
+     "spanish_noun": " la encuesta",
+     "english_noun": "poll"
+    },
+    {
+     "spanish_noun": " la segunda",
+     "english_noun": "second"
+    },
+    {
+     "spanish_noun": " la oportunidad",
+     "english_noun": "opportunity"
+    },
+    {
+     "spanish_noun": " la industria",
+     "english_noun": "industry"
+    },
+    {
+     "spanish_noun": " el hermano",
+     "english_noun": "brother"
+    },
+    {
+     "spanish_noun": " la declaración",
+     "english_noun": "statement"
+    },
+    {
+     "spanish_noun": " el fuego",
+     "english_noun": "fire"
+    },
+    {
+     "spanish_noun": " el amor",
+     "english_noun": "love"
+    },
+    {
+     "spanish_noun": " la tasa",
+     "english_noun": "rate"
+    },
+    {
+     "spanish_noun": " el efecto",
+     "english_noun": "effect"
+    },
+    {
+     "spanish_noun": " la canción",
+     "english_noun": "song"
+    },
+    {
+     "spanish_noun": " el evento",
+     "english_noun": "event"
+    },
+    {
+     "spanish_noun": " la carga",
+     "english_noun": "charge"
+    },
+    {
+     "spanish_noun": " el apoyo",
+     "english_noun": "support"
+    },
+    {
+     "spanish_noun": " la radio",
+     "english_noun": "radio"
+    },
+    {
+     "spanish_noun": " el edificio",
+     "english_noun": "building"
+    },
+    {
+     "spanish_noun": " el banco",
+     "english_noun": "bank"
+    },
+    {
+     "spanish_noun": " la víctima",
+     "english_noun": "victim"
+    },
+    {
+     "spanish_noun": " la puerta",
+     "english_noun": "door"
+    },
+    {
+     "spanish_noun": " la entrevista",
+     "english_noun": "interview"
+    },
+    {
+     "spanish_noun": " la escena",
+     "english_noun": "scene"
+    },
+    {
+     "spanish_noun": " el resto",
+     "english_noun": "rest"
+    },
+    {
+     "spanish_noun": " la prensa",
+     "english_noun": "press"
+    },
+    {
+     "spanish_noun": " la atención",
+     "english_noun": "attention"
+    },
+    {
+     "spanish_noun": " la elección",
+     "english_noun": "choice"
+    },
+    {
+     "spanish_noun": " el discurso",
+     "english_noun": "speech"
+    },
+    {
+     "spanish_noun": " el paciente",
+     "english_noun": "patient"
+    },
+    {
+     "spanish_noun": " la verdad",
+     "english_noun": "truth"
+    },
+    {
+     "spanish_noun": " la carretera",
+     "english_noun": "road"
+    },
+    {
+     "spanish_noun": " el término",
+     "english_noun": "term"
+    },
+    {
+     "spanish_noun": " el sitio",
+     "english_noun": "site"
+    },
+    {
+     "spanish_noun": " el trabajador",
+     "english_noun": "worker"
+    },
+    {
+     "spanish_noun": " el profesor",
+     "english_noun": "professor"
+    },
+    {
+     "spanish_noun": " la letra",
+     "english_noun": "letter"
+    },
+    {
+     "spanish_noun": " la reforma",
+     "english_noun": "reform"
+    },
+    {
+     "spanish_noun": " la preocupación",
+     "english_noun": "concern"
+    },
+    {
+     "spanish_noun": " la gente",
+     "english_noun": "folk"
+    },
+    {
+     "spanish_noun": " el sexo",
+     "english_noun": "sex"
+    },
+    {
+     "spanish_noun": " el estudio",
+     "english_noun": "study"
+    },
+    {
+     "spanish_noun": " la universidad",
+     "english_noun": "college"
+    },
+    {
+     "spanish_noun": " el votante",
+     "english_noun": "voter"
+    },
+    {
+     "spanish_noun": " la pared",
+     "english_noun": "wall"
+    },
+    {
+     "spanish_noun": " la noche",
+     "english_noun": "evening"
+    },
+    {
+     "spanish_noun": " la reunión",
+     "english_noun": "meeting"
+    },
+    {
+     "spanish_noun": " la voz",
+     "english_noun": "voice"
+    },
+    {
+     "spanish_noun": " la audiencia",
+     "english_noun": "audience"
+    },
+    {
+     "spanish_noun": " la violencia",
+     "english_noun": "violence"
+    },
+    {
+     "spanish_noun": " la regla",
+     "english_noun": "rule"
+    },
+    {
+     "spanish_noun": " la estrella",
+     "english_noun": "star"
+    },
+    {
+     "spanish_noun": " la prueba",
+     "english_noun": "test"
+    },
+    {
+     "spanish_noun": " la educación",
+     "english_noun": "education"
+    },
+    {
+     "spanish_noun": " el problema",
+     "english_noun": "trouble"
+    },
+    {
+     "spanish_noun": " el riesgo",
+     "english_noun": "risk"
+    },
+    {
+     "spanish_noun": " la prisión",
+     "english_noun": "prison"
+    },
+    {
+     "spanish_noun": " el invitado",
+     "english_noun": "guest"
+    },
+    {
+     "spanish_noun": " la clase",
+     "english_noun": "class"
+    },
+    {
+     "spanish_noun": " la sociedad",
+     "english_noun": "society"
+    },
+    {
+     "spanish_noun": " el soldado",
+     "english_noun": "soldier"
+    },
+    {
+     "spanish_noun": " el plano",
+     "english_noun": "plane"
+    },
+    {
+     "spanish_noun": " la cantidad",
+     "english_noun": "amount"
+    },
+    {
+     "spanish_noun": " la ayuda",
+     "english_noun": "help"
+    },
+    {
+     "spanish_noun": " el costo",
+     "english_noun": "cost"
+    },
+    {
+     "spanish_noun": " la autoridad",
+     "english_noun": "authority"
+    },
+    {
+     "spanish_noun": " el pie",
+     "english_noun": "foot"
+    },
+    {
+     "spanish_noun": " el período",
+     "english_noun": "period"
+    },
+    {
+     "spanish_noun": " la sensación",
+     "english_noun": "feeling"
+    },
+    {
+     "spanish_noun": " la etapa de",
+     "english_noun": "step"
+    },
+    {
+     "spanish_noun": " causa",
+     "english_noun": "cause"
+    },
+    {
+     "spanish_noun": " la cinta",
+     "english_noun": "tape"
+    },
+    {
+     "spanish_noun": " la amenaza",
+     "english_noun": "threat"
+    },
+    {
+     "spanish_noun": " la opinión",
+     "english_noun": "opinion"
+    },
+    {
+     "spanish_noun": " la organización",
+     "english_noun": "organization"
+    },
+    {
+     "spanish_noun": " el tipo de",
+     "english_noun": "type"
+    },
+    {
+     "spanish_noun": " la conversación",
+     "english_noun": "conversation"
+    },
+    {
+     "spanish_noun": " la enfermedad",
+     "english_noun": "disease"
+    },
+    {
+     "spanish_noun": " la operación",
+     "english_noun": "operation"
+    },
+    {
+     "spanish_noun": " el cáncer",
+     "english_noun": "cancer"
+    },
+    {
+     "spanish_noun": " la revista",
+     "english_noun": "magazine"
+    },
+    {
+     "spanish_noun": " el gobernador",
+     "english_noun": "governor"
+    },
+    {
+     "spanish_noun": " la presión",
+     "english_noun": "pressure"
+    },
+    {
+     "spanish_noun": " la mayoría",
+     "english_noun": "majority"
+    },
+    {
+     "spanish_noun": " La investigación",
+     "english_noun": "research"
+    },
+    {
+     "spanish_noun": " el carácter",
+     "english_noun": "character"
+    },
+    {
+     "spanish_noun": " la estación",
+     "english_noun": "station"
+    },
+    {
+     "spanish_noun": " la crisis",
+     "english_noun": "crisis"
+    },
+    {
+     "spanish_noun": " el experto",
+     "english_noun": "expert"
+    },
+    {
+     "spanish_noun": " la sangre",
+     "english_noun": "blood"
+    },
+    {
+     "spanish_noun": " el presidente",
+     "english_noun": "chairman"
+    },
+    {
+     "spanish_noun": " el argumento",
+     "english_noun": "argument"
+    },
+    {
+     "spanish_noun": " la lista",
+     "english_noun": "list"
+    },
+    {
+     "spanish_noun": " el perro",
+     "english_noun": "dog"
+    },
+    {
+     "spanish_noun": " el ordenador",
+     "english_noun": "computer"
+    },
+    {
+     "spanish_noun": " el principio",
+     "english_noun": "beginning"
+    },
+    {
+     "spanish_noun": " el seguro",
+     "english_noun": "insurance"
+    },
+    {
+     "spanish_noun": " el campo",
+     "english_noun": "field"
+    },
+    {
+     "spanish_noun": " la hermana",
+     "english_noun": "sister"
+    },
+    {
+     "spanish_noun": " el error",
+     "english_noun": "mistake"
+    },
+    {
+     "spanish_noun": " el jugador",
+     "english_noun": "player"
+    },
+    {
+     "spanish_noun": " la energía",
+     "english_noun": "energy"
+    },
+    {
+     "spanish_noun": " el documento",
+     "english_noun": "paper"
+    },
+    {
+     "spanish_noun": " el espacio",
+     "english_noun": "space"
+    },
+    {
+     "spanish_noun": " la tienda",
+     "english_noun": "store"
+    },
+    {
+     "spanish_noun": " el acuerdo",
+     "english_noun": "agreement"
+    },
+    {
+     "spanish_noun": " la responsabilidad",
+     "english_noun": "responsibility"
+    },
+    {
+     "spanish_noun": " la dama",
+     "english_noun": "lady"
+    },
+    {
+     "spanish_noun": " el orden",
+     "english_noun": "order"
+    },
+    {
+     "spanish_noun": " el verano",
+     "english_noun": "summer"
+    },
+    {
+     "spanish_noun": " el producto",
+     "english_noun": "product"
+    },
+    {
+     "spanish_noun": " el valor",
+     "english_noun": "value"
+    },
+    {
+     "spanish_noun": " la acción",
+     "english_noun": "stock"
+    },
+    {
+     "spanish_noun": " la inteligencia",
+     "english_noun": "intelligence"
+    },
+    {
+     "spanish_noun": " el profesor",
+     "english_noun": "teacher"
+    },
+    {
+     "spanish_noun": " la agencia",
+     "english_noun": "agency"
+    },
+    {
+     "spanish_noun": " el comercio",
+     "english_noun": "trade"
+    },
+    {
+     "spanish_noun": " la conferencia",
+     "english_noun": "conference"
+    },
+    {
+     "spanish_noun": " la célula",
+     "english_noun": "cell"
+    },
+    {
+     "spanish_noun": " la iglesia",
+     "english_noun": "church"
+    },
+    {
+     "spanish_noun": " el comentario",
+     "english_noun": "comment"
+    },
+    {
+     "spanish_noun": " la fuente",
+     "english_noun": "source"
+    },
+    {
+     "spanish_noun": " el pasado",
+     "english_noun": "past"
+    },
+    {
+     "spanish_noun": " el corte",
+     "english_noun": "cut"
+    },
+    {
+     "spanish_noun": " el pensamiento",
+     "english_noun": "thought"
+    },
+    {
+     "spanish_noun": " el crédito",
+     "english_noun": "credit"
+    },
+    {
+     "spanish_noun": " la esperanza",
+     "english_noun": "hope"
+    },
+    {
+     "spanish_noun": " el signo",
+     "english_noun": "sign"
+    },
+    {
+     "spanish_noun": " la carrera",
+     "english_noun": "career"
+    },
+    {
+     "spanish_noun": " el matrimonio",
+     "english_noun": "marriage"
+    },
+    {
+     "spanish_noun": " la condición",
+     "english_noun": "condition"
+    },
+    {
+     "spanish_noun": " el testigo",
+     "english_noun": "witness"
+    },
+    {
+     "spanish_noun": " la tecnología",
+     "english_noun": "technology"
+    },
+    {
+     "spanish_noun": " la etapa de",
+     "english_noun": "stage"
+    },
+    {
+     "spanish_noun": " el personal",
+     "english_noun": "staff"
+    },
+    {
+     "spanish_noun": " el brazo",
+     "english_noun": "arm"
+    },
+    {
+     "spanish_noun": " la misión",
+     "english_noun": "mission"
+    },
+    {
+     "spanish_noun": " el arte",
+     "english_noun": "art"
+    },
+    {
+     "spanish_noun": " el actor",
+     "english_noun": "actor"
+    },
+    {
+     "spanish_noun": " la batalla",
+     "english_noun": "battle"
+    },
+    {
+     "spanish_noun": " la parte superior",
+     "english_noun": "top"
+    },
+    {
+     "spanish_noun": " el ciudadano",
+     "english_noun": "citizen"
+    },
+    {
+     "spanish_noun": " el autor",
+     "english_noun": "author"
+    },
+    {
+     "spanish_noun": " la reacción",
+     "english_noun": "reaction"
+    },
+    {
+     "spanish_noun": " el caballero",
+     "english_noun": "gentleman"
+    },
+    {
+     "spanish_noun": " el liderazgo",
+     "english_noun": "leadership"
+    },
+    {
+     "spanish_noun": " el miedo",
+     "english_noun": "fear"
+    },
+    {
+     "spanish_noun": " el ejemplo",
+     "english_noun": "example"
+    },
+    {
+     "spanish_noun": " el idioma",
+     "english_noun": "language"
+    },
+    {
+     "spanish_noun": " la necesidad",
+     "english_noun": "need"
+    },
+    {
+     "spanish_noun": " la justicia",
+     "english_noun": "justice"
+    },
+    {
+     "spanish_noun": " la discusión",
+     "english_noun": "discussion"
+    },
+    {
+     "spanish_noun": " la frontera",
+     "english_noun": "border"
+    },
+    {
+     "spanish_noun": " el animal",
+     "english_noun": "animal"
+    },
+    {
+     "spanish_noun": " el detalle",
+     "english_noun": "detail"
+    },
+    {
+     "spanish_noun": " la respuesta",
+     "english_noun": "response"
+    },
+    {
+     "spanish_noun": " la red",
+     "english_noun": "network"
+    },
+    {
+     "spanish_noun": " el movimiento",
+     "english_noun": "movement"
+    },
+    {
+     "spanish_noun": " el uso",
+     "english_noun": "use"
+    },
+    {
+     "spanish_noun": " el macho",
+     "english_noun": "male"
+    },
+    {
+     "spanish_noun": " la capital",
+     "english_noun": "capital"
+    },
+    {
+     "spanish_noun": " la audiencia",
+     "english_noun": "hearing"
+    },
+    {
+     "spanish_noun": " la norma",
+     "english_noun": "standard"
+    },
+    {
+     "spanish_noun": " el beneficio",
+     "english_noun": "benefit"
+    },
+    {
+     "spanish_noun": " la tabla",
+     "english_noun": "plank"
+    },
+    {
+     "spanish_noun": " el tratamiento",
+     "english_noun": "treatment"
+    },
+    {
+     "spanish_noun": " el agente",
+     "english_noun": "agent"
+    },
+    {
+     "spanish_noun": " la tarjeta",
+     "english_noun": "card"
+    },
+    {
+     "spanish_noun": " el disparo",
+     "english_noun": "shot"
+    },
+    {
+     "spanish_noun": " el tablero",
+     "english_noun": "board"
+    },
+    {
+     "spanish_noun": " la realidad",
+     "english_noun": "reality"
+    },
+    {
+     "spanish_noun": " el señor",
+     "english_noun": "sir"
+    },
+    {
+     "spanish_noun": " la tierra",
+     "english_noun": "land"
+    },
+    {
+     "spanish_noun": " el proyecto",
+     "english_noun": "project"
+    },
+    {
+     "spanish_noun": " la luz",
+     "english_noun": "light"
+    },
+    {
+     "spanish_noun": " la imagen",
+     "english_noun": "image"
+    },
+    {
+     "spanish_noun": " el siglo",
+     "english_noun": "century"
+    },
+    {
+     "spanish_noun": " la página",
+     "english_noun": "page"
+    },
+    {
+     "spanish_noun": " el éxito",
+     "english_noun": "success"
+    },
+    {
+     "spanish_noun": " el sonido",
+     "english_noun": "sound"
+    },
+    {
+     "spanish_noun": " el impacto",
+     "english_noun": "impact"
+    },
+    {
+     "spanish_noun": " el dolor",
+     "english_noun": "pain"
+    },
+    {
+     "spanish_noun": " la temporada",
+     "english_noun": "season"
+    },
+    {
+     "spanish_noun": " el individuo",
+     "english_noun": "individual"
+    },
+    {
+     "spanish_noun": " el deporte",
+     "english_noun": "sport"
+    },
+    {
+     "spanish_noun": " el estudio",
+     "english_noun": "studio"
+    },
+    {
+     "spanish_noun": " la década",
+     "english_noun": "decade"
+    },
+    {
+     "spanish_noun": " el desafío",
+     "english_noun": "challenge"
+    },
+    {
+     "spanish_noun": " el sueño",
+     "english_noun": "dream"
+    },
+    {
+     "spanish_noun": " el periódico",
+     "english_noun": "newspaper"
+    },
+    {
+     "spanish_noun": " el piso",
+     "english_noun": "floor"
+    },
+    {
+     "spanish_noun": " la lucha",
+     "english_noun": "fight"
+    },
+    {
+     "spanish_noun": " la seguridad",
+     "english_noun": "safety"
+    },
+    {
+     "spanish_noun": " el acto",
+     "english_noun": "act"
+    },
+    {
+     "spanish_noun": " el viaje",
+     "english_noun": "trip"
+    },
+    {
+     "spanish_noun": " el curso",
+     "english_noun": "course"
+    },
+    {
+     "spanish_noun": " la posibilidad",
+     "english_noun": "possibility"
+    },
+    {
+     "spanish_noun": " la libertad",
+     "english_noun": "freedom"
+    },
+    {
+     "spanish_noun": " el fondo",
+     "english_noun": "fund"
+    },
+    {
+     "spanish_noun": " el asiento",
+     "english_noun": "seat"
+    },
+    {
+     "spanish_noun": " la bomba",
+     "english_noun": "bomb"
+    },
+    {
+     "spanish_noun": " la forma",
+     "english_noun": "form"
+    },
+    {
+     "spanish_noun": " el ejecutivo",
+     "english_noun": "executive"
+    },
+    {
+     "spanish_noun": " el ministro",
+     "english_noun": "minister"
+    },
+    {
+     "spanish_noun": " el déficit",
+     "english_noun": "deficit"
+    },
+    {
+     "spanish_noun": " el desarrollo",
+     "english_noun": "development"
+    },
+    {
+     "spanish_noun": " el vuelo",
+     "english_noun": "flight"
+    },
+    {
+     "spanish_noun": " el secretario",
+     "english_noun": "secretary"
+    },
+    {
+     "spanish_noun": " el comité",
+     "english_noun": "committee"
+    },
+    {
+     "spanish_noun": " el consumidor",
+     "english_noun": "consumer"
+    },
+    {
+     "spanish_noun": " la roca",
+     "english_noun": "rock"
+    },
+    {
+     "spanish_noun": " la figura",
+     "english_noun": "figure"
+    },
+    {
+     "spanish_noun": " el sujeto",
+     "english_noun": "subject"
+    },
+    {
+     "spanish_noun": " la cultura",
+     "english_noun": "culture"
+    },
+    {
+     "spanish_noun": " el cabello",
+     "english_noun": "hair"
+    },
+    {
+     "spanish_noun": " la cobertura",
+     "english_noun": "coverage"
+    },
+    {
+     "spanish_noun": " la pérdida",
+     "english_noun": "loss"
+    },
+    {
+     "spanish_noun": " el papá",
+     "english_noun": "dad"
+    },
+    {
+     "spanish_noun": " la nota",
+     "english_noun": "note"
+    },
+    {
+     "spanish_noun": " la actividad",
+     "english_noun": "activity"
+    },
+    {
+     "spanish_noun": " el objetivo",
+     "english_noun": "goal"
+    },
+    {
+     "spanish_noun": " la opción",
+     "english_noun": "option"
+    },
+    {
+     "spanish_noun": " el gas",
+     "english_noun": "gas"
+    },
+    {
+     "spanish_noun": " la región",
+     "english_noun": "region"
+    },
+    {
+     "spanish_noun": " la población",
+     "english_noun": "population"
+    },
+    {
+     "spanish_noun": " la capacidad",
+     "english_noun": "ability"
+    },
+    {
+     "spanish_noun": " la resolución",
+     "english_noun": "resolution"
+    },
+    {
+     "spanish_noun": " el empleado",
+     "english_noun": "employee"
+    },
+    {
+     "spanish_noun": " el cerebro",
+     "english_noun": "brain"
+    },
+    {
+     "spanish_noun": " el político",
+     "english_noun": "politician"
+    },
+    {
+     "spanish_noun": " el centro",
+     "english_noun": "middle"
+    },
+    {
+     "spanish_noun": " la tormenta",
+     "english_noun": "storm"
+    },
+    {
+     "spanish_noun": " la generación",
+     "english_noun": "generation"
+    },
+    {
+     "spanish_noun": " el crítico",
+     "english_noun": "critic"
+    },
+    {
+     "spanish_noun": " el ventilador",
+     "english_noun": "fan"
+    },
+    {
+     "spanish_noun": " el científico",
+     "english_noun": "scientist"
+    },
+    {
+     "spanish_noun": " el objetivo",
+     "english_noun": "target"
+    },
+    {
+     "spanish_noun": " el campamento",
+     "english_noun": "camp"
+    },
+    {
+     "spanish_noun": " la tarde",
+     "english_noun": "afternoon"
+    },
+    {
+     "spanish_noun": " la dirección",
+     "english_noun": "direction"
+    },
+    {
+     "spanish_noun": " la ciencia",
+     "english_noun": "science"
+    },
+    {
+     "spanish_noun": " el periodista",
+     "english_noun": "journalist"
+    },
+    {
+     "spanish_noun": " el grado",
+     "english_noun": "degree"
+    },
+    {
+     "spanish_noun": " el asunto",
+     "english_noun": "affair"
+    },
+    {
+     "spanish_noun": " el daño",
+     "english_noun": "damage"
+    },
+    {
+     "spanish_noun": " la estrategia",
+     "english_noun": "strategy"
+    },
+    {
+     "spanish_noun": " el factor",
+     "english_noun": "factor"
+    },
+    {
+     "spanish_noun": " la planta",
+     "english_noun": "plant"
+    },
+    {
+     "spanish_noun": " la democracia",
+     "english_noun": "democracy"
+    },
+    {
+     "spanish_noun": " la duda",
+     "english_noun": "doubt"
+    },
+    {
+     "spanish_noun": " la solución",
+     "english_noun": "solution"
+    },
+    {
+     "spanish_noun": " el gasto",
+     "english_noun": "spending"
+    },
+    {
+     "spanish_noun": " la formación",
+     "english_noun": "training"
+    },
+    {
+     "spanish_noun": " el abuso",
+     "english_noun": "abuse"
+    },
+    {
+     "spanish_noun": " el peligro",
+     "english_noun": "danger"
+    },
+    {
+     "spanish_noun": " el medio ambiente",
+     "english_noun": "environment"
+    },
+    {
+     "spanish_noun": " la memoria",
+     "english_noun": "memory"
+    },
+    {
+     "spanish_noun": " la naturaleza",
+     "english_noun": "nature"
+    },
+    {
+     "spanish_noun": " el material",
+     "english_noun": "material"
+    },
+    {
+     "spanish_noun": " el documento",
+     "english_noun": "document"
+    },
+    {
+     "spanish_noun": " los ingresos",
+     "english_noun": "income"
+    },
+    {
+     "spanish_noun": " el analista",
+     "english_noun": "analyst"
+    },
+    {
+     "spanish_noun": " el juego",
+     "english_noun": "play"
+    },
+    {
+     "spanish_noun": " la guardia",
+     "english_noun": "guard"
+    },
+    {
+     "spanish_noun": " el hotel",
+     "english_noun": "hotel"
+    },
+    {
+     "spanish_noun": " el editor",
+     "english_noun": "editor"
+    },
+    {
+     "spanish_noun": " el misil",
+     "english_noun": "missile"
+    },
+    {
+     "spanish_noun": " el accidente",
+     "english_noun": "accident"
+    },
+    {
+     "spanish_noun": " el propósito",
+     "english_noun": "purpose"
+    },
+    {
+     "spanish_noun": " el escritor",
+     "english_noun": "writer"
+    },
+    {
+     "spanish_noun": " la emergencia",
+     "english_noun": "emergency"
+    },
+    {
+     "spanish_noun": " el crecimiento",
+     "english_noun": "growth"
+    },
+    {
+     "spanish_noun": " la cama",
+     "english_noun": "bed"
+    },
+    {
+     "spanish_noun": " el bienestar",
+     "english_noun": "welfare"
+    },
+    {
+     "spanish_noun": " el adulto",
+     "english_noun": "adult"
+    },
+    {
+     "spanish_noun": " la fe",
+     "english_noun": "faith"
+    },
+    {
+     "spanish_noun": " la propuesta",
+     "english_noun": "proposal"
+    },
+    {
+     "spanish_noun": " el modelo",
+     "english_noun": "model"
+    },
+    {
+     "spanish_noun": " el ejército",
+     "english_noun": "army"
+    },
+    {
+     "spanish_noun": " el incidente",
+     "english_noun": "incident"
+    },
+    {
+     "spanish_noun": " la caja",
+     "english_noun": "box"
+    },
+    {
+     "spanish_noun": " la multitud",
+     "english_noun": "crowd"
+    },
+    {
+     "spanish_noun": " el respeto",
+     "english_noun": "respect"
+    },
+    {
+     "spanish_noun": " el departamento",
+     "english_noun": "department"
+    },
+    {
+     "spanish_noun": " el acceso",
+     "english_noun": "access"
+    },
+    {
+     "spanish_noun": " la fecha",
+     "english_noun": "date"
+    },
+    {
+     "spanish_noun": " el jefe",
+     "english_noun": "chief"
+    },
+    {
+     "spanish_noun": " el clima",
+     "english_noun": "weather"
+    },
+    {
+     "spanish_noun": " el aeropuerto",
+     "english_noun": "airport"
+    },
+    {
+     "spanish_noun": " la máquina",
+     "english_noun": "machine"
+    },
+    {
+     "spanish_noun": " la ventana",
+     "english_noun": "window"
+    },
+    {
+     "spanish_noun": " el orden del día",
+     "english_noun": "agenda"
+    },
+    {
+     "spanish_noun": " el consejo",
+     "english_noun": "advice"
+    },
+    {
+     "spanish_noun": " la fiscalía",
+     "english_noun": "prosecution"
+    },
+    {
+     "spanish_noun": " el conflicto",
+     "english_noun": "conflict"
+    },
+    {
+     "spanish_noun": " la caída",
+     "english_noun": "fall"
+    },
+    {
+     "spanish_noun": " el piloto",
+     "english_noun": "pilot"
+    },
+    {
+     "spanish_noun": " la práctica",
+     "english_noun": "practice"
+    },
+    {
+     "spanish_noun": " la pista",
+     "english_noun": "track"
+    },
+    {
+     "spanish_noun": " el propietario",
+     "english_noun": "owner"
+    },
+    {
+     "spanish_noun": " el aumento",
+     "english_noun": "increase"
+    },
+    {
+     "spanish_noun": " la legislación",
+     "english_noun": "legislation"
+    },
+    {
+     "spanish_noun": " el árbol",
+     "english_noun": "tree"
+    },
+    {
+     "spanish_noun": " la deuda",
+     "english_noun": "debt"
+    },
+    {
+     "spanish_noun": " el enemigo",
+     "english_noun": "enemy"
+    },
+    {
+     "spanish_noun": " el camión",
+     "english_noun": "truck"
+    },
+    {
+     "spanish_noun": " el plomo",
+     "english_noun": "lead"
+    },
+    {
+     "spanish_noun": " la convención",
+     "english_noun": "convention"
+    },
+    {
+     "spanish_noun": " la ayuda",
+     "english_noun": "aid"
+    },
+    {
+     "spanish_noun": " el suicidio",
+     "english_noun": "suicide"
+    },
+    {
+     "spanish_noun": " la calidad",
+     "english_noun": "quality"
+    },
+    {
+     "spanish_noun": " la conservadora",
+     "english_noun": "conservative"
+    },
+    {
+     "spanish_noun": " el tamaño",
+     "english_noun": "size"
+    },
+    {
+     "spanish_noun": " la cuenta",
+     "english_noun": "account"
+    },
+    {
+     "spanish_noun": " el placer",
+     "english_noun": "pleasure"
+    },
+    {
+     "spanish_noun": " la institución",
+     "english_noun": "institution"
+    },
+    {
+     "spanish_noun": " la línea aérea",
+     "english_noun": "airline"
+    },
+    {
+     "spanish_noun": " el peso",
+     "english_noun": "weight"
+    },
+    {
+     "spanish_noun": " el enfoque",
+     "english_noun": "approach"
+    },
+    {
+     "spanish_noun": " la cirugía",
+     "english_noun": "surgery"
+    },
+    {
+     "spanish_noun": " las vacaciones",
+     "english_noun": "holiday"
+    },
+    {
+     "spanish_noun": " el inicio",
+     "english_noun": "start"
+    },
+    {
+     "spanish_noun": " la victoria",
+     "english_noun": "victory"
+    },
+    {
+     "spanish_noun": " el distrito",
+     "english_noun": "district"
+    },
+    {
+     "spanish_noun": " la relación",
+     "english_noun": "relation"
+    },
+    {
+     "spanish_noun": " la búsqueda",
+     "english_noun": "search"
+    },
+    {
+     "spanish_noun": " la tripulación",
+     "english_noun": "crew"
+    },
+    {
+     "spanish_noun": " el panel",
+     "english_noun": "panel"
+    },
+    {
+     "spanish_noun": " la coalición",
+     "english_noun": "coalition"
+    },
+    {
+     "spanish_noun": " el movimiento",
+     "english_noun": "move"
+    },
+    {
+     "spanish_noun": " el paquete",
+     "english_noun": "package"
+    },
+    {
+     "spanish_noun": " el cheque",
+     "english_noun": "check"
+    },
+    {
+     "spanish_noun": " la minoría",
+     "english_noun": "minority"
+    },
+    {
+     "spanish_noun": " la unidad",
+     "english_noun": "unit"
+    },
+    {
+     "spanish_noun": " la bolsa",
+     "english_noun": "bag"
+    },
+    {
+     "spanish_noun": " la sorpresa",
+     "english_noun": "surprise"
+    },
+    {
+     "spanish_noun": " el foco",
+     "english_noun": "focus"
+    },
+    {
+     "spanish_noun": " la circunstancia",
+     "english_noun": "circumstance"
+    },
+    {
+     "spanish_noun": " el productor",
+     "english_noun": "producer"
+    },
+    {
+     "spanish_noun": " la inversión",
+     "english_noun": "investment"
+    },
+    {
+     "spanish_noun": " la pelota",
+     "english_noun": "ball"
+    },
+    {
+     "spanish_noun": " el colega",
+     "english_noun": "colleague"
+    },
+    {
+     "spanish_noun": " el recurso",
+     "english_noun": "resource"
+    },
+    {
+     "spanish_noun": " la sentencia",
+     "english_noun": "judgment"
+    },
+    {
+     "spanish_noun": " el fondo",
+     "english_noun": "background"
+    },
+    {
+     "spanish_noun": " la unión",
+     "english_noun": "union"
+    },
+    {
+     "spanish_noun": " la dirección",
+     "english_noun": "address"
+    },
+    {
+     "spanish_noun": " el controlador",
+     "english_noun": "driver"
+    },
+    {
+     "spanish_noun": " el héroe",
+     "english_noun": "hero"
+    },
+    {
+     "spanish_noun": " el medicamento",
+     "english_noun": "medicine"
+    },
+    {
+     "spanish_noun": " el representante",
+     "english_noun": "representative"
+    },
+    {
+     "spanish_noun": " el vehículo",
+     "english_noun": "vehicle"
+    },
+    {
+     "spanish_noun": " el comandante",
+     "english_noun": "commander"
+    },
+    {
+     "spanish_noun": " el artista",
+     "english_noun": "artist"
+    },
+    {
+     "spanish_noun": " el alcalde",
+     "english_noun": "mayor"
+    },
+    {
+     "spanish_noun": " la carrera",
+     "english_noun": "run"
+    },
+    {
+     "spanish_noun": " el barco",
+     "english_noun": "ship"
+    },
+    {
+     "spanish_noun": " la teoría",
+     "english_noun": "theory"
+    },
+    {
+     "spanish_noun": " la pantalla",
+     "english_noun": "screen"
+    },
+    {
+     "spanish_noun": " la lección",
+     "english_noun": "lesson"
+    },
+    {
+     "spanish_noun": " el residente",
+     "english_noun": "resident"
+    },
+    {
+     "spanish_noun": " el socio",
+     "english_noun": "partner"
+    },
+    {
+     "spanish_noun": " el bar",
+     "english_noun": "bar"
+    },
+    {
+     "spanish_noun": " el billete",
+     "english_noun": "ticket"
+    },
+    {
+     "spanish_noun": " el desastre",
+     "english_noun": "disaster"
+    },
+    {
+     "spanish_noun": " el desempeño",
+     "english_noun": "performance"
+    },
+    {
+     "spanish_noun": " aficionados",
+     "english_noun": "supporter"
+    },
+    {
+     "spanish_noun": " el asesino",
+     "english_noun": "killer"
+    },
+    {
+     "spanish_noun": " la negociación",
+     "english_noun": "negotiation"
+    },
+    {
+     "spanish_noun": " el mar",
+     "english_noun": "sea"
+    },
+    {
+     "spanish_noun": " el viento",
+     "english_noun": "wind"
+    },
+    {
+     "spanish_noun": " el zapato",
+     "english_noun": "shoe"
+    },
+    {
+     "spanish_noun": " el secreto",
+     "english_noun": "secret"
+    },
+    {
+     "spanish_noun": " la tragedia",
+     "english_noun": "tragedy"
+    },
+    {
+     "spanish_noun": " el regalo",
+     "english_noun": "gift"
+    },
+    {
+     "spanish_noun": " la gira",
+     "english_noun": "tour"
+    },
+    {
+     "spanish_noun": " el gestor",
+     "english_noun": "manager"
+    },
+    {
+     "spanish_noun": " la banda",
+     "english_noun": "band"
+    },
+    {
+     "spanish_noun": " el nacimiento",
+     "english_noun": "birth"
+    },
+    {
+     "spanish_noun": " el anfitrión",
+     "english_noun": "host"
+    },
+    {
+     "spanish_noun": " el préstamo",
+     "english_noun": "loan"
+    },
+    {
+     "spanish_noun": " la alegación",
+     "english_noun": "allegation"
+    },
+    {
+     "spanish_noun": " el ganador",
+     "english_noun": "winner"
+    },
+    {
+     "spanish_noun": " la religión",
+     "english_noun": "religion"
+    },
+    {
+     "spanish_noun": " el artículo",
+     "english_noun": "article"
+    },
+    {
+     "spanish_noun": " la sesión",
+     "english_noun": "session"
+    },
+    {
+     "spanish_noun": " el ser",
+     "english_noun": "being"
+    },
+    {
+     "spanish_noun": " la medida",
+     "english_noun": "extent"
+    },
+    {
+     "spanish_noun": " el contrato",
+     "english_noun": "contract"
+    },
+    {
+     "spanish_noun": " la sentencia",
+     "english_noun": "sentence"
+    },
+    {
+     "spanish_noun": " la medida",
+     "english_noun": "measure"
+    },
+    {
+     "spanish_noun": " el diputado",
+     "english_noun": "deputy"
+    },
+    {
+     "spanish_noun": " la confianza",
+     "english_noun": "confidence"
+    },
+    {
+     "spanish_noun": " el infierno",
+     "english_noun": "hell"
+    },
+    {
+     "spanish_noun": " el alivio",
+     "english_noun": "relief"
+    },
+    {
+     "spanish_noun": " la perspectiva",
+     "english_noun": "perspective"
+    },
+    {
+     "spanish_noun": " La ventaja",
+     "english_noun": "advantage"
+    },
+    {
+     "spanish_noun": " el escándalo",
+     "english_noun": "scandal"
+    },
+    {
+     "spanish_noun": " la pierna",
+     "english_noun": "leg"
+    },
+    {
+     "spanish_noun": " el restaurante",
+     "english_noun": "restaurant"
+    },
+    {
+     "spanish_noun": " la cena",
+     "english_noun": "dinner"
+    },
+    {
+     "spanish_noun": " el cliente",
+     "english_noun": "client"
+    },
+    {
+     "spanish_noun": " el fracaso",
+     "english_noun": "failure"
+    },
+    {
+     "spanish_noun": " el trimestre",
+     "english_noun": "quarter"
+    },
+    {
+     "spanish_noun": " el elemento",
+     "english_noun": "element"
+    },
+    {
+     "spanish_noun": " la reclamación",
+     "english_noun": "claim"
+    },
+    {
+     "spanish_noun": " la propiedad",
+     "english_noun": "property"
+    },
+    {
+     "spanish_noun": " la versión",
+     "english_noun": "version"
+    },
+    {
+     "spanish_noun": " el intento",
+     "english_noun": "attempt"
+    },
+    {
+     "spanish_noun": " el autobús",
+     "english_noun": "bus"
+    },
+    {
+     "spanish_noun": " el cliente",
+     "english_noun": "customer"
+    },
+    {
+     "spanish_noun": " la apelación",
+     "english_noun": "appeal"
+    },
+    {
+     "spanish_noun": " la libra",
+     "english_noun": "pound"
+    },
+    {
+     "spanish_noun": " la protección",
+     "english_noun": "protection"
+    },
+    {
+     "spanish_noun": " el gen",
+     "english_noun": "gene"
+    },
+    {
+     "spanish_noun": " la piedra",
+     "english_noun": "stone"
+    },
+    {
+     "spanish_noun": " la oposición",
+     "english_noun": "opposition"
+    },
+    {
+     "spanish_noun": " el apartamento",
+     "english_noun": "apartment"
+    },
+    {
+     "spanish_noun": " el frente",
+     "english_noun": "front"
+    },
+    {
+     "spanish_noun": " la hembra",
+     "english_noun": "female"
+    },
+    {
+     "spanish_noun": " el prisionero",
+     "english_noun": "prisoner"
+    },
+    {
+     "spanish_noun": " el negro",
+     "english_noun": "black"
+    },
+    {
+     "spanish_noun": " la pandilla",
+     "english_noun": "gang"
+    },
+    {
+     "spanish_noun": " el principio",
+     "english_noun": "principle"
+    },
+    {
+     "spanish_noun": " el aliado",
+     "english_noun": "ally"
+    },
+    {
+     "spanish_noun": " el asesor",
+     "english_noun": "adviser"
+    },
+    {
+     "spanish_noun": " la visita",
+     "english_noun": "visit"
+    },
+    {
+     "spanish_noun": " el pájaro",
+     "english_noun": "bird"
+    },
+    {
+     "spanish_noun": " el soporte",
+     "english_noun": "stand"
+    },
+    {
+     "spanish_noun": " la comunicación",
+     "english_noun": "communication"
+    },
+    {
+     "spanish_noun": " el barco",
+     "english_noun": "boat"
+    },
+    {
+     "spanish_noun": " la conexión",
+     "english_noun": "connection"
+    },
+    {
+     "spanish_noun": " la tecla",
+     "english_noun": "key"
+    },
+    {
+     "spanish_noun": " la huelga",
+     "english_noun": "strike"
+    },
+    {
+     "spanish_noun": " la pena",
+     "english_noun": "penalty"
+    },
+    {
+     "spanish_noun": " la advertencia",
+     "english_noun": "warning"
+    },
+    {
+     "spanish_noun": " la suerte",
+     "english_noun": "luck"
+    },
+    {
+     "spanish_noun": " el ADN",
+     "english_noun": "dna"
+    },
+    {
+     "spanish_noun": " el espíritu",
+     "english_noun": "spirit"
+    },
+    {
+     "spanish_noun": " la vuelta",
+     "english_noun": "turn"
+    },
+    {
+     "spanish_noun": " la instalación",
+     "english_noun": "facility"
+    },
+    {
+     "spanish_noun": " el adolescente",
+     "english_noun": "teenager"
+    },
+    {
+     "spanish_noun": " el compromiso",
+     "english_noun": "commitment"
+    },
+    {
+     "spanish_noun": " el elemento",
+     "english_noun": "item"
+    },
+    {
+     "spanish_noun": " el procedimiento de",
+     "english_noun": "procedure"
+    },
+    {
+     "spanish_noun": " la media",
+     "english_noun": "half"
+    },
+    {
+     "spanish_noun": " el tanque",
+     "english_noun": "tank"
+    },
+    {
+     "spanish_noun": " el teléfono",
+     "english_noun": "telephone"
+    },
+    {
+     "spanish_noun": " el suministro",
+     "english_noun": "supply"
+    },
+    {
+     "spanish_noun": " la actitud",
+     "english_noun": "attitude"
+    },
+    {
+     "spanish_noun": " el bloque",
+     "english_noun": "block"
+    },
+    {
+     "spanish_noun": " el vínculo",
+     "english_noun": "bond"
+    },
+    {
+     "spanish_noun": " el estilo",
+     "english_noun": "style"
+    },
+    {
+     "spanish_noun": " el fútbol",
+     "english_noun": "football"
+    },
+    {
+     "spanish_noun": " el combustible",
+     "english_noun": "fuel"
+    },
+    {
+     "spanish_noun": " los datos",
+     "english_noun": "data"
+    },
+    {
+     "spanish_noun": " el cristal",
+     "english_noun": "glass"
+    },
+    {
+     "spanish_noun": " el traje",
+     "english_noun": "suit"
+    },
+    {
+     "spanish_noun": " la fuerza",
+     "english_noun": "strength"
+    },
+    {
+     "spanish_noun": " las críticas",
+     "english_noun": "criticism"
+    },
+    {
+     "spanish_noun": " el hielo",
+     "english_noun": "ice"
+    },
+    {
+     "spanish_noun": " el equipo",
+     "english_noun": "equipment"
+    },
+    {
+     "spanish_noun": " la promesa",
+     "english_noun": "promise"
+    },
+    {
+     "spanish_noun": " el regreso",
+     "english_noun": "return"
+    },
+    {
+     "spanish_noun": " el álbum",
+     "english_noun": "album"
+    },
+    {
+     "spanish_noun": " la producción",
+     "english_noun": "production"
+    },
+    {
+     "spanish_noun": " la esquina",
+     "english_noun": "corner"
+    },
+    {
+     "spanish_noun": " la consecuencia",
+     "english_noun": "consequence"
+    },
+    {
+     "spanish_noun": " los vivos",
+     "english_noun": "living"
+    },
+    {
+     "spanish_noun": " la lesión",
+     "english_noun": "injury"
+    },
+    {
+     "spanish_noun": " la tapa",
+     "english_noun": "cover"
+    },
+    {
+     "spanish_noun": " el punto",
+     "english_noun": "spot"
+    },
+    {
+     "spanish_noun": " la mama",
+     "english_noun": "breast"
+    },
+    {
+     "spanish_noun": " la primavera",
+     "english_noun": "spring"
+    },
+    {
+     "spanish_noun": " la controversia",
+     "english_noun": "controversy"
+    },
+    {
+     "spanish_noun": " la destrucción",
+     "english_noun": "destruction"
+    },
+    {
+     "spanish_noun": " el aspecto",
+     "english_noun": "aspect"
+    },
+    {
+     "spanish_noun": " el club",
+     "english_noun": "club"
+    },
+    {
+     "spanish_noun": " la aeronave",
+     "english_noun": "aircraft"
+    },
+    {
+     "spanish_noun": " la empresa",
+     "english_noun": "firm"
+    },
+    {
+     "spanish_noun": " el régimen",
+     "english_noun": "regime"
+    },
+    {
+     "spanish_noun": " la competencia",
+     "english_noun": "competition"
+    },
+    {
+     "spanish_noun": " el beneficio",
+     "english_noun": "profit"
+    },
+    {
+     "spanish_noun": " el conocimiento",
+     "english_noun": "knowledge"
+    },
+    {
+     "spanish_noun": " el portavoz",
+     "english_noun": "spokesman"
+    },
+    {
+     "spanish_noun": " la revisión",
+     "english_noun": "review"
+    },
+    {
+     "spanish_noun": " la comprensión",
+     "english_noun": "understanding"
+    },
+    {
+     "spanish_noun": " la recesión",
+     "english_noun": "recession"
+    },
+    {
+     "spanish_noun": " el cantante",
+     "english_noun": "singer"
+    },
+    {
+     "spanish_noun": " el pueblo",
+     "english_noun": "village"
+    },
+    {
+     "spanish_noun": " la detención",
+     "english_noun": "arrest"
+    },
+    {
+     "spanish_noun": " la nieve",
+     "english_noun": "snow"
+    },
+    {
+     "spanish_noun": " la broma",
+     "english_noun": "joke"
+    },
+    {
+     "spanish_noun": " el oro",
+     "english_noun": "gold"
+    },
+    {
+     "spanish_noun": " el contacto",
+     "english_noun": "contact"
+    },
+    {
+     "spanish_noun": " la demanda",
+     "english_noun": "demand"
+    },
+    {
+     "spanish_noun": " la tarea",
+     "english_noun": "task"
+    },
+    {
+     "spanish_noun": " el agujero",
+     "english_noun": "hole"
+    },
+    {
+     "spanish_noun": " general",
+     "english_noun": "general"
+    },
+    {
+     "spanish_noun": " la piel",
+     "english_noun": "skin"
+    },
+    {
+     "spanish_noun": " el recuento",
+     "english_noun": "count"
+    },
+    {
+     "spanish_noun": " el oponente",
+     "english_noun": "opponent"
+    },
+    {
+     "spanish_noun": " la conclusión",
+     "english_noun": "conclusion"
+    },
+    {
+     "spanish_noun": " la prioridad",
+     "english_noun": "priority"
+    },
+    {
+     "spanish_noun": " la violación",
+     "english_noun": "rape"
+    },
+    {
+     "spanish_noun": " el refugiado",
+     "english_noun": "refugee"
+    },
+    {
+     "spanish_noun": " la montaña",
+     "english_noun": "mountain"
+    },
+    {
+     "spanish_noun": " la cumbre",
+     "english_noun": "summit"
+    },
+    {
+     "spanish_noun": " la parte inferior",
+     "english_noun": "bottom"
+    },
+    {
+     "spanish_noun": " la gestión",
+     "english_noun": "management"
+    },
+    {
+     "spanish_noun": " la comisión",
+     "english_noun": "commission"
+    },
+    {
+     "spanish_noun": " la gama",
+     "english_noun": "range"
+    },
+    {
+     "spanish_noun": " el código",
+     "english_noun": "code"
+    },
+    {
+     "spanish_noun": " el dinero en efectivo",
+     "english_noun": "cash"
+    },
+    {
+     "spanish_noun": " la boca",
+     "english_noun": "mouth"
+    },
+    {
+     "spanish_noun": " la presencia",
+     "english_noun": "presence"
+    },
+    {
+     "spanish_noun": " la cuota",
+     "english_noun": "share"
+    },
+    {
+     "spanish_noun": " la moda",
+     "english_noun": "fashion"
+    },
+    {
+     "spanish_noun": " la forma",
+     "english_noun": "shape"
+    },
+    {
+     "spanish_noun": " la silla",
+     "english_noun": "chair"
+    },
+    {
+     "spanish_noun": " el dedo",
+     "english_noun": "finger"
+    },
+    {
+     "spanish_noun": " el pescado",
+     "english_noun": "fish"
+    },
+    {
+     "spanish_noun": " la edición",
+     "english_noun": "edition"
+    },
+    {
+     "spanish_noun": " el borde",
+     "english_noun": "edge"
+    },
+    {
+     "spanish_noun": " el límite",
+     "english_noun": "limit"
+    },
+    {
+     "spanish_noun": " el tren",
+     "english_noun": "train"
+    },
+    {
+     "spanish_noun": " la creencia",
+     "english_noun": "belief"
+    },
+    {
+     "spanish_noun": " el balance",
+     "english_noun": "balance"
+    },
+    {
+     "spanish_noun": " el intercambio",
+     "english_noun": "exchange"
+    },
+    {
+     "spanish_noun": " la granja",
+     "english_noun": "farm"
+    },
+    {
+     "spanish_noun": " la zona",
+     "english_noun": "zone"
+    },
+    {
+     "spanish_noun": " el pasajero",
+     "english_noun": "passenger"
+    },
+    {
+     "spanish_noun": " la mentira",
+     "english_noun": "lie"
+    },
+    {
+     "spanish_noun": " el deber",
+     "english_noun": "duty"
+    },
+    {
+     "spanish_noun": " el tráfico",
+     "english_noun": "traffic"
+    },
+    {
+     "spanish_noun": " el caballo",
+     "english_noun": "horse"
+    },
+    {
+     "spanish_noun": " la tradición",
+     "english_noun": "tradition"
+    },
+    {
+     "spanish_noun": " la recuperación",
+     "english_noun": "recovery"
+    },
+    {
+     "spanish_noun": " el inspector",
+     "english_noun": "inspector"
+    },
+    {
+     "spanish_noun": " la dificultad",
+     "english_noun": "difficulty"
+    },
+    {
+     "spanish_noun": " el archivo",
+     "english_noun": "file"
+    },
+    {
+     "spanish_noun": " el cumpleaños",
+     "english_noun": "birthday"
+    },
+    {
+     "spanish_noun": " la financiación",
+     "english_noun": "finance"
+    },
+    {
+     "spanish_noun": " el accidente",
+     "english_noun": "crash"
+    },
+    {
+     "spanish_noun": " la influencia",
+     "english_noun": "influence"
+    },
+    {
+     "spanish_noun": " la regulación",
+     "english_noun": "regulation"
+    },
+    {
+     "spanish_noun": " el análisis",
+     "english_noun": "analysis"
+    },
+    {
+     "spanish_noun": " la lucha",
+     "english_noun": "struggle"
+    },
+    {
+     "spanish_noun": " el calor",
+     "english_noun": "heat"
+    },
+    {
+     "spanish_noun": " el vestido",
+     "english_noun": "dress"
+    },
+    {
+     "spanish_noun": " la liberación",
+     "english_noun": "release"
+    },
+    {
+     "spanish_noun": " el invierno",
+     "english_noun": "winter"
+    },
+    {
+     "spanish_noun": " el virus",
+     "english_noun": "virus"
+    },
+    {
+     "spanish_noun": " el tema",
+     "english_noun": "theme"
+    },
+    {
+     "spanish_noun": " la noción",
+     "english_noun": "notion"
+    },
+    {
+     "spanish_noun": " el dispositivo",
+     "english_noun": "device"
+    },
+    {
+     "spanish_noun": " la ira",
+     "english_noun": "anger"
+    },
+    {
+     "spanish_noun": " el Inglés",
+     "english_noun": "english"
+    },
+    {
+     "spanish_noun": " la bandera",
+     "english_noun": "flag"
+    },
+    {
+     "spanish_noun": " el contexto",
+     "english_noun": "context"
+    },
+    {
+     "spanish_noun": " el ala",
+     "english_noun": "wing"
+    },
+    {
+     "spanish_noun": " los combates",
+     "english_noun": "fighting"
+    },
+    {
+     "spanish_noun": " el patrón",
+     "english_noun": "pattern"
+    },
+    {
+     "spanish_noun": " el entretenimiento",
+     "english_noun": "entertainment"
+    },
+    {
+     "spanish_noun": " la aparición",
+     "english_noun": "appearance"
+    },
+    {
+     "spanish_noun": " el ahorro",
+     "english_noun": "saving"
+    },
+    {
+     "spanish_noun": " el inversor",
+     "english_noun": "investor"
+    },
+    {
+     "spanish_noun": " el puente",
+     "english_noun": "bridge"
+    },
+    {
+     "spanish_noun": " el asentamiento",
+     "english_noun": "settlement"
+    },
+    {
+     "spanish_noun": " la lluvia",
+     "english_noun": "rain"
+    },
+    {
+     "spanish_noun": " la madera",
+     "english_noun": "wood"
+    },
+    {
+     "spanish_noun": " el correo",
+     "english_noun": "mail"
+    },
+    {
+     "spanish_noun": " el agricultor",
+     "english_noun": "farmer"
+    },
+    {
+     "spanish_noun": " el misterio",
+     "english_noun": "mystery"
+    },
+    {
+     "spanish_noun": " la oración",
+     "english_noun": "prayer"
+    },
+    {
+     "spanish_noun": " la visión",
+     "english_noun": "vision"
+    },
+    {
+     "spanish_noun": " la depresión",
+     "english_noun": "depression"
+    },
+    {
+     "spanish_noun": " la explosión",
+     "english_noun": "explosion"
+    },
+    {
+     "spanish_noun": " el acusado",
+     "english_noun": "defendant"
+    },
+    {
+     "spanish_noun": " la estructura",
+     "english_noun": "structure"
+    },
+    {
+     "spanish_noun": " la enmienda",
+     "english_noun": "amendment"
+    },
+    {
+     "spanish_noun": " el asalto",
+     "english_noun": "assault"
+    },
+    {
+     "spanish_noun": " el pensamiento",
+     "english_noun": "thinking"
+    },
+    {
+     "spanish_noun": " la terapia",
+     "english_noun": "therapy"
+    },
+    {
+     "spanish_noun": " la enfermera",
+     "english_noun": "nurse"
+    },
+    {
+     "spanish_noun": " el camino",
+     "english_noun": "path"
+    },
+    {
+     "spanish_noun": " la financiación",
+     "english_noun": "funding"
+    },
+    {
+     "spanish_noun": " la herramienta",
+     "english_noun": "tool"
+    },
+    {
+     "spanish_noun": " el título",
+     "english_noun": "title"
+    },
+    {
+     "spanish_noun": " la carcasa",
+     "english_noun": "housing"
+    },
+    {
+     "spanish_noun": " la tienda",
+     "english_noun": "shop"
+    },
+    {
+     "spanish_noun": " la queja",
+     "english_noun": "complaint"
+    },
+    {
+     "spanish_noun": " la ola",
+     "english_noun": "wave"
+    },
+    {
+     "spanish_noun": " el gato",
+     "english_noun": "cat"
+    },
+    {
+     "spanish_noun": " el mapa",
+     "english_noun": "map"
+    },
+    {
+     "spanish_noun": " el empleador",
+     "english_noun": "employer"
+    },
+    {
+     "spanish_noun": " la prueba",
+     "english_noun": "proof"
+    },
+    {
+     "spanish_noun": " la emoción",
+     "english_noun": "emotion"
+    },
+    {
+     "spanish_noun": " la habilidad",
+     "english_noun": "skill"
+    },
+    {
+     "spanish_noun": " la confianza",
+     "english_noun": "trust"
+    },
+    {
+     "spanish_noun": " el tema",
+     "english_noun": "topic"
+    },
+    {
+     "spanish_noun": " la personalidad",
+     "english_noun": "personality"
+    },
+    {
+     "spanish_noun": " la sala",
+     "english_noun": "hall"
+    },
+    {
+     "spanish_noun": " el armario",
+     "english_noun": "cabinet"
+    },
+    {
+     "spanish_noun": " el hueso",
+     "english_noun": "bone"
+    },
+    {
+     "spanish_noun": " el alma",
+     "english_noun": "soul"
+    },
+    {
+     "spanish_noun": " el pollo",
+     "english_noun": "chicken"
+    },
+    {
+     "spanish_noun": " la ubicación",
+     "english_noun": "location"
+    },
+    {
+     "spanish_noun": " la indicación",
+     "english_noun": "indication"
+    },
+    {
+     "spanish_noun": " el altavoz",
+     "english_noun": "speaker"
+    },
+    {
+     "spanish_noun": " el salario",
+     "english_noun": "wage"
+    },
+    {
+     "spanish_noun": " la era",
+     "english_noun": "era"
+    },
+    {
+     "spanish_noun": " la solicitud",
+     "english_noun": "request"
+    },
+    {
+     "spanish_noun": " el jefe",
+     "english_noun": "boss"
+    },
+    {
+     "spanish_noun": " el entrenador",
+     "english_noun": "coach"
+    },
+    {
+     "spanish_noun": " la finca",
+     "english_noun": "estate"
+    },
+    {
+     "spanish_noun": " el sector",
+     "english_noun": "sector"
+    },
+    {
+     "spanish_noun": " el huevo",
+     "english_noun": "egg"
+    },
+    {
+     "spanish_noun": " la estaca",
+     "english_noun": "stake"
+    },
+    {
+     "spanish_noun": " la parada",
+     "english_noun": "stop"
+    },
+    {
+     "spanish_noun": " el anillo",
+     "english_noun": "ring"
+    },
+    {
+     "spanish_noun": " el choque",
+     "english_noun": "shock"
+    },
+    {
+     "spanish_noun": " la contribución",
+     "english_noun": "contribution"
+    },
+    {
+     "spanish_noun": " el anuncio",
+     "english_noun": "announcement"
+    },
+    {
+     "spanish_noun": " el cigarrillo",
+     "english_noun": "cigarette"
+    },
+    {
+     "spanish_noun": " la cocina",
+     "english_noun": "kitchen"
+    },
+    {
+     "spanish_noun": " el territorio",
+     "english_noun": "territory"
+    },
+    {
+     "spanish_noun": " el comando",
+     "english_noun": "command"
+    },
+    {
+     "spanish_noun": " la isla",
+     "english_noun": "island"
+    },
+    {
+     "spanish_noun": " la protesta",
+     "english_noun": "protest"
+    },
+    {
+     "spanish_noun": " la impresión de",
+     "english_noun": "impression"
+    },
+    {
+     "spanish_noun": " el fallo",
+     "english_noun": "fault"
+    },
+    {
+     "spanish_noun": " la costa",
+     "english_noun": "coast"
+    },
+    {
+     "spanish_noun": " la lectura",
+     "english_noun": "reading"
+    },
+    {
+     "spanish_noun": " la variedad",
+     "english_noun": "variety"
+    },
+    {
+     "spanish_noun": " los ingresos",
+     "english_noun": "revenue"
+    },
+    {
+     "spanish_noun": " la campana",
+     "english_noun": "bell"
+    },
+    {
+     "spanish_noun": " el café",
+     "english_noun": "coffee"
+    },
+    {
+     "spanish_noun": " el alcohol",
+     "english_noun": "alcohol"
+    },
+    {
+     "spanish_noun": " el almuerzo",
+     "english_noun": "lunch"
+    },
+    {
+     "spanish_noun": " la expectativa",
+     "english_noun": "expectation"
+    },
+    {
+     "spanish_noun": " el grado",
+     "english_noun": "grade"
+    },
+    {
+     "spanish_noun": " la dieta",
+     "english_noun": "diet"
+    },
+    {
+     "spanish_noun": " la sección",
+     "english_noun": "section"
+    },
+    {
+     "spanish_noun": " el oído",
+     "english_noun": "ear"
+    },
+    {
+     "spanish_noun": " el cielo",
+     "english_noun": "sky"
+    },
+    {
+     "spanish_noun": " la ayuda",
+     "english_noun": "assistance"
+    },
+    {
+     "spanish_noun": " la señal",
+     "english_noun": "signal"
+    },
+    {
+     "spanish_noun": " el estrés",
+     "english_noun": "stress"
+    },
+    {
+     "spanish_noun": " la alternativa",
+     "english_noun": "alternative"
+    },
+    {
+     "spanish_noun": " el investigador",
+     "english_noun": "researcher"
+    },
+    {
+     "spanish_noun": " el cable",
+     "english_noun": "cable"
+    },
+    {
+     "spanish_noun": " la apertura",
+     "english_noun": "opening"
+    },
+    {
+     "spanish_noun": " la playa",
+     "english_noun": "beach"
+    },
+    {
+     "spanish_noun": " el voluntario",
+     "english_noun": "volunteer"
+    },
+    {
+     "spanish_noun": " la carga",
+     "english_noun": "burden"
+    },
+    {
+     "spanish_noun": " el detective",
+     "english_noun": "detective"
+    },
+    {
+     "spanish_noun": " el juguete",
+     "english_noun": "toy"
+    },
+    {
+     "spanish_noun": " la ganancia",
+     "english_noun": "gain"
+    },
+    {
+     "spanish_noun": " el activo",
+     "english_noun": "asset"
+    },
+    {
+     "spanish_noun": " la piscina",
+     "english_noun": "pool"
+    },
+    {
+     "spanish_noun": " la tendencia",
+     "english_noun": "trend"
+    },
+    {
+     "spanish_noun": " la encuesta",
+     "english_noun": "survey"
+    },
+    {
+     "spanish_noun": " el planeta",
+     "english_noun": "planet"
+    },
+    {
+     "spanish_noun": " el río",
+     "english_noun": "river"
+    },
+    {
+     "spanish_noun": " la identidad",
+     "english_noun": "identity"
+    },
+    {
+     "spanish_noun": " el océano",
+     "english_noun": "ocean"
+    },
+    {
+     "spanish_noun": " la alegría",
+     "english_noun": "joy"
+    },
+    {
+     "spanish_noun": " el retraso",
+     "english_noun": "delay"
+    },
+    {
+     "spanish_noun": " la clínica",
+     "english_noun": "clinic"
+    },
+    {
+     "spanish_noun": " el patio",
+     "english_noun": "yard"
+    },
+    {
+     "spanish_noun": " la punta",
+     "english_noun": "tip"
+    },
+    {
+     "spanish_noun": " el divorcio",
+     "english_noun": "divorce"
+    },
+    {
+     "spanish_noun": " el sol",
+     "english_noun": "sun"
+    },
+    {
+     "spanish_noun": " la fila",
+     "english_noun": "row"
+    },
+    {
+     "spanish_noun": " la frase",
+     "english_noun": "phrase"
+    },
+    {
+     "spanish_noun": " la pena",
+     "english_noun": "worth"
+    },
+    {
+     "spanish_noun": " la colección",
+     "english_noun": "collection"
+    },
+    {
+     "spanish_noun": " la ocasión",
+     "english_noun": "occasion"
+    },
+    {
+     "spanish_noun": " la superficie",
+     "english_noun": "surface"
+    },
+    {
+     "spanish_noun": " el empate",
+     "english_noun": "tie"
+    },
+    {
+     "spanish_noun": " el músico",
+     "english_noun": "musician"
+    },
+    {
+     "spanish_noun": " el concepto",
+     "english_noun": "concept"
+    },
+    {
+     "spanish_noun": " la tensión",
+     "english_noun": "tension"
+    },
+    {
+     "spanish_noun": " el resultado",
+     "english_noun": "outcome"
+    },
+    {
+     "spanish_noun": " la aprobación",
+     "english_noun": "approval"
+    },
+    {
+     "spanish_noun": " el becario",
+     "english_noun": "fellow"
+    },
+    {
+     "spanish_noun": " la belleza",
+     "english_noun": "beauty"
+    },
+    {
+     "spanish_noun": " el siniestro",
+     "english_noun": "casualty"
+    },
+    {
+     "spanish_noun": " la copia",
+     "english_noun": "copy"
+    },
+    {
+     "spanish_noun": " la mina",
+     "english_noun": "mine"
+    },
+    {
+     "spanish_noun": " el reloj",
+     "english_noun": "watch"
+    },
+    {
+     "spanish_noun": " el sueño",
+     "english_noun": "sleep"
+    },
+    {
+     "spanish_noun": " la media",
+     "english_noun": "average"
+    },
+    {
+     "spanish_noun": " el recorrido",
+     "english_noun": "travel"
+    },
+    {
+     "spanish_noun": " el fraude",
+     "english_noun": "fraud"
+    },
+    {
+     "spanish_noun": " la categoría",
+     "english_noun": "category"
+    },
+    {
+     "spanish_noun": " el ejercicio",
+     "english_noun": "exercise"
+    },
+    {
+     "spanish_noun": " la convicción",
+     "english_noun": "conviction"
+    },
+    {
+     "spanish_noun": " la iniciativa",
+     "english_noun": "initiative"
+    },
+    {
+     "spanish_noun": " la técnica de",
+     "english_noun": "technique"
+    },
+    {
+     "spanish_noun": " la grabación",
+     "english_noun": "recording"
+    },
+    {
+     "spanish_noun": " la vista",
+     "english_noun": "sight"
+    },
+    {
+     "spanish_noun": " la reducción",
+     "english_noun": "reduction"
+    },
+    {
+     "spanish_noun": " el conjunto",
+     "english_noun": "whole"
+    },
+    {
+     "spanish_noun": " la corporación",
+     "english_noun": "corporation"
+    },
+    {
+     "spanish_noun": " la pasión",
+     "english_noun": "passion"
+    },
+    {
+     "spanish_noun": " el funeral",
+     "english_noun": "funeral"
+    },
+    {
+     "spanish_noun": " la juventud",
+     "english_noun": "youth"
+    },
+    {
+     "spanish_noun": " el instrumento",
+     "english_noun": "instrument"
+    },
+    {
+     "spanish_noun": " la distancia",
+     "english_noun": "distance"
+    },
+    {
+     "spanish_noun": " el desierto",
+     "english_noun": "desert"
+    },
+    {
+     "spanish_noun": " el aniversario",
+     "english_noun": "anniversary"
+    },
+    {
+     "spanish_noun": " la escritura",
+     "english_noun": "writing"
+    },
+    {
+     "spanish_noun": " la invasión",
+     "english_noun": "invasion"
+    },
+    {
+     "spanish_noun": " el compromiso",
+     "english_noun": "compromise"
+    },
+    {
+     "spanish_noun": " la enfermedad",
+     "english_noun": "illness"
+    },
+    {
+     "spanish_noun": " el desgarro",
+     "english_noun": "tear"
+    },
+    {
+     "spanish_noun": " la puerta",
+     "english_noun": "gate"
+    },
+    {
+     "spanish_noun": " el bosque",
+     "english_noun": "forest"
+    },
+    {
+     "spanish_noun": " el experimento",
+     "english_noun": "experiment"
+    },
+    {
+     "spanish_noun": " el golf",
+     "english_noun": "golf"
+    },
+    {
+     "spanish_noun": " el talento",
+     "english_noun": "talent"
+    },
+    {
+     "spanish_noun": " el cargo",
+     "english_noun": "post"
+    },
+    {
+     "spanish_noun": " la brecha",
+     "english_noun": "gap"
+    },
+    {
+     "spanish_noun": " el sacerdote",
+     "english_noun": "priest"
+    },
+    {
+     "spanish_noun": " la novela",
+     "english_noun": "novel"
+    },
+    {
+     "spanish_noun": " la división",
+     "english_noun": "division"
+    },
+    {
+     "spanish_noun": " el deseo",
+     "english_noun": "desire"
+    },
+    {
+     "spanish_noun": " el sombrero",
+     "english_noun": "hat"
+    },
+    {
+     "spanish_noun": " la hipoteca",
+     "english_noun": "mortgage"
+    },
+    {
+     "spanish_noun": " la reputación",
+     "english_noun": "reputation"
+    },
+    {
+     "spanish_noun": " la puntuación",
+     "english_noun": "score"
+    },
+    {
+     "spanish_noun": " el hombro",
+     "english_noun": "shoulder"
+    },
+    {
+     "spanish_noun": " la relación",
+     "english_noun": "relative"
+    },
+    {
+     "spanish_noun": " la columna",
+     "english_noun": "column"
+    },
+    {
+     "spanish_noun": " el pago",
+     "english_noun": "payment"
+    },
+    {
+     "spanish_noun": " la transición",
+     "english_noun": "transition"
+    },
+    {
+     "spanish_noun": " el premio",
+     "english_noun": "award"
+    },
+    {
+     "spanish_noun": " la capacidad",
+     "english_noun": "capability"
+    },
+    {
+     "spanish_noun": " la definición",
+     "english_noun": "definition"
+    },
+    {
+     "spanish_noun": " el bolsillo",
+     "english_noun": "pocket"
+    },
+    {
+     "spanish_noun": " la velocidad",
+     "english_noun": "speed"
+    },
+    {
+     "spanish_noun": " el concierto",
+     "english_noun": "concert"
+    },
+    {
+     "spanish_noun": " el clima",
+     "english_noun": "climate"
+    },
+    {
+     "spanish_noun": " la clave",
+     "english_noun": "clue"
+    },
+    {
+     "spanish_noun": " La cerveza",
+     "english_noun": "beer"
+    },
+    {
+     "spanish_noun": " la nariz",
+     "english_noun": "nose"
+    },
+    {
+     "spanish_noun": " el verde",
+     "english_noun": "green"
+    },
+    {
+     "spanish_noun": " el jardín",
+     "english_noun": "garden"
+    },
+    {
+     "spanish_noun": " el satélite",
+     "english_noun": "satellite"
+    },
+    {
+     "spanish_noun": " la ceremonia",
+     "english_noun": "ceremony"
+    },
+    {
+     "spanish_noun": " la humana",
+     "english_noun": "human"
+    },
+    {
+     "spanish_noun": " el descubrimiento",
+     "english_noun": "discovery"
+    },
+    {
+     "spanish_noun": " el paseo",
+     "english_noun": "ride"
+    },
+    {
+     "spanish_noun": " la raíz",
+     "english_noun": "root"
+    },
+    {
+     "spanish_noun": " el té",
+     "english_noun": "tea"
+    },
+    {
+     "spanish_noun": " el movimiento",
+     "english_noun": "motion"
+    },
+    {
+     "spanish_noun": " el porcentaje",
+     "english_noun": "percentage"
+    },
+    {
+     "spanish_noun": " la combinación",
+     "english_noun": "combination"
+    },
+    {
+     "spanish_noun": " la explicación",
+     "english_noun": "explanation"
+    },
+    {
+     "spanish_noun": " la escala",
+     "english_noun": "scale"
+    },
+    {
+     "spanish_noun": " la cadena de",
+     "english_noun": "chain"
+    },
+    {
+     "spanish_noun": " el gemelo",
+     "english_noun": "twin"
+    },
+    {
+     "spanish_noun": " la capacidad",
+     "english_noun": "capacity"
+    },
+    {
+     "spanish_noun": " el distribuidor",
+     "english_noun": "dealer"
+    },
+    {
+     "spanish_noun": " el toque",
+     "english_noun": "touch"
+    },
+    {
+     "spanish_noun": " el viaje",
+     "english_noun": "journey"
+    },
+    {
+     "spanish_noun": " el delegado",
+     "english_noun": "delegate"
+    },
+    {
+     "spanish_noun": " el enlace",
+     "english_noun": "link"
+    },
+    {
+     "spanish_noun": " el plástico",
+     "english_noun": "plastic"
+    },
+    {
+     "spanish_noun": " el estímulo",
+     "english_noun": "stimulus"
+    },
+    {
+     "spanish_noun": " la tapa",
+     "english_noun": "cap"
+    },
+    {
+     "spanish_noun": " el rollo",
+     "english_noun": "roll"
+    },
+    {
+     "spanish_noun": " la construcción",
+     "english_noun": "construction"
+    },
+    {
+     "spanish_noun": " la intención",
+     "english_noun": "intention"
+    },
+    {
+     "spanish_noun": " la disputa",
+     "english_noun": "dispute"
+    },
+    {
+     "spanish_noun": " el estado de ánimo",
+     "english_noun": "mood"
+    },
+    {
+     "spanish_noun": " el diseño",
+     "english_noun": "design"
+    },
+    {
+     "spanish_noun": " la infancia",
+     "english_noun": "childhood"
+    },
+    {
+     "spanish_noun": " el motor",
+     "english_noun": "engine"
+    },
+    {
+     "spanish_noun": " el tiempo de vida",
+     "english_noun": "lifetime"
+    },
+    {
+     "spanish_noun": " la pesadilla",
+     "english_noun": "nightmare"
+    },
+    {
+     "spanish_noun": " la danza",
+     "english_noun": "dance"
+    },
+    {
+     "spanish_noun": " la comida",
+     "english_noun": "meal"
+    },
+    {
+     "spanish_noun": " la oferta",
+     "english_noun": "offer"
+    },
+    {
+     "spanish_noun": " la obligación",
+     "english_noun": "obligation"
+    },
+    {
+     "spanish_noun": " el avance",
+     "english_noun": "advance"
+    },
+    {
+     "spanish_noun": " la caridad",
+     "english_noun": "charity"
+    },
+    {
+     "spanish_noun": " el turista",
+     "english_noun": "tourist"
+    },
+    {
+     "spanish_noun": " la fábrica",
+     "english_noun": "factory"
+    },
+    {
+     "spanish_noun": " la grasa",
+     "english_noun": "fat"
+    },
+    {
+     "spanish_noun": " la sal de",
+     "english_noun": "salt"
+    },
+    {
+     "spanish_noun": " el cuello",
+     "english_noun": "neck"
+    },
+    {
+     "spanish_noun": " el dormitorio",
+     "english_noun": "bedroom"
+    },
+    {
+     "spanish_noun": " el episodio",
+     "english_noun": "episode"
+    },
+    {
+     "spanish_noun": " el ingeniero",
+     "english_noun": "engineer"
+    },
+    {
+     "spanish_noun": " el castigo",
+     "english_noun": "punishment"
+    },
+    {
+     "spanish_noun": " las pruebas",
+     "english_noun": "testing"
+    },
+    {
+     "spanish_noun": " la instancia",
+     "english_noun": "instance"
+    },
+    {
+     "spanish_noun": " la perspectiva",
+     "english_noun": "prospect"
+    },
+    {
+     "spanish_noun": " las compras",
+     "english_noun": "shopping"
+    },
+    {
+     "spanish_noun": " el humo",
+     "english_noun": "smoke"
+    },
+    {
+     "spanish_noun": " la carne",
+     "english_noun": "meat"
+    },
+    {
+     "spanish_noun": " la bodega",
+     "english_noun": "hold"
+    },
+    {
+     "spanish_noun": " la jubilación",
+     "english_noun": "retirement"
+    },
+    {
+     "spanish_noun": " la inflación",
+     "english_noun": "inflation"
+    },
+    {
+     "spanish_noun": " el drama",
+     "english_noun": "drama"
+    },
+    {
+     "spanish_noun": " el escritorio",
+     "english_noun": "desk"
+    },
+    {
+     "spanish_noun": " el salario",
+     "english_noun": "salary"
+    },
+    {
+     "spanish_noun": " la biblia",
+     "english_noun": "bible"
+    },
+    {
+     "spanish_noun": " la subvención",
+     "english_noun": "grant"
+    },
+    {
+     "spanish_noun": " la demostración",
+     "english_noun": "demonstration"
+    },
+    {
+     "spanish_noun": " el diálogo",
+     "english_noun": "dialogue"
+    },
+    {
+     "spanish_noun": " la sustancia",
+     "english_noun": "substance"
+    },
+    {
+     "spanish_noun": " el núcleo",
+     "english_noun": "core"
+    },
+    {
+     "spanish_noun": " el tratado",
+     "english_noun": "treaty"
+    },
+    {
+     "spanish_noun": " el personal",
+     "english_noun": "personnel"
+    },
+    {
+     "spanish_noun": " la muestra",
+     "english_noun": "sample"
+    },
+    {
+     "spanish_noun": " la táctica",
+     "english_noun": "tactic"
+    },
+    {
+     "spanish_noun": " el método",
+     "english_noun": "method"
+    },
+    {
+     "spanish_noun": " el ruido",
+     "english_noun": "noise"
+    },
+    {
+     "spanish_noun": " el objetivo",
+     "english_noun": "objective"
+    },
+    {
+     "spanish_noun": " la flor",
+     "english_noun": "flower"
+    },
+    {
+     "spanish_noun": " la copa",
+     "english_noun": "cup"
+    },
+    {
+     "spanish_noun": " la temperatura",
+     "english_noun": "temperature"
+    },
+    {
+     "spanish_noun": " el símbolo",
+     "english_noun": "symbol"
+    },
+    {
+     "spanish_noun": " la revolución",
+     "english_noun": "revolution"
+    },
+    {
+     "spanish_noun": " el sabor",
+     "english_noun": "taste"
+    },
+    {
+     "spanish_noun": " el museo",
+     "english_noun": "museum"
+    },
+    {
+     "spanish_noun": " el perfil",
+     "english_noun": "profile"
+    },
+    {
+     "spanish_noun": " la sugerencia",
+     "english_noun": "suggestion"
+    },
+    {
+     "spanish_noun": " la ruta",
+     "english_noun": "route"
+    },
+    {
+     "spanish_noun": " el diente",
+     "english_noun": "tooth"
+    },
+    {
+     "spanish_noun": " el consultor",
+     "english_noun": "consultant"
+    },
+    {
+     "spanish_noun": " la unidad",
+     "english_noun": "drive"
+    },
+    {
+     "spanish_noun": " el trastorno",
+     "english_noun": "disorder"
+    },
+    {
+     "spanish_noun": " el azúcar",
+     "english_noun": "sugar"
+    },
+    {
+     "spanish_noun": " el aumento",
+     "english_noun": "rise"
+    },
+    {
+     "spanish_noun": " el chip",
+     "english_noun": "chip"
+    },
+    {
+     "spanish_noun": " el motivo",
+     "english_noun": "motive"
+    },
+    {
+     "spanish_noun": " la camisa",
+     "english_noun": "shirt"
+    },
+    {
+     "spanish_noun": " el puerto",
+     "english_noun": "port"
+    },
+    {
+     "spanish_noun": " el potencial",
+     "english_noun": "potential"
+    },
+    {
+     "spanish_noun": " el calendario",
+     "english_noun": "schedule"
+    },
+    {
+     "spanish_noun": " el parlamento",
+     "english_noun": "parliament"
+    },
+    {
+     "spanish_noun": " el concurso",
+     "english_noun": "contest"
+    },
+    {
+     "spanish_noun": " la atmósfera",
+     "english_noun": "atmosphere"
+    },
+    {
+     "spanish_noun": " la rama",
+     "english_noun": "branch"
+    },
+    {
+     "spanish_noun": " la estimación",
+     "english_noun": "estimate"
+    },
+    {
+     "spanish_noun": " el síntoma",
+     "english_noun": "symptom"
+    },
+    {
+     "spanish_noun": " la participación",
+     "english_noun": "involvement"
+    },
+    {
+     "spanish_noun": " la discriminación",
+     "english_noun": "discrimination"
+    },
+    {
+     "spanish_noun": " el cielo",
+     "english_noun": "heaven"
+    },
+    {
+     "spanish_noun": " la caminata",
+     "english_noun": "walk"
+    },
+    {
+     "spanish_noun": " el operador",
+     "english_noun": "operator"
+    },
+    {
+     "spanish_noun": " la recomendación",
+     "english_noun": "recommendation"
+    },
+    {
+     "spanish_noun": " el rebelde",
+     "english_noun": "rebel"
+    },
+    {
+     "spanish_noun": " la ronda",
+     "english_noun": "round"
+    },
+    {
+     "spanish_noun": " el fabricante",
+     "english_noun": "maker"
+    },
+    {
+     "spanish_noun": " el vino",
+     "english_noun": "wine"
+    },
+    {
+     "spanish_noun": " la observación",
+     "english_noun": "remark"
+    },
+    {
+     "spanish_noun": " el lío",
+     "english_noun": "mess"
+    },
+    {
+     "spanish_noun": " el tono",
+     "english_noun": "tone"
+    },
+    {
+     "spanish_noun": " la resistencia",
+     "english_noun": "resistance"
+    },
+    {
+     "spanish_noun": " la importancia",
+     "english_noun": "importance"
+    },
+    {
+     "spanish_noun": " la excepción",
+     "english_noun": "exception"
+    },
+    {
+     "spanish_noun": " la plataforma",
+     "english_noun": "platform"
+    },
+    {
+     "spanish_noun": " el cuchillo",
+     "english_noun": "knife"
+    },
+    {
+     "spanish_noun": " la percepción",
+     "english_noun": "perception"
+    },
+    {
+     "spanish_noun": " la cuota",
+     "english_noun": "fee"
+    },
+    {
+     "spanish_noun": " el maestro",
+     "english_noun": "master"
+    },
+    {
+     "spanish_noun": " el círculo",
+     "english_noun": "circle"
+    },
+    {
+     "spanish_noun": " la forma",
+     "english_noun": "manner"
+    },
+    {
+     "spanish_noun": " el chorro",
+     "english_noun": "jet"
+    },
+    {
+     "spanish_noun": " el significado",
+     "english_noun": "meaning"
+    },
+    {
+     "spanish_noun": " la evaluación",
+     "english_noun": "assessment"
+    },
+    {
+     "spanish_noun": " la placa",
+     "english_noun": "plate"
+    },
+    {
+     "spanish_noun": " expensas",
+     "english_noun": "expense"
+    },
+    {
+     "spanish_noun": " la trama",
+     "english_noun": "plot"
+    },
+    {
+     "spanish_noun": " el aula",
+     "english_noun": "classroom"
+    },
+    {
+     "spanish_noun": " la marca",
+     "english_noun": "brand"
+    },
+    {
+     "spanish_noun": " la pintura",
+     "english_noun": "painting"
+    },
+    {
+     "spanish_noun": " el techo",
+     "english_noun": "roof"
+    },
+    {
+     "spanish_noun": " el privilegio",
+     "english_noun": "privilege"
+    },
+    {
+     "spanish_noun": " la bebida",
+     "english_noun": "drink"
+    },
+    {
+     "spanish_noun": " la prohibición",
+     "english_noun": "ban"
+    },
+    {
+     "spanish_noun": " el contenido",
+     "english_noun": "content"
+    },
+    {
+     "spanish_noun": " el producto químico",
+     "english_noun": "chemical"
+    },
+    {
+     "spanish_noun": " el francés",
+     "english_noun": "french"
+    },
+    {
+     "spanish_noun": " la inspección",
+     "english_noun": "inspection"
+    },
+    {
+     "spanish_noun": " el incentivo",
+     "english_noun": "incentive"
+    },
+    {
+     "spanish_noun": " el piano",
+     "english_noun": "piano"
+    },
+    {
+     "spanish_noun": " la botella",
+     "english_noun": "bottle"
+    },
+    {
+     "spanish_noun": " los residuos",
+     "english_noun": "waste"
+    },
+    {
+     "spanish_noun": " el error",
+     "english_noun": "error"
+    },
+    {
+     "spanish_noun": " la etiqueta",
+     "english_noun": "label"
+    },
+    {
+     "spanish_noun": " el reloj",
+     "english_noun": "clock"
+    },
+    {
+     "spanish_noun": " la crema",
+     "english_noun": "cream"
+    },
+    {
+     "spanish_noun": " el bien",
+     "english_noun": "good"
+    },
+    {
+     "spanish_noun": " la fase de",
+     "english_noun": "phase"
+    },
+    {
+     "spanish_noun": " la filosofía",
+     "english_noun": "philosophy"
+    },
+    {
+     "spanish_noun": " la conducta",
+     "english_noun": "conduct"
+    },
+    {
+     "spanish_noun": " el ciclo",
+     "english_noun": "cycle"
+    },
+    {
+     "spanish_noun": " la electricidad",
+     "english_noun": "electricity"
+    },
+    {
+     "spanish_noun": " el obispo",
+     "english_noun": "bishop"
+    },
+    {
+     "spanish_noun": " el lector",
+     "english_noun": "reader"
+    },
+    {
+     "spanish_noun": " el embarazo",
+     "english_noun": "pregnancy"
+    },
+    {
+     "spanish_noun": " la liga",
+     "english_noun": "league"
+    },
+    {
+     "spanish_noun": " la mascota",
+     "english_noun": "pet"
+    },
+    {
+     "spanish_noun": " la fundación",
+     "english_noun": "foundation"
+    },
+    {
+     "spanish_noun": " el boom",
+     "english_noun": "boom"
+    },
+    {
+     "spanish_noun": " la torre",
+     "english_noun": "tower"
+    },
+    {
+     "spanish_noun": " la característica",
+     "english_noun": "feature"
+    },
+    {
+     "spanish_noun": " la retirada",
+     "english_noun": "withdrawal"
+    },
+    {
+     "spanish_noun": " la respiración",
+     "english_noun": "breath"
+    },
+    {
+     "spanish_noun": " la grieta",
+     "english_noun": "crack"
+    },
+    {
+     "spanish_noun": " el fabricante",
+     "english_noun": "manufacturer"
+    },
+    {
+     "spanish_noun": " el especialista",
+     "english_noun": "specialist"
+    },
+    {
+     "spanish_noun": " la referencia",
+     "english_noun": "reference"
+    },
+    {
+     "spanish_noun": " el cuento",
+     "english_noun": "tale"
+    },
+    {
+     "spanish_noun": " la provisión",
+     "english_noun": "provision"
+    },
+    {
+     "spanish_noun": " el historiador",
+     "english_noun": "historian"
+    },
+    {
+     "spanish_noun": " el alambre",
+     "english_noun": "wire"
+    },
+    {
+     "spanish_noun": " la especulación",
+     "english_noun": "speculation"
+    },
+    {
+     "spanish_noun": " el par",
+     "english_noun": "pair"
+    },
+    {
+     "spanish_noun": " la excusa",
+     "english_noun": "excuse"
+    },
+    {
+     "spanish_noun": " el chocolate",
+     "english_noun": "chocolate"
+    },
+    {
+     "spanish_noun": " la celebración",
+     "english_noun": "celebration"
+    },
+    {
+     "spanish_noun": " el queso",
+     "english_noun": "cheese"
+    },
+    {
+     "spanish_noun": " la fortuna",
+     "english_noun": "fortune"
+    },
+    {
+     "spanish_noun": " el cuarto de baño",
+     "english_noun": "bathroom"
+    },
+    {
+     "spanish_noun": " la función de",
+     "english_noun": "function"
+    },
+    {
+     "spanish_noun": " el universo",
+     "english_noun": "universe"
+    },
+    {
+     "spanish_noun": " el canal",
+     "english_noun": "channel"
+    },
+    {
+     "spanish_noun": " la sonrisa",
+     "english_noun": "smile"
+    },
+    {
+     "spanish_noun": " la leche",
+     "english_noun": "milk"
+    },
+    {
+     "spanish_noun": " el requisito",
+     "english_noun": "requirement"
+    },
+    {
+     "spanish_noun": " la sospecha",
+     "english_noun": "suspicion"
+    },
+    {
+     "spanish_noun": " el hogar",
+     "english_noun": "household"
+    },
+    {
+     "spanish_noun": " el hallazgo",
+     "english_noun": "finding"
+    },
+    {
+     "spanish_noun": " el pecho",
+     "english_noun": "chest"
+    },
+    {
+     "spanish_noun": " la rutina",
+     "english_noun": "routine"
+    },
+    {
+     "spanish_noun": " la consideración",
+     "english_noun": "consideration"
+    },
+    {
+     "spanish_noun": " la biblioteca",
+     "english_noun": "library"
+    },
+    {
+     "spanish_noun": " el daño",
+     "english_noun": "harm"
+    },
+    {
+     "spanish_noun": " el margen",
+     "english_noun": "margin"
+    },
+    {
+     "spanish_noun": " el objeto",
+     "english_noun": "object"
+    },
+    {
+     "spanish_noun": " la guitarra",
+     "english_noun": "guitar"
+    },
+    {
+     "spanish_noun": " el botón",
+     "english_noun": "button"
+    },
+    {
+     "spanish_noun": " el silencio",
+     "english_noun": "silence"
+    },
+    {
+     "spanish_noun": " la mejora",
+     "english_noun": "improvement"
+    },
+    {
+     "spanish_noun": " la caída de",
+     "english_noun": "drop"
+    },
+    {
+     "spanish_noun": " el nombramiento",
+     "english_noun": "appointment"
+    },
+    {
+     "spanish_noun": " el hombre de negocios",
+     "english_noun": "businessman"
+    },
+    {
+     "spanish_noun": " el flujo",
+     "english_noun": "flow"
+    },
+    {
+     "spanish_noun": " el metal",
+     "english_noun": "metal"
+    },
+    {
+     "spanish_noun": " el espejo",
+     "english_noun": "mirror"
+    },
+    {
+     "spanish_noun": " la presente",
+     "english_noun": "present"
+    },
+    {
+     "spanish_noun": " el portador",
+     "english_noun": "carrier"
+    },
+    {
+     "spanish_noun": " la expresión",
+     "english_noun": "expression"
+    },
+    {
+     "spanish_noun": " el destino",
+     "english_noun": "fate"
+    },
+    {
+     "spanish_noun": " la nube",
+     "english_noun": "cloud"
+    },
+    {
+     "spanish_noun": " el músculo",
+     "english_noun": "muscle"
+    },
+    {
+     "spanish_noun": " el cinturón",
+     "english_noun": "belt"
+    },
+    {
+     "spanish_noun": " el capítulo",
+     "english_noun": "chapter"
+    },
+    {
+     "spanish_noun": " la cadena de",
+     "english_noun": "string"
+    },
+    {
+     "spanish_noun": " el comercio",
+     "english_noun": "trading"
+    },
+    {
+     "spanish_noun": " el truco",
+     "english_noun": "trick"
+    },
+    {
+     "spanish_noun": " la guía",
+     "english_noun": "guide"
+    },
+    {
+     "spanish_noun": " el volumen",
+     "english_noun": "volume"
+    },
+    {
+     "spanish_noun": " el partido",
+     "english_noun": "match"
+    },
+    {
+     "spanish_noun": " la fantasía",
+     "english_noun": "fantasy"
+    },
+    {
+     "spanish_noun": " la rodilla",
+     "english_noun": "knee"
+    },
+    {
+     "spanish_noun": " el compuesto",
+     "english_noun": "compound"
+    },
+    {
+     "spanish_noun": " el estómago",
+     "english_noun": "stomach"
+    },
+    {
+     "spanish_noun": " la altura",
+     "english_noun": "height"
+    },
+    {
+     "spanish_noun": " el proyecto",
+     "english_noun": "draft"
+    },
+    {
+     "spanish_noun": " el desconocido",
+     "english_noun": "stranger"
+    },
+    {
+     "spanish_noun": " la infección",
+     "english_noun": "infection"
+    },
+    {
+     "spanish_noun": " la masa",
+     "english_noun": "mass"
+    },
+    {
+     "spanish_noun": " la disciplina",
+     "english_noun": "discipline"
+    },
+    {
+     "spanish_noun": " el fruto",
+     "english_noun": "fruit"
+    },
+    {
+     "spanish_noun": " el visitante",
+     "english_noun": "visitor"
+    },
+    {
+     "spanish_noun": " el poema",
+     "english_noun": "poem"
+    },
+    {
+     "spanish_noun": " el fenómeno",
+     "english_noun": "phenomenon"
+    },
+    {
+     "spanish_noun": " la valla",
+     "english_noun": "fence"
+    },
+    {
+     "spanish_noun": " la aplicación",
+     "english_noun": "application"
+    },
+    {
+     "spanish_noun": " la receta",
+     "english_noun": "recipe"
+    },
+    {
+     "spanish_noun": " la ropa",
+     "english_noun": "clothing"
+    },
+    {
+     "spanish_noun": " la culpa",
+     "english_noun": "guilt"
+    },
+    {
+     "spanish_noun": " la supervivencia",
+     "english_noun": "survival"
+    },
+    {
+     "spanish_noun": " el campeón",
+     "english_noun": "champion"
+    },
+    {
+     "spanish_noun": " el uniforme",
+     "english_noun": "uniform"
+    },
+    {
+     "spanish_noun": " la impresión",
+     "english_noun": "print"
+    },
+    {
+     "spanish_noun": " la papa",
+     "english_noun": "potato"
+    },
+    {
+     "spanish_noun": " la disposición",
+     "english_noun": "arrangement"
+    },
+    {
+     "spanish_noun": " la luna",
+     "english_noun": "moon"
+    },
+    {
+     "spanish_noun": " el oso",
+     "english_noun": "bear"
+    },
+    {
+     "spanish_noun": " la herida",
+     "english_noun": "wound"
+    },
+    {
+     "spanish_noun": " la estabilidad",
+     "english_noun": "stability"
+    },
+    {
+     "spanish_noun": " el orgullo",
+     "english_noun": "pride"
+    },
+    {
+     "spanish_noun": " la restricción",
+     "english_noun": "restriction"
+    },
+    {
+     "spanish_noun": " del total",
+     "english_noun": "total"
+    },
+    {
+     "spanish_noun": " la barrera",
+     "english_noun": "barrier"
+    },
+    {
+     "spanish_noun": " el primo",
+     "english_noun": "cousin"
+    },
+    {
+     "spanish_noun": " la ocupación",
+     "english_noun": "occupation"
+    },
+    {
+     "spanish_noun": " la plata",
+     "english_noun": "silver"
+    },
+    {
+     "spanish_noun": " la torta",
+     "english_noun": "cake"
+    },
+    {
+     "spanish_noun": " el pulmón",
+     "english_noun": "lung"
+    },
+    {
+     "spanish_noun": " la rueda",
+     "english_noun": "wheel"
+    },
+    {
+     "spanish_noun": " el observador",
+     "english_noun": "observer"
+    },
+    {
+     "spanish_noun": " la melodía",
+     "english_noun": "tune"
+    },
+    {
+     "spanish_noun": " la descripción",
+     "english_noun": "description"
+    },
+    {
+     "spanish_noun": " el establecimiento",
+     "english_noun": "establishment"
+    },
+    {
+     "spanish_noun": " la cámara de",
+     "english_noun": "chamber"
+    },
+    {
+     "spanish_noun": " el horror",
+     "english_noun": "horror"
+    },
+    {
+     "spanish_noun": " la banca",
+     "english_noun": "banking"
+    },
+    {
+     "spanish_noun": " la manzana",
+     "english_noun": "apple"
+    },
+    {
+     "spanish_noun": " la implicación",
+     "english_noun": "implication"
+    },
+    {
+     "spanish_noun": " el acero",
+     "english_noun": "steel"
+    },
+    {
+     "spanish_noun": " la garganta",
+     "english_noun": "throat"
+    },
+    {
+     "spanish_noun": " la esencia",
+     "english_noun": "essence"
+    },
+    {
+     "spanish_noun": " la incursión",
+     "english_noun": "raid"
+    },
+    {
+     "spanish_noun": " la distinción",
+     "english_noun": "distinction"
+    },
+    {
+     "spanish_noun": " el alemán",
+     "english_noun": "german"
+    },
+    {
+     "spanish_noun": " el labio",
+     "english_noun": "lip"
+    },
+    {
+     "spanish_noun": " la temporización",
+     "english_noun": "timing"
+    },
+    {
+     "spanish_noun": " la visión",
+     "english_noun": "insight"
+    },
+    {
+     "spanish_noun": " el golpe de Estado",
+     "english_noun": "coup"
+    },
+    {
+     "spanish_noun": " el cambio",
+     "english_noun": "shift"
+    },
+    {
+     "spanish_noun": " el policía",
+     "english_noun": "policeman"
+    },
+    {
+     "spanish_noun": " el hábito",
+     "english_noun": "habit"
+    },
+    {
+     "spanish_noun": " la hoja de",
+     "english_noun": "sheet"
+    },
+    {
+     "spanish_noun": " el delincuente",
+     "english_noun": "offender"
+    },
+    {
+     "spanish_noun": " la medianoche",
+     "english_noun": "midnight"
+    },
+    {
+     "spanish_noun": " la ejecución",
+     "english_noun": "execution"
+    },
+    {
+     "spanish_noun": " la ansiedad",
+     "english_noun": "anxiety"
+    },
+    {
+     "spanish_noun": " la empresa",
+     "english_noun": "enterprise"
+    },
+    {
+     "spanish_noun": " la tira",
+     "english_noun": "strip"
+    },
+    {
+     "spanish_noun": " el pop",
+     "english_noun": "pop"
+    },
+    {
+     "spanish_noun": " la maravilla",
+     "english_noun": "wonder"
+    },
+    {
+     "spanish_noun": " la sombra",
+     "english_noun": "shadow"
+    },
+    {
+     "spanish_noun": " la libertad",
+     "english_noun": "liberty"
+    },
+    {
+     "spanish_noun": " la ficción",
+     "english_noun": "fiction"
+    },
+    {
+     "spanish_noun": " la intervención",
+     "english_noun": "intervention"
+    },
+    {
+     "spanish_noun": " la creación",
+     "english_noun": "creation"
+    },
+    {
+     "spanish_noun": " la comercialización",
+     "english_noun": "marketing"
+    },
+    {
+     "spanish_noun": " el cristiano",
+     "english_noun": "christian"
+    },
+    {
+     "spanish_noun": " la olla",
+     "english_noun": "pot"
+    },
+    {
+     "spanish_noun": " la pesca",
+     "english_noun": "fishing"
+    },
+    {
+     "spanish_noun": " el desayuno",
+     "english_noun": "breakfast"
+    },
+    {
+     "spanish_noun": " el tubo",
+     "english_noun": "tube"
+    },
+    {
+     "spanish_noun": " la determinación",
+     "english_noun": "determination"
+    },
+    {
+     "spanish_noun": " la arena",
+     "english_noun": "sand"
+    },
+    {
+     "spanish_noun": " el permiso",
+     "english_noun": "permission"
+    },
+    {
+     "spanish_noun": " la directriz",
+     "english_noun": "guideline"
+    },
+    {
+     "spanish_noun": " la vergüenza",
+     "english_noun": "shame"
+    },
+    {
+     "spanish_noun": " los disturbios",
+     "english_noun": "riot"
+    },
+    {
+     "spanish_noun": " el usuario",
+     "english_noun": "user"
+    },
+    {
+     "spanish_noun": " el órgano",
+     "english_noun": "organ"
+    },
+    {
+     "spanish_noun": " el resort",
+     "english_noun": "resort"
+    },
+    {
+     "spanish_noun": " el diseñador",
+     "english_noun": "designer"
+    },
+    {
+     "spanish_noun": " la comparación",
+     "english_noun": "comparison"
+    },
+    {
+     "spanish_noun": " el empleo",
+     "english_noun": "employment"
+    },
+    {
+     "spanish_noun": " el pan",
+     "english_noun": "bread"
+    },
+    {
+     "spanish_noun": " el deseo",
+     "english_noun": "wish"
+    },
+    {
+     "spanish_noun": " el amante",
+     "english_noun": "lover"
+    },
+    {
+     "spanish_noun": " la chaqueta",
+     "english_noun": "jacket"
+    },
+    {
+     "spanish_noun": " el pase",
+     "english_noun": "pass"
+    },
+    {
+     "spanish_noun": " el estatuto",
+     "english_noun": "statute"
+    },
+    {
+     "spanish_noun": " el ritmo",
+     "english_noun": "pace"
+    },
+    {
+     "spanish_noun": " la trama",
+     "english_noun": "frame"
+    },
+    {
+     "spanish_noun": " la confusión",
+     "english_noun": "confusion"
+    },
+    {
+     "spanish_noun": " la garantía",
+     "english_noun": "guarantee"
+    },
+    {
+     "spanish_noun": " el comisionado",
+     "english_noun": "commissioner"
+    },
+    {
+     "spanish_noun": " la llama",
+     "english_noun": "flame"
+    },
+    {
+     "spanish_noun": " la asunción",
+     "english_noun": "assumption"
+    },
+    {
+     "spanish_noun": " el graduado",
+     "english_noun": "graduate"
+    },
+    {
+     "spanish_noun": " la entrada",
+     "english_noun": "entry"
+    },
+    {
+     "spanish_noun": " la sala",
+     "english_noun": "ward"
+    },
+    {
+     "spanish_noun": " la victoria",
+     "english_noun": "win"
+    },
+    {
+     "spanish_noun": " la ópera",
+     "english_noun": "opera"
+    },
+    {
+     "spanish_noun": " la amistad",
+     "english_noun": "friendship"
+    },
+    {
+     "spanish_noun": " la exposición",
+     "english_noun": "exposure"
+    },
+    {
+     "spanish_noun": " el cerdo",
+     "english_noun": "pig"
+    },
+    {
+     "spanish_noun": " el mate",
+     "english_noun": "mate"
+    },
+    {
+     "spanish_noun": " el nervio",
+     "english_noun": "nerve"
+    },
+    {
+     "spanish_noun": " la longitud",
+     "english_noun": "length"
+    },
+    {
+     "spanish_noun": " la vaca",
+     "english_noun": "cow"
+    },
+    {
+     "spanish_noun": " el paquete",
+     "english_noun": "pack"
+    },
+    {
+     "spanish_noun": " la instrucción",
+     "english_noun": "instruction"
+    },
+    {
+     "spanish_noun": " el colapso",
+     "english_noun": "collapse"
+    },
+    {
+     "spanish_noun": " el asistente",
+     "english_noun": "assistant"
+    },
+    {
+     "spanish_noun": " la objeción",
+     "english_noun": "objection"
+    },
+    {
+     "spanish_noun": " el diario",
+     "english_noun": "diary"
+    },
+    {
+     "spanish_noun": " el erudito",
+     "english_noun": "scholar"
+    },
+    {
+     "spanish_noun": " la comodidad",
+     "english_noun": "comfort"
+    },
+    {
+     "spanish_noun": " la preparación",
+     "english_noun": "preparation"
+    },
+    {
+     "spanish_noun": " la provincia",
+     "english_noun": "province"
+    },
+    {
+     "spanish_noun": " el pasaje",
+     "english_noun": "passage"
+    },
+    {
+     "spanish_noun": " el cristal",
+     "english_noun": "crystal"
+    },
+    {
+     "spanish_noun": " el engranaje",
+     "english_noun": "gear"
+    },
+    {
+     "spanish_noun": " el trazo",
+     "english_noun": "stroke"
+    },
+    {
+     "spanish_noun": " la disminución",
+     "english_noun": "decline"
+    },
+    {
+     "spanish_noun": " el logro",
+     "english_noun": "achievement"
+    },
+    {
+     "spanish_noun": " la existencia",
+     "english_noun": "existence"
+    },
+    {
+     "spanish_noun": " la alianza",
+     "english_noun": "alliance"
+    },
+    {
+     "spanish_noun": " la profesión",
+     "english_noun": "profession"
+    },
+    {
+     "spanish_noun": " la entrega",
+     "english_noun": "delivery"
+    },
+    {
+     "spanish_noun": " el editor",
+     "english_noun": "publisher"
+    },
+    {
+     "spanish_noun": " la simpatía",
+     "english_noun": "sympathy"
+    },
+    {
+     "spanish_noun": " el plato",
+     "english_noun": "dish"
+    },
+    {
+     "spanish_noun": " la preocupación",
+     "english_noun": "worry"
+    },
+    {
+     "spanish_noun": " el componente",
+     "english_noun": "component"
+    },
+    {
+     "spanish_noun": " la aventura",
+     "english_noun": "adventure"
+    },
+    {
+     "spanish_noun": " el cultivo",
+     "english_noun": "crop"
+    },
+    {
+     "spanish_noun": " el golpe",
+     "english_noun": "blow"
+    },
+    {
+     "spanish_noun": " aras",
+     "english_noun": "sake"
+    },
+    {
+     "spanish_noun": " el pecado",
+     "english_noun": "sin"
+    },
+    {
+     "spanish_noun": " la pensión",
+     "english_noun": "pension"
+    },
+    {
+     "spanish_noun": " el garaje",
+     "english_noun": "garage"
+    },
+    {
+     "spanish_noun": " la radiación",
+     "english_noun": "radiation"
+    },
+    {
+     "spanish_noun": " el jugo",
+     "english_noun": "juice"
+    },
+    {
+     "spanish_noun": " el ajuste",
+     "english_noun": "setting"
+    },
+    {
+     "spanish_noun": " el índice",
+     "english_noun": "index"
+    },
+    {
+     "spanish_noun": " el vegetal",
+     "english_noun": "vegetable"
+    },
+    {
+     "spanish_noun": " la asociación",
+     "english_noun": "partnership"
+    },
+    {
+     "spanish_noun": " la poesía",
+     "english_noun": "poetry"
+    },
+    {
+     "spanish_noun": " el reconocimiento",
+     "english_noun": "recognition"
+    },
+    {
+     "spanish_noun": " el auto",
+     "english_noun": "self"
+    },
+    {
+     "spanish_noun": " el pie",
+     "english_noun": "standing"
+    },
+    {
+     "spanish_noun": " el tejido",
+     "english_noun": "tissue"
+    },
+    {
+     "spanish_noun": " la concha",
+     "english_noun": "shell"
+    },
+    {
+     "spanish_noun": " el capitán",
+     "english_noun": "captain"
+    },
+    {
+     "spanish_noun": " la tumba",
+     "english_noun": "grave"
+    },
+    {
+     "spanish_noun": " el rango",
+     "english_noun": "rank"
+    },
+    {
+     "spanish_noun": " el género",
+     "english_noun": "gender"
+    },
+    {
+     "spanish_noun": " la escasez",
+     "english_noun": "shortage"
+    },
+    {
+     "spanish_noun": " el premio",
+     "english_noun": "prize"
+    },
+    {
+     "spanish_noun": " la capa",
+     "english_noun": "coat"
+    },
+    {
+     "spanish_noun": " la semilla",
+     "english_noun": "seed"
+    },
+    {
+     "spanish_noun": " la rata",
+     "english_noun": "rat"
+    },
+    {
+     "spanish_noun": " el suelo",
+     "english_noun": "soil"
+    },
+    {
+     "spanish_noun": " la orilla",
+     "english_noun": "shore"
+    },
+    {
+     "spanish_noun": " la derrota",
+     "english_noun": "defeat"
+    },
+    {
+     "spanish_noun": " la notificación",
+     "english_noun": "notice"
+    },
+    {
+     "spanish_noun": " la bota",
+     "english_noun": "boot"
+    },
+    {
+     "spanish_noun": " el gráfico",
+     "english_noun": "chart"
+    },
+    {
+     "spanish_noun": " el ministerio",
+     "english_noun": "ministry"
+    },
+    {
+     "spanish_noun": " el diamante",
+     "english_noun": "diamond"
+    },
+    {
+     "spanish_noun": " el acabado",
+     "english_noun": "finish"
+    },
+    {
+     "spanish_noun": " la admisión",
+     "english_noun": "admission"
+    },
+    {
+     "spanish_noun": " la oscuridad",
+     "english_noun": "dark"
+    },
+    {
+     "spanish_noun": " el laboratorio",
+     "english_noun": "laboratory"
+    },
+    {
+     "spanish_noun": " el profesional",
+     "english_noun": "professional"
+    },
+    {
+     "spanish_noun": " la recompensa",
+     "english_noun": "reward"
+    },
+    {
+     "spanish_noun": " el bebé",
+     "english_noun": "infant"
+    },
+    {
+     "spanish_noun": " el texto",
+     "english_noun": "text"
+    },
+    {
+     "spanish_noun": " la ducha",
+     "english_noun": "shower"
+    },
+    {
+     "spanish_noun": " la dosis",
+     "english_noun": "dose"
+    },
+    {
+     "spanish_noun": " el pánico",
+     "english_noun": "panic"
+    },
+    {
+     "spanish_noun": " la red",
+     "english_noun": "net"
+    },
+    {
+     "spanish_noun": " el secretario",
+     "english_noun": "clerk"
+    },
+    {
+     "spanish_noun": " el minero",
+     "english_noun": "miner"
+    },
+    {
+     "spanish_noun": " la delegación",
+     "english_noun": "delegation"
+    },
+    {
+     "spanish_noun": " la imaginación",
+     "english_noun": "imagination"
+    },
+    {
+     "spanish_noun": " la unidad",
+     "english_noun": "unity"
+    },
+    {
+     "spanish_noun": " el tío",
+     "english_noun": "uncle"
+    },
+    {
+     "spanish_noun": " el ingrediente",
+     "english_noun": "ingredient"
+    },
+    {
+     "spanish_noun": " la asignación",
+     "english_noun": "assignment"
+    },
+    {
+     "spanish_noun": " la moneda",
+     "english_noun": "currency"
+    },
+    {
+     "spanish_noun": " la batería",
+     "english_noun": "battery"
+    },
+    {
+     "spanish_noun": " el túnel",
+     "english_noun": "tunnel"
+    },
+    {
+     "spanish_noun": " la renuncia",
+     "english_noun": "resignation"
+    },
+    {
+     "spanish_noun": " el comprador",
+     "english_noun": "buyer"
+    },
+    {
+     "spanish_noun": " la moto",
+     "english_noun": "bike"
+    },
+    {
+     "spanish_noun": " la emoción",
+     "english_noun": "excitement"
+    },
+    {
+     "spanish_noun": " el ratón",
+     "english_noun": "mouse"
+    },
+    {
+     "spanish_noun": " la alarma",
+     "english_noun": "alarm"
+    },
+    {
+     "spanish_noun": " el poeta",
+     "english_noun": "poet"
+    },
+    {
+     "spanish_noun": " el paisaje",
+     "english_noun": "landscape"
+    },
+    {
+     "spanish_noun": " la selección",
+     "english_noun": "selection"
+    },
+    {
+     "spanish_noun": " el grito",
+     "english_noun": "cry"
+    },
+    {
+     "spanish_noun": " la separación",
+     "english_noun": "separation"
+    },
+    {
+     "spanish_noun": " la pantalla",
+     "english_noun": "display"
+    },
+    {
+     "spanish_noun": " la discapacidad",
+     "english_noun": "disability"
+    },
+    {
+     "spanish_noun": " el contador",
+     "english_noun": "counter"
+    },
+    {
+     "spanish_noun": " el campeonato",
+     "english_noun": "championship"
+    },
+    {
+     "spanish_noun": " la mantequilla",
+     "english_noun": "butter"
+    },
+    {
+     "spanish_noun": " el retrato",
+     "english_noun": "portrait"
+    },
+    {
+     "spanish_noun": " el palo",
+     "english_noun": "stick"
+    },
+    {
+     "spanish_noun": " la ingeniería",
+     "english_noun": "engineering"
+    },
+    {
+     "spanish_noun": " el mito",
+     "english_noun": "myth"
+    },
+    {
+     "spanish_noun": " el ensayo",
+     "english_noun": "essay"
+    },
+    {
+     "spanish_noun": " el frío",
+     "english_noun": "cold"
+    },
+    {
+     "spanish_noun": " el carbón",
+     "english_noun": "coal"
+    },
+    {
+     "spanish_noun": " el contraste",
+     "english_noun": "contrast"
+    },
+    {
+     "spanish_noun": " la observación",
+     "english_noun": "observation"
+    },
+    {
+     "spanish_noun": " la cola",
+     "english_noun": "tail"
+    },
+    {
+     "spanish_noun": " el mecanismo",
+     "english_noun": "mechanism"
+    },
+    {
+     "spanish_noun": " el esquema",
+     "english_noun": "scheme"
+    },
+    {
+     "spanish_noun": " la presentación",
+     "english_noun": "presentation"
+    },
+    {
+     "spanish_noun": " el ángel",
+     "english_noun": "angel"
+    },
+    {
+     "spanish_noun": " el bono",
+     "english_noun": "bonus"
+    },
+    {
+     "spanish_noun": " la posesión",
+     "english_noun": "possession"
+    },
+    {
+     "spanish_noun": " el aprendizaje",
+     "english_noun": "learning"
+    },
+    {
+     "spanish_noun": " la enseñanza",
+     "english_noun": "teaching"
+    },
+    {
+     "spanish_noun": " la cubierta",
+     "english_noun": "deck"
+    },
+    {
+     "spanish_noun": " la criatura",
+     "english_noun": "creature"
+    },
+    {
+     "spanish_noun": " el funcionamiento",
+     "english_noun": "running"
+    },
+    {
+     "spanish_noun": " la literatura",
+     "english_noun": "literature"
+    },
+    {
+     "spanish_noun": " la debilidad",
+     "english_noun": "weakness"
+    },
+    {
+     "spanish_noun": " el azul",
+     "english_noun": "blue"
+    },
+    {
+     "spanish_noun": " el compromiso",
+     "english_noun": "engagement"
+    },
+    {
+     "spanish_noun": " la incertidumbre",
+     "english_noun": "uncertainty"
+    },
+    {
+     "spanish_noun": " la investigación",
+     "english_noun": "inquiry"
+    },
+    {
+     "spanish_noun": " la motivación",
+     "english_noun": "motivation"
+    },
+    {
+     "spanish_noun": " el polvo",
+     "english_noun": "dust"
+    },
+    {
+     "spanish_noun": " el pico",
+     "english_noun": "peak"
+    },
+    {
+     "spanish_noun": " el instinto",
+     "english_noun": "instinct"
+    },
+    {
+     "spanish_noun": " la aguja",
+     "english_noun": "needle"
+    },
+    {
+     "spanish_noun": " la hoja",
+     "english_noun": "leaf"
+    },
+    {
+     "spanish_noun": " el lanzamiento",
+     "english_noun": "launch"
+    },
+    {
+     "spanish_noun": " la risa",
+     "english_noun": "laugh"
+    },
+    {
+     "spanish_noun": " la licencia",
+     "english_noun": "leave"
+    },
+    {
+     "spanish_noun": " la hierba",
+     "english_noun": "grass"
+    },
+    {
+     "spanish_noun": " el hierro",
+     "english_noun": "iron"
+    },
+    {
+     "spanish_noun": " el competidor",
+     "english_noun": "competitor"
+    },
+    {
+     "spanish_noun": " el complejo",
+     "english_noun": "complex"
+    },
+    {
+     "spanish_noun": " el frijol",
+     "english_noun": "bean"
+    },
+    {
+     "spanish_noun": " el polo",
+     "english_noun": "pole"
+    },
+    {
+     "spanish_noun": " el buque",
+     "english_noun": "vessel"
+    },
+    {
+     "spanish_noun": " la subvención",
+     "english_noun": "subsidy"
+    },
+    {
+     "spanish_noun": " la oferta",
+     "english_noun": "bid"
+    },
+    {
+     "spanish_noun": " el aterrizaje",
+     "english_noun": "landing"
+    },
+    {
+     "spanish_noun": " la tubería",
+     "english_noun": "pipe"
+    },
+    {
+     "spanish_noun": " la interpretación",
+     "english_noun": "interpretation"
+    },
+    {
+     "spanish_noun": " Torneo",
+     "english_noun": "tournament"
+    },
+    {
+     "spanish_noun": " la cadera",
+     "english_noun": "hip"
+    },
+    {
+     "spanish_noun": " el diagnóstico",
+     "english_noun": "diagnosis"
+    },
+    {
+     "spanish_noun": " el terreno de juego",
+     "english_noun": "pitch"
+    },
+    {
+     "spanish_noun": " la revista",
+     "english_noun": "journal"
+    },
+    {
+     "spanish_noun": " el techo",
+     "english_noun": "ceiling"
+    },
+    {
+     "spanish_noun": " la exportación",
+     "english_noun": "export"
+    },
+    {
+     "spanish_noun": " la conciencia",
+     "english_noun": "awareness"
+    },
+    {
+     "spanish_noun": " la cruz",
+     "english_noun": "cross"
+    },
+    {
+     "spanish_noun": " el beso",
+     "english_noun": "kiss"
+    },
+    {
+     "spanish_noun": " el examen",
+     "english_noun": "examination"
+    },
+    {
+     "spanish_noun": " el imperio",
+     "english_noun": "empire"
+    },
+    {
+     "spanish_noun": " la sustitución",
+     "english_noun": "replacement"
+    },
+    {
+     "spanish_noun": " el pato",
+     "english_noun": "duck"
+    },
+    {
+     "spanish_noun": " la fórmula",
+     "english_noun": "formula"
+    },
+    {
+     "spanish_noun": " el diablo",
+     "english_noun": "devil"
+    },
+    {
+     "spanish_noun": " la limitación",
+     "english_noun": "limitation"
+    },
+    {
+     "spanish_noun": " la compensación",
+     "english_noun": "compensation"
+    },
+    {
+     "spanish_noun": " la invitación",
+     "english_noun": "invitation"
+    },
+    {
+     "spanish_noun": " la declaración",
+     "english_noun": "declaration"
+    },
+    {
+     "spanish_noun": " el significado",
+     "english_noun": "significance"
+    },
+    {
+     "spanish_noun": " la final",
+     "english_noun": "final"
+    },
+    {
+     "spanish_noun": " la prima",
+     "english_noun": "premium"
+    },
+    {
+     "spanish_noun": " la ambulancia",
+     "english_noun": "ambulance"
+    },
+    {
+     "spanish_noun": " la alfombra",
+     "english_noun": "carpet"
+    },
+    {
+     "spanish_noun": " el templo",
+     "english_noun": "temple"
+    },
+    {
+     "spanish_noun": " el constituyente",
+     "english_noun": "constituent"
+    },
+    {
+     "spanish_noun": " la concesión",
+     "english_noun": "concession"
+    },
+    {
+     "spanish_noun": " el consentimiento",
+     "english_noun": "consent"
+    },
+    {
+     "spanish_noun": " la premisa",
+     "english_noun": "premise"
+    },
+    {
+     "spanish_noun": " el patrimonio",
+     "english_noun": "heritage"
+    },
+    {
+     "spanish_noun": " el estante",
+     "english_noun": "shelf"
+    },
+    {
+     "spanish_noun": " la indirecta",
+     "english_noun": "hint"
+    },
+    {
+     "spanish_noun": " el ritmo",
+     "english_noun": "rhythm"
+    },
+    {
+     "spanish_noun": " el pasivo",
+     "english_noun": "liability"
+    },
+    {
+     "spanish_noun": " el talón",
+     "english_noun": "heel"
+    },
+    {
+     "spanish_noun": " la capa de",
+     "english_noun": "layer"
+    },
+    {
+     "spanish_noun": " la cepa",
+     "english_noun": "strain"
+    },
+    {
+     "spanish_noun": " el carbono",
+     "english_noun": "carbon"
+    },
+    {
+     "spanish_noun": " el foro",
+     "english_noun": "forum"
+    },
+    {
+     "spanish_noun": " el mérito",
+     "english_noun": "merit"
+    },
+    {
+     "spanish_noun": " el joven",
+     "english_noun": "youngster"
+    },
+    {
+     "spanish_noun": " la transferencia",
+     "english_noun": "transfer"
+    },
+    {
+     "spanish_noun": " la distribución",
+     "english_noun": "distribution"
+    },
+    {
+     "spanish_noun": " la expansión",
+     "english_noun": "expansion"
+    },
+    {
+     "spanish_noun": " la profundidad",
+     "english_noun": "depth"
+    },
+    {
+     "spanish_noun": " la manta",
+     "english_noun": "blanket"
+    },
+    {
+     "spanish_noun": " el reino",
+     "english_noun": "kingdom"
+    },
+    {
+     "spanish_noun": " el barro",
+     "english_noun": "mud"
+    },
+    {
+     "spanish_noun": " la llegada",
+     "english_noun": "arrival"
+    },
+    {
+     "spanish_noun": " el reflejo",
+     "english_noun": "reflection"
+    },
+    {
+     "spanish_noun": " la envoltura",
+     "english_noun": "envelope"
+    },
+    {
+     "spanish_noun": " la reserva",
+     "english_noun": "reserve"
+    },
+    {
+     "spanish_noun": " la caza",
+     "english_noun": "hunting"
+    },
+    {
+     "spanish_noun": " los muebles",
+     "english_noun": "furniture"
+    },
+    {
+     "spanish_noun": " el gesto",
+     "english_noun": "gesture"
+    },
+    {
+     "spanish_noun": " la residencia",
+     "english_noun": "residence"
+    },
+    {
+     "spanish_noun": " la ambición",
+     "english_noun": "ambition"
+    },
+    {
+     "spanish_noun": " la uña",
+     "english_noun": "nail"
+    },
+    {
+     "spanish_noun": " el espectro",
+     "english_noun": "spectrum"
+    },
+    {
+     "spanish_noun": " el dibujo",
+     "english_noun": "drawing"
+    },
+    {
+     "spanish_noun": " el entusiasmo",
+     "english_noun": "enthusiasm"
+    },
+    {
+     "spanish_noun": " la pluma",
+     "english_noun": "pen"
+    },
+    {
+     "spanish_noun": " la preferencia",
+     "english_noun": "preference"
+    },
+    {
+     "spanish_noun": " la ausencia",
+     "english_noun": "absence"
+    },
+    {
+     "spanish_noun": " el oxígeno",
+     "english_noun": "oxygen"
+    },
+    {
+     "spanish_noun": " la escuadra",
+     "english_noun": "squad"
+    },
+    {
+     "spanish_noun": " la contaminación",
+     "english_noun": "pollution"
+    },
+    {
+     "spanish_noun": " la cerradura",
+     "english_noun": "lock"
+    },
+    {
+     "spanish_noun": " la extensión",
+     "english_noun": "extension"
+    },
+    {
+     "spanish_noun": " el participante",
+     "english_noun": "participant"
+    },
+    {
+     "spanish_noun": " el arquitecto",
+     "english_noun": "architect"
+    },
+    {
+     "spanish_noun": " la magistratura",
+     "english_noun": "bench"
+    },
+    {
+     "spanish_noun": " la cuerda",
+     "english_noun": "rope"
+    },
+    {
+     "spanish_noun": " el objetivo",
+     "english_noun": "aim"
+    },
+    {
+     "spanish_noun": " la corriente de",
+     "english_noun": "stream"
+    },
+    {
+     "spanish_noun": " la evolución",
+     "english_noun": "evolution"
+    },
+    {
+     "spanish_noun": " el ángulo",
+     "english_noun": "angle"
+    },
+    {
+     "spanish_noun": " la jurisdicción",
+     "english_noun": "jurisdiction"
+    },
+    {
+     "spanish_noun": " la carta",
+     "english_noun": "charter"
+    },
+    {
+     "spanish_noun": " la ideología",
+     "english_noun": "ideology"
+    },
+    {
+     "spanish_noun": " la marea",
+     "english_noun": "tide"
+    },
+    {
+     "spanish_noun": " la representación",
+     "english_noun": "representation"
+    },
+    {
+     "spanish_noun": " la identificación",
+     "english_noun": "identification"
+    },
+    {
+     "spanish_noun": " la concentración",
+     "english_noun": "concentration"
+    },
+    {
+     "spanish_noun": " la norma",
+     "english_noun": "norm"
+    },
+    {
+     "spanish_noun": " la propagación",
+     "english_noun": "spread"
+    },
+    {
+     "spanish_noun": " el rival",
+     "english_noun": "rival"
+    },
+    {
+     "spanish_noun": " la decepción",
+     "english_noun": "disappointment"
+    },
+    {
+     "spanish_noun": " el tribunal",
+     "english_noun": "tribunal"
+    },
+    {
+     "spanish_noun": " el grano",
+     "english_noun": "grain"
+    },
+    {
+     "spanish_noun": " la proporción",
+     "english_noun": "proportion"
+    },
+    {
+     "spanish_noun": " el tonto",
+     "english_noun": "fool"
+    },
+    {
+     "spanish_noun": " la fusión",
+     "english_noun": "merger"
+    },
+    {
+     "spanish_noun": " la lealtad",
+     "english_noun": "loyalty"
+    },
+    {
+     "spanish_noun": " la publicación",
+     "english_noun": "publication"
+    },
+    {
+     "spanish_noun": " la participación",
+     "english_noun": "participation"
+    },
+    {
+     "spanish_noun": " el escape",
+     "english_noun": "escape"
+    },
+    {
+     "spanish_noun": " el accionista",
+     "english_noun": "shareholder"
+    },
+    {
+     "spanish_noun": " la circunscripción",
+     "english_noun": "constituency"
+    },
+    {
+     "spanish_noun": " la pintura",
+     "english_noun": "paint"
+    },
+    {
+     "spanish_noun": " el inodoro",
+     "english_noun": "toilet"
+    },
+    {
+     "spanish_noun": " el fantasma",
+     "english_noun": "ghost"
+    },
+    {
+     "spanish_noun": " la atracción",
+     "english_noun": "attraction"
+    },
+    {
+     "spanish_noun": " el león",
+     "english_noun": "lion"
+    },
+    {
+     "spanish_noun": " la nave",
+     "english_noun": "craft"
+    },
+    {
+     "spanish_noun": " la costumbre",
+     "english_noun": "custom"
+    },
+    {
+     "spanish_noun": " el acantilado",
+     "english_noun": "cliff"
+    },
+    {
+     "spanish_noun": " el palacio",
+     "english_noun": "palace"
+    },
+    {
+     "spanish_noun": " la empuñadura",
+     "english_noun": "grip"
+    },
+    {
+     "spanish_noun": " la proteína",
+     "english_noun": "protein"
+    },
+    {
+     "spanish_noun": " la exactitud",
+     "english_noun": "accuracy"
+    },
+    {
+     "spanish_noun": " el robo",
+     "english_noun": "theft"
+    },
+    {
+     "spanish_noun": " la viuda",
+     "english_noun": "widow"
+    },
+    {
+     "spanish_noun": " la aceptación",
+     "english_noun": "acceptance"
+    },
+    {
+     "spanish_noun": " el acento",
+     "english_noun": "accent"
+    },
+    {
+     "spanish_noun": " el olor",
+     "english_noun": "smell"
+    },
+    {
+     "spanish_noun": " la salida",
+     "english_noun": "departure"
+    },
+    {
+     "spanish_noun": " los miembros",
+     "english_noun": "membership"
+    },
+    {
+     "spanish_noun": " la experiencia",
+     "english_noun": "expertise"
+    },
+    {
+     "spanish_noun": " la reparación",
+     "english_noun": "repair"
+    },
+    {
+     "spanish_noun": " la asamblea",
+     "english_noun": "assembly"
+    },
+    {
+     "spanish_noun": " el resumen",
+     "english_noun": "summary"
+    },
+    {
+     "spanish_noun": " la lógica",
+     "english_noun": "logic"
+    },
+    {
+     "spanish_noun": " el límite",
+     "english_noun": "boundary"
+    },
+    {
+     "spanish_noun": " el equivalente",
+     "english_noun": "equivalent"
+    },
+    {
+     "spanish_noun": " el titular",
+     "english_noun": "holder"
+    },
+    {
+     "spanish_noun": " la dimensión",
+     "english_noun": "dimension"
+    },
+    {
+     "spanish_noun": " el riel",
+     "english_noun": "rail"
+    },
+    {
+     "spanish_noun": " la transacción",
+     "english_noun": "transaction"
+    },
+    {
+     "spanish_noun": " la izquierda",
+     "english_noun": "left"
+    },
+    {
+     "spanish_noun": " la secuencia",
+     "english_noun": "sequence"
+    },
+    {
+     "spanish_noun": " el festival",
+     "english_noun": "festival"
+    },
+    {
+     "spanish_noun": " el pozo",
+     "english_noun": "pit"
+    },
+    {
+     "spanish_noun": " el horizonte",
+     "english_noun": "horizon"
+    },
+    {
+     "spanish_noun": " el cuenco",
+     "english_noun": "bowl"
+    },
+    {
+     "spanish_noun": " la compra",
+     "english_noun": "purchase"
+    },
+    {
+     "spanish_noun": " el demandante",
+     "english_noun": "plaintiff"
+    },
+    {
+     "spanish_noun": " la tía",
+     "english_noun": "aunt"
+    },
+    {
+     "spanish_noun": " la equidad",
+     "english_noun": "equity"
+    },
+    {
+     "spanish_noun": " la carga",
+     "english_noun": "load"
+    },
+    {
+     "spanish_noun": " el alcance",
+     "english_noun": "scope"
+    },
+    {
+     "spanish_noun": " la oscuridad",
+     "english_noun": "darkness"
+    },
+    {
+     "spanish_noun": " el sándwich",
+     "english_noun": "sandwich"
+    },
+    {
+     "spanish_noun": " la parroquia",
+     "english_noun": "parish"
+    },
+    {
+     "spanish_noun": " el cierre",
+     "english_noun": "closure"
+    },
+    {
+     "spanish_noun": " la pila",
+     "english_noun": "pile"
+    },
+    {
+     "spanish_noun": " la propiedad",
+     "english_noun": "ownership"
+    },
+    {
+     "spanish_noun": " el origen",
+     "english_noun": "origin"
+    },
+    {
+     "spanish_noun": " el defensor",
+     "english_noun": "defender"
+    },
+    {
+     "spanish_noun": " el circuito de",
+     "english_noun": "circuit"
+    },
+    {
+     "spanish_noun": " la introducción",
+     "english_noun": "introduction"
+    },
+    {
+     "spanish_noun": " el modo de",
+     "english_noun": "mode"
+    },
+    {
+     "spanish_noun": " el descuento",
+     "english_noun": "discount"
+    },
+    {
+     "spanish_noun": " la ecuación",
+     "english_noun": "equation"
+    },
+    {
+     "spanish_noun": " la entidad",
+     "english_noun": "entity"
+    },
+    {
+     "spanish_noun": " el kit",
+     "english_noun": "kit"
+    },
+    {
+     "spanish_noun": " la psicología",
+     "english_noun": "psychology"
+    },
+    {
+     "spanish_noun": " la virtud",
+     "english_noun": "virtue"
+    },
+    {
+     "spanish_noun": " la flexibilidad",
+     "english_noun": "flexibility"
+    },
+    {
+     "spanish_noun": " el entrenador",
+     "english_noun": "trainer"
+    },
+    {
+     "spanish_noun": " el continente",
+     "english_noun": "continent"
+    },
+    {
+     "spanish_noun": " el comerciante",
+     "english_noun": "trader"
+    },
+    {
+     "spanish_noun": " el baño",
+     "english_noun": "bath"
+    },
+    {
+     "spanish_noun": " el ladrillo",
+     "english_noun": "brick"
+    },
+    {
+     "spanish_noun": " el indicador",
+     "english_noun": "indicator"
+    },
+    {
+     "spanish_noun": " el vendedor",
+     "english_noun": "seller"
+    },
+    {
+     "spanish_noun": " la promoción",
+     "english_noun": "promotion"
+    },
+    {
+     "spanish_noun": " el choque",
+     "english_noun": "clash"
+    },
+    {
+     "spanish_noun": " la característica",
+     "english_noun": "characteristic"
+    },
+    {
+     "spanish_noun": " la moneda",
+     "english_noun": "coin"
+    },
+    {
+     "spanish_noun": " la garantía",
+     "english_noun": "assurance"
+    },
+    {
+     "spanish_noun": " la proposición",
+     "english_noun": "proposition"
+    },
+    {
+     "spanish_noun": " la lengua",
+     "english_noun": "tongue"
+    },
+    {
+     "spanish_noun": " el mínimo",
+     "english_noun": "minimum"
+    },
+    {
+     "spanish_noun": " el colector",
+     "english_noun": "collector"
+    },
+    {
+     "spanish_noun": " el capitalismo",
+     "english_noun": "capitalism"
+    },
+    {
+     "spanish_noun": " la cesta",
+     "english_noun": "basket"
+    },
+    {
+     "spanish_noun": " el marco",
+     "english_noun": "framework"
+    },
+    {
+     "spanish_noun": " la conciencia",
+     "english_noun": "consciousness"
+    },
+    {
+     "spanish_noun": " el interruptor",
+     "english_noun": "switch"
+    },
+    {
+     "spanish_noun": " el alquiler",
+     "english_noun": "rent"
+    },
+    {
+     "spanish_noun": " la curva",
+     "english_noun": "curve"
+    },
+    {
+     "spanish_noun": " el algodón",
+     "english_noun": "cotton"
+    },
+    {
+     "spanish_noun": " el parche",
+     "english_noun": "patch"
+    },
+    {
+     "spanish_noun": " la importación",
+     "english_noun": "import"
+    },
+    {
+     "spanish_noun": " el aislamiento",
+     "english_noun": "isolation"
+    },
+    {
+     "spanish_noun": " la entrada",
+     "english_noun": "entrance"
+    },
+    {
+     "spanish_noun": " la necesidad",
+     "english_noun": "necessity"
+    },
+    {
+     "spanish_noun": " la plaza",
+     "english_noun": "square"
+    },
+    {
+     "spanish_noun": " la empresa",
+     "english_noun": "venture"
+    },
+    {
+     "spanish_noun": " el vapor",
+     "english_noun": "steam"
+    },
+    {
+     "spanish_noun": " la agricultura",
+     "english_noun": "agriculture"
+    },
+    {
+     "spanish_noun": " la transformación",
+     "english_noun": "transformation"
+    },
+    {
+     "spanish_noun": " las ovejas",
+     "english_noun": "sheep"
+    },
+    {
+     "spanish_noun": " el cepillo",
+     "english_noun": "brush"
+    },
+    {
+     "spanish_noun": " la base de datos",
+     "english_noun": "database"
+    },
+    {
+     "spanish_noun": " el depósito",
+     "english_noun": "deposit"
+    },
+    {
+     "spanish_noun": " el menú",
+     "english_noun": "menu"
+    },
+    {
+     "spanish_noun": " el ajuste",
+     "english_noun": "adjustment"
+    },
+    {
+     "spanish_noun": " el triunfo",
+     "english_noun": "triumph"
+    },
+    {
+     "spanish_noun": " el consumo",
+     "english_noun": "consumption"
+    },
+    {
+     "spanish_noun": " el guardián",
+     "english_noun": "guardian"
+    },
+    {
+     "spanish_noun": " la cortina",
+     "english_noun": "curtain"
+    },
+    {
+     "spanish_noun": " la satisfacción",
+     "english_noun": "satisfaction"
+    },
+    {
+     "spanish_noun": " el cálculo",
+     "english_noun": "calculation"
+    },
+    {
+     "spanish_noun": " la flota",
+     "english_noun": "fleet"
+    },
+    {
+     "spanish_noun": " el remedio",
+     "english_noun": "remedy"
+    },
+    {
+     "spanish_noun": " el carril",
+     "english_noun": "lane"
+    },
+    {
+     "spanish_noun": " el certificado",
+     "english_noun": "certificate"
+    },
+    {
+     "spanish_noun": " la natación",
+     "english_noun": "swimming"
+    },
+    {
+     "spanish_noun": " la emisión",
+     "english_noun": "emission"
+    },
+    {
+     "spanish_noun": " la tela",
+     "english_noun": "fabric"
+    },
+    {
+     "spanish_noun": " el medio",
+     "english_noun": "medium"
+    },
+    {
+     "spanish_noun": " la eficiencia",
+     "english_noun": "efficiency"
+    },
+    {
+     "spanish_noun": " la interacción",
+     "english_noun": "interaction"
+    },
+    {
+     "spanish_noun": " la cabina",
+     "english_noun": "cab"
+    },
+    {
+     "spanish_noun": " la Pascua",
+     "english_noun": "easter"
+    },
+    {
+     "spanish_noun": " la gloria",
+     "english_noun": "glory"
+    },
+    {
+     "spanish_noun": " la recepción",
+     "english_noun": "reception"
+    },
+    {
+     "spanish_noun": " la productividad",
+     "english_noun": "productivity"
+    },
+    {
+     "spanish_noun": " el ácido",
+     "english_noun": "acid"
+    },
+    {
+     "spanish_noun": " el siervo",
+     "english_noun": "servant"
+    },
+    {
+     "spanish_noun": " la evaluación",
+     "english_noun": "evaluation"
+    },
+    {
+     "spanish_noun": " el molino",
+     "english_noun": "mill"
+    },
+    {
+     "spanish_noun": " la exposición",
+     "english_noun": "exhibition"
+    },
+    {
+     "spanish_noun": " la suma",
+     "english_noun": "sum"
+    },
+    {
+     "spanish_noun": " la contraparte",
+     "english_noun": "counterpart"
+    },
+    {
+     "spanish_noun": " el sargento",
+     "english_noun": "sergeant"
+    },
+    {
+     "spanish_noun": " el almacenamiento",
+     "english_noun": "storage"
+    },
+    {
+     "spanish_noun": " la fracción",
+     "english_noun": "fraction"
+    },
+    {
+     "spanish_noun": " la innovación",
+     "english_noun": "innovation"
+    },
+    {
+     "spanish_noun": " la postura",
+     "english_noun": "stance"
+    },
+    {
+     "spanish_noun": " el motor",
+     "english_noun": "motor"
+    },
+    {
+     "spanish_noun": " el formato",
+     "english_noun": "format"
+    },
+    {
+     "spanish_noun": " la partícula",
+     "english_noun": "particle"
+    },
+    {
+     "spanish_noun": " la traza",
+     "english_noun": "trace"
+    },
+    {
+     "spanish_noun": " el fluido",
+     "english_noun": "fluid"
+    },
+    {
+     "spanish_noun": " el plan de estudios",
+     "english_noun": "curriculum"
+    },
+    {
+     "spanish_noun": " la doctrina",
+     "english_noun": "doctrine"
+    },
+    {
+     "spanish_noun": " el desarrollador",
+     "english_noun": "developer"
+    },
+    {
+     "spanish_noun": " la pausa",
+     "english_noun": "pause"
+    },
+    {
+     "spanish_noun": " la eliminación",
+     "english_noun": "removal"
+    },
+    {
+     "spanish_noun": " la sensación",
+     "english_noun": "sensation"
+    },
+    {
+     "spanish_noun": " el dividendo",
+     "english_noun": "dividend"
+    },
+    {
+     "spanish_noun": " el monopolio",
+     "english_noun": "monopoly"
+    },
+    {
+     "spanish_noun": " la galería",
+     "english_noun": "gallery"
+    },
+    {
+     "spanish_noun": " la conferencia",
+     "english_noun": "lecture"
+    },
+    {
+     "spanish_noun": " el taxi",
+     "english_noun": "taxi"
+    },
+    {
+     "spanish_noun": " la discreción",
+     "english_noun": "discretion"
+    },
+    {
+     "spanish_noun": " la carne",
+     "english_noun": "flesh"
+    },
+    {
+     "spanish_noun": " el comerciante",
+     "english_noun": "merchant"
+    },
+    {
+     "spanish_noun": " la cantidad",
+     "english_noun": "quantity"
+    },
+    {
+     "spanish_noun": " el niño mimado",
+     "english_noun": "darling"
+    },
+    {
+     "spanish_noun": " la justificación",
+     "english_noun": "justification"
+    },
+    {
+     "spanish_noun": " el pintor",
+     "english_noun": "painter"
+    },
+    {
+     "spanish_noun": " la mezcla de",
+     "english_noun": "mixture"
+    },
+    {
+     "spanish_noun": " el incumplimiento",
+     "english_noun": "breach"
+    },
+    {
+     "spanish_noun": " el ascensor",
+     "english_noun": "lift"
+    },
+    {
+     "spanish_noun": " el estanque",
+     "english_noun": "pond"
+    },
+    {
+     "spanish_noun": " la mejilla",
+     "english_noun": "cheek"
+    },
+    {
+     "spanish_noun": " el sucesor",
+     "english_noun": "successor"
+    },
+    {
+     "spanish_noun": " el registro",
+     "english_noun": "registration"
+    },
+    {
+     "spanish_noun": " la consulta",
+     "english_noun": "consultation"
+    },
+    {
+     "spanish_noun": " la calificación",
+     "english_noun": "qualification"
+    },
+    {
+     "spanish_noun": " el proveedor",
+     "english_noun": "supplier"
+    },
+    {
+     "spanish_noun": " el otoño",
+     "english_noun": "autumn"
+    },
+    {
+     "spanish_noun": " el hardware",
+     "english_noun": "hardware"
+    },
+    {
+     "spanish_noun": " el cuero",
+     "english_noun": "leather"
+    },
+    {
+     "spanish_noun": " el conejo",
+     "english_noun": "rabbit"
+    },
+    {
+     "spanish_noun": " el párrafo",
+     "english_noun": "paragraph"
+    },
+    {
+     "spanish_noun": " el compañero",
+     "english_noun": "companion"
+    },
+    {
+     "spanish_noun": " la mayor parte",
+     "english_noun": "bulk"
+    },
+    {
+     "spanish_noun": " el corredor",
+     "english_noun": "corridor"
+    },
+    {
+     "spanish_noun": " el taller",
+     "english_noun": "workshop"
+    },
+    {
+     "spanish_noun": " la sombra",
+     "english_noun": "shade"
+    },
+    {
+     "spanish_noun": " el contador",
+     "english_noun": "accountant"
+    },
+    {
+     "spanish_noun": " la espada",
+     "english_noun": "sword"
+    },
+    {
+     "spanish_noun": " la formación",
+     "english_noun": "formation"
+    },
+    {
+     "spanish_noun": " la integración",
+     "english_noun": "integration"
+    },
+    {
+     "spanish_noun": " los gastos",
+     "english_noun": "expenditure"
+    },
+    {
+     "spanish_noun": " la entrada",
+     "english_noun": "input"
+    },
+    {
+     "spanish_noun": " la varilla",
+     "english_noun": "rod"
+    },
+    {
+     "spanish_noun": " la complejidad",
+     "english_noun": "complexity"
+    },
+    {
+     "spanish_noun": " la falda",
+     "english_noun": "skirt"
+    },
+    {
+     "spanish_noun": " el insecto",
+     "english_noun": "insect"
+    },
+    {
+     "spanish_noun": " el transporte",
+     "english_noun": "transport"
+    },
+    {
+     "spanish_noun": " La mortalidad",
+     "english_noun": "mortality"
+    },
+    {
+     "spanish_noun": " la pendiente",
+     "english_noun": "slope"
+    },
+    {
+     "spanish_noun": " la restauración",
+     "english_noun": "restoration"
+    },
+    {
+     "spanish_noun": " el nido",
+     "english_noun": "nest"
+    },
+    {
+     "spanish_noun": " la variación",
+     "english_noun": "variation"
+    },
+    {
+     "spanish_noun": " la composición",
+     "english_noun": "composition"
+    },
+    {
+     "spanish_noun": " la corona",
+     "english_noun": "crown"
+    },
+    {
+     "spanish_noun": " la probabilidad",
+     "english_noun": "probability"
+    },
+    {
+     "spanish_noun": " la liberación",
+     "english_noun": "liberation"
+    },
+    {
+     "spanish_noun": " la asistencia",
+     "english_noun": "attendance"
+    },
+    {
+     "spanish_noun": " el organismo",
+     "english_noun": "organism"
+    },
+    {
+     "spanish_noun": " la conservación",
+     "english_noun": "conservation"
+    },
+    {
+     "spanish_noun": " la escultura",
+     "english_noun": "sculpture"
+    },
+    {
+     "spanish_noun": " el champagne",
+     "english_noun": "champagne"
+    },
+    {
+     "spanish_noun": " la arquitectura",
+     "english_noun": "architecture"
+    },
+    {
+     "spanish_noun": " el otro",
+     "english_noun": "other"
+    },
+    {
+     "spanish_noun": " el señor",
+     "english_noun": "lord"
+    },
+    {
+     "spanish_noun": " la tv",
+     "english_noun": "tv"
+    },
+    {
+     "spanish_noun": " la furgoneta",
+     "english_noun": "van"
+    },
+    {
+     "spanish_noun": " el directorio",
+     "english_noun": "directory"
+    },
+    {
+     "spanish_noun": " el cien",
+     "english_noun": "hundred"
+    },
+    {
+     "spanish_noun": " la docena",
+     "english_noun": "dozen"
+    },
+    {
+     "spanish_noun": " la tesorería",
+     "english_noun": "treasury"
+    },
+    {
+     "spanish_noun": " la gasolina",
+     "english_noun": "petrol"
+    },
+    {
+     "spanish_noun": " el comprador",
+     "english_noun": "purchaser"
+    },
+    {
+     "spanish_noun": " la terraza",
+     "english_noun": "terrace"
+    },
+    {
+     "spanish_noun": " la avenida",
+     "english_noun": "avenue"
+    },
+    {
+     "spanish_noun": " los mil",
+     "english_noun": "thousand"
+    },
+    {
+     "spanish_noun": " la sociología",
+     "english_noun": "sociology"
+    },
+    {
+     "spanish_noun": " la posada",
+     "english_noun": "inn"
+    },
+    {
+     "spanish_noun": " la colonia",
+     "english_noun": "colony"
+    },
+    {
+     "spanish_noun": " la asociación",
+     "english_noun": "association"
+    },
+    {
+     "spanish_noun": " el príncipe",
+     "english_noun": "prince"
+    },
+    {
+     "spanish_noun": " la corp",
+     "english_noun": "corp"
+    },
+    {
+     "spanish_noun": " el muchacho",
+     "english_noun": "lad"
+    },
+    {
+     "spanish_noun": " el catálogo",
+     "english_noun": "catalogue"
+    },
+    {
+     "spanish_noun": " el magistrado",
+     "english_noun": "magistrate"
+    },
+    {
+     "spanish_noun": " la asignación",
+     "english_noun": "allocation"
+    },
+    {
+     "spanish_noun": " el puerto",
+     "english_noun": "harbour"
+    },
+    {
+     "spanish_noun": " el abogado",
+     "english_noun": "solicitor"
+    },
+    {
+     "spanish_noun": " el viajero",
+     "english_noun": "traveller"
+    },
+    {
+     "spanish_noun": " el conde",
+     "english_noun": "earl"
+    },
+    {
+     "spanish_noun": " el humor",
+     "english_noun": "humour"
+    },
+    {
+     "spanish_noun": " el Papa",
+     "english_noun": "pope"
+    },
+    {
+     "spanish_noun": " la señora",
+     "english_noun": "mrs"
+    },
+    {
+     "spanish_noun": " el comportamiento",
+     "english_noun": "behaviour"
+    },
+    {
+     "spanish_noun": " el proyecto de ley",
+     "english_noun": "bill"
+    },
+    {
+     "spanish_noun": " la marca",
+     "english_noun": "mark"
+    },
+    {
+     "spanish_noun": " el criterio",
+     "english_noun": "criterion"
+    },
+    {
+     "spanish_noun": " el duque",
+     "english_noun": "duke"
+    },
+    {
+     "spanish_noun": " la roja",
+     "english_noun": "red"
+    },
+    {
+     "spanish_noun": " la federación",
+     "english_noun": "federation"
+    },
+    {
+     "spanish_noun": " el judio",
+     "english_noun": "jew"
+    },
+    {
+     "spanish_noun": " el coronel",
+     "english_noun": "colonel"
+    },
+    {
+     "spanish_noun": " la mierda",
+     "english_noun": "shit"
+    },
+    {
+     "spanish_noun": " el águila",
+     "english_noun": "eagle"
+    },
+    {
+     "spanish_noun": " el centro",
+     "english_noun": "centre"
+    },
+    {
+     "spanish_noun": " la señorita",
+     "english_noun": "miss"
+    },
+    {
+     "spanish_noun": " el higo",
+     "english_noun": "fig"
+    },
+    {
+     "spanish_noun": " el instituto",
+     "english_noun": "institute"
+    },
+    {
+     "spanish_noun": " la bahía",
+     "english_noun": "bay"
+    },
+    {
+     "spanish_noun": " el honor",
+     "english_noun": "honour"
+    },
+    {
+     "spanish_noun": " la clasificación",
+     "english_noun": "classification"
+    },
+    {
+     "spanish_noun": " el concejal",
+     "english_noun": "councillor"
+    },
+    {
+     "spanish_noun": " el alguacil",
+     "english_noun": "constable"
+    },
+    {
+     "spanish_noun": " la oficina",
+     "english_noun": "bureau"
+    },
+    {
+     "spanish_noun": " la milla",
+     "english_noun": "mile"
+    },
+    {
+     "spanish_noun": " el procedimiento",
+     "english_noun": "proceeding"
+    },
+    {
+     "spanish_noun": " la sentencia",
+     "english_noun": "judgement"
+    },
+    {
+     "spanish_noun": " el cheque",
+     "english_noun": "cheque"
+    },
+    {
+     "spanish_noun": " la no",
+     "english_noun": "no"
+    },
+    {
+     "spanish_noun": " la reina",
+     "english_noun": "queen"
+    },
+    {
+     "spanish_noun": " el valle",
+     "english_noun": "valley"
+    },
+    {
+     "spanish_noun": " los mil millones",
+     "english_noun": "billion"
+    },
+    {
+     "spanish_noun": " la pulgada",
+     "english_noun": "inch"
+    },
+    {
+     "spanish_noun": " las escaleras",
+     "english_noun": "stairs"
+    },
+    {
+     "spanish_noun": " la fibra",
+     "english_noun": "fibre"
+    },
+    {
+     "spanish_noun": " el acre",
+     "english_noun": "acre"
+    },
+    {
+     "spanish_noun": " el blanco",
+     "english_noun": "white"
+    },
+    {
+     "spanish_noun": " el lago",
+     "english_noun": "lake"
+    },
+    {
+     "spanish_noun": " el dios",
+     "english_noun": "god"
+    },
+    {
+     "spanish_noun": " la investigación",
+     "english_noun": "enquiry"
+    },
+    {
+     "spanish_noun": " la princesa",
+     "english_noun": "princess"
+    },
+    {
+     "spanish_noun": " la basura",
+     "english_noun": "rubbish"
+    },
+    {
+     "spanish_noun": " la tonelada",
+     "english_noun": "tonne"
+    },
+    {
+     "spanish_noun": " la marina",
+     "english_noun": "navy"
+    },
+    {
+     "spanish_noun": " el cap",
+     "english_noun": "chap"
+    },
+    {
+     "spanish_noun": " el millón",
+     "english_noun": "million"
+    },
+    {
+     "spanish_noun": " el programa",
+     "english_noun": "programme"
+    },
+    {
+     "spanish_noun": " la organización",
+     "english_noun": "organisation"
+    },
+    {
+     "spanish_noun": " la república",
+     "english_noun": "republic"
+    },
+    {
+     "spanish_noun": " el porcentaje",
+     "english_noun": "percent"
+    },
+    {
+     "spanish_noun": " la momia",
+     "english_noun": "mummy"
+    },
+    {
+     "spanish_noun": " el favorito",
+     "english_noun": "favourite"
+    },
+    {
+     "spanish_noun": " el cm",
+     "english_noun": "cm"
+    },
+    {
+     "spanish_noun": " la ilustración",
+     "english_noun": "illustration"
+    },
+    {
+     "spanish_noun": " la his-",
+     "english_noun": "tory"
+    },
+    {
+     "spanish_noun": " las ayudas",
+     "english_noun": "aids"
+    },
+    {
+     "spanish_noun": " el teatro",
+     "english_noun": "theatre"
+    },
+    {
+     "spanish_noun": " la licencia",
+     "english_noun": "licence"
+    },
+    {
+     "spanish_noun": " el metro",
+     "english_noun": "metre"
+    },
+    {
+     "spanish_noun": " la constitución",
+     "english_noun": "constitution"
+    },
+    {
+     "spanish_noun": " la unión",
+     "english_noun": "junction"
+    },
+    {
+     "spanish_noun": " la interfaz",
+     "english_noun": "interface"
+    },
+    {
+     "spanish_noun": " la mirada",
+     "english_noun": "gaze"
+    },
+    {
+     "spanish_noun": " el pensionista",
+     "english_noun": "pensioner"
+    },
+    {
+     "spanish_noun": " el constructor",
+     "english_noun": "builder"
+    },
+    {
+     "spanish_noun": " la universidad",
+     "english_noun": "university"
+    },
+    {
+     "spanish_noun": " el parque",
+     "english_noun": "park"
+    },
+    {
+     "spanish_noun": " la colina",
+     "english_noun": "hill"
+    },
+    {
+     "spanish_noun": " el vecino",
+     "english_noun": "neighbour"
+    },
+    {
+     "spanish_noun": " el unix",
+     "english_noun": "unix"
+    },
+    {
+     "spanish_noun": " el favor",
+     "english_noun": "favour"
+    },
+    {
+     "spanish_noun": " la ciudad",
+     "english_noun": "borough"
+    },
+    {
+     "spanish_noun": " la redundancia",
+     "english_noun": "redundancy"
+    },
+    {
+     "spanish_noun": " el rey",
+     "english_noun": "king"
+    },
+    {
+     "spanish_noun": " la co",
+     "english_noun": "co"
+    },
+    {
+     "spanish_noun": " el árbitro",
+     "english_noun": "ref"
+    },
+    {
+     "spanish_noun": " la vida útil",
+     "english_noun": "lifespan"
+    },
+    {
+     "spanish_noun": " la abadía",
+     "english_noun": "abbey"
+    },
+    {
+     "spanish_noun": " el rumor",
+     "english_noun": "rumour"
+    },
+    {
+     "spanish_noun": " el armario",
+     "english_noun": "cupboard"
+    },
+    {
+     "spanish_noun": " el ayuntamiento",
+     "english_noun": "council"
+    },
+    {
+     "spanish_noun": " el color",
+     "english_noun": "colour"
+    },
+    {
+     "spanish_noun": " el dólar",
+     "english_noun": "dollar"
+    },
+    {
+     "spanish_noun": " la mancomunidad",
+     "english_noun": "commonwealth"
+    },
+    {
+     "spanish_noun": " el condado",
+     "english_noun": "county"
+    },
+    {
+     "spanish_noun": " la momia",
+     "english_noun": "mum"
+    },
+    {
+     "spanish_noun": " la rosa",
+     "english_noun": "rose"
+    },
+    {
+     "spanish_noun": " la cuba",
+     "english_noun": "vat"
+    },
+    {
+     "spanish_noun": " la foto",
+     "english_noun": "photo"
+    },
+    {
+     "spanish_noun": " el camión",
+     "english_noun": "lorry"
+    },
+    {
+     "spanish_noun": " la mano de obra",
+     "english_noun": "labour"
+    },
+    {
+     "spanish_noun": " la defensa",
+     "english_noun": "defence"
+    },
+    {
+     "spanish_noun": " la tierra",
+     "english_noun": "earth"
+    },
+    {
+     "spanish_noun": " la plana",
+     "english_noun": "flat"
+    },
+    {
+     "spanish_noun": " el delito",
+     "english_noun": "offence"
+    },
+    {
+     "spanish_noun": " el papá",
+     "english_noun": "daddy"
+    },
+    {
+     "spanish_noun": " el apéndice",
+     "english_noun": "appendix"
+    },
+    {
+     "spanish_noun": " el whisky",
+     "english_noun": "whisky"
+    },
+    {
+     "spanish_noun": " la isla",
+     "english_noun": "isle"
+    },
+    {
+     "spanish_noun": " la marcha",
+     "english_noun": "go"
+    },
+    {
+     "spanish_noun": " la villa",
+     "english_noun": "villa"
+    },
+    {
+     "spanish_noun": " el tutor",
+     "english_noun": "tutor"
+    },
+    {
+     "spanish_noun": " el arzobispo",
+     "english_noun": "archbishop"
+    },
+    {
+     "spanish_noun": " la fotografía",
+     "english_noun": "photograph"
+    },
+    {
+     "spanish_noun": " la especificación",
+     "english_noun": "specification"
+    },
+    {
+     "spanish_noun": " la politécnica",
+     "english_noun": "polytechnic"
+    },
+    {
+     "spanish_noun": " la zarza",
+     "english_noun": "bush"
+    },
+    {
+     "spanish_noun": " la frecuencia",
+     "english_noun": "frequency"
+    },
+    {
+     "spanish_noun": " el seminario",
+     "english_noun": "seminar"
+    },
+    {
+     "spanish_noun": " el interior",
+     "english_noun": "interior"
+    },
+    {
+     "spanish_noun": " el verso",
+     "english_noun": "verse"
+    },
+    {
+     "spanish_noun": " el recibo",
+     "english_noun": "receipt"
+    },
+    {
+     "spanish_noun": " la raza",
+     "english_noun": "breed"
+    },
+    {
+     "spanish_noun": " la medición",
+     "english_noun": "measurement"
+    },
+    {
+     "spanish_noun": " la palma",
+     "english_noun": "palm"
+    },
+    {
+     "spanish_noun": " el muelle",
+     "english_noun": "dock"
+    },
+    {
+     "spanish_noun": " el pc",
+     "english_noun": "pc"
+    },
+    {
+     "spanish_noun": " la desventaja",
+     "english_noun": "disadvantage"
+    },
+    {
+     "spanish_noun": " la instalación",
+     "english_noun": "installation"
+    },
+    {
+     "spanish_noun": " el anuncio",
+     "english_noun": "advertisement"
+    },
+    {
+     "spanish_noun": " la implementación",
+     "english_noun": "implementation"
+    },
+    {
+     "spanish_noun": " la cartera",
+     "english_noun": "portfolio"
+    },
+    {
+     "spanish_noun": " la madera",
+     "english_noun": "timber"
+    },
+    {
+     "spanish_noun": " la cláusula",
+     "english_noun": "clause"
+    },
+    {
+     "spanish_noun": " el discurso",
+     "english_noun": "discourse"
+    },
+    {
+     "spanish_noun": " el disco",
+     "english_noun": "disc"
+    },
+    {
+     "spanish_noun": " la cuchilla",
+     "english_noun": "blade"
+    },
+    {
+     "spanish_noun": " la relación",
+     "english_noun": "ratio"
+    },
+    {
+     "spanish_noun": " el mineral",
+     "english_noun": "mineral"
+    },
+    {
+     "spanish_noun": " el contorno",
+     "english_noun": "outline"
+    },
+    {
+     "spanish_noun": " la adición",
+     "english_noun": "addition"
+    },
+    {
+     "spanish_noun": " la maquinaria",
+     "english_noun": "machinery"
+    },
+    {
+     "spanish_noun": " el canal",
+     "english_noun": "canal"
+    },
+    {
+     "spanish_noun": " lo local",
+     "english_noun": "local"
+    },
+    {
+     "spanish_noun": " la eliminación",
+     "english_noun": "disposal"
+    },
+    {
+     "spanish_noun": " la negativa",
+     "english_noun": "refusal"
+    },
+    {
+     "spanish_noun": " el dominio",
+     "english_noun": "domain"
+    },
+    {
+     "spanish_noun": " el registro",
+     "english_noun": "register"
+    },
+    {
+     "spanish_noun": " la auditoría",
+     "english_noun": "audit"
+    },
+    {
+     "spanish_noun": " la disponibilidad",
+     "english_noun": "availability"
+    },
+    {
+     "spanish_noun": " la adquisición",
+     "english_noun": "acquisition"
+    },
+    {
+     "spanish_noun": " la autonomía",
+     "english_noun": "autonomy"
+    },
+    {
+     "spanish_noun": " la seda",
+     "english_noun": "silk"
+    },
+    {
+     "spanish_noun": " el haz",
+     "english_noun": "beam"
+    },
+    {
+     "spanish_noun": " el alojamiento",
+     "english_noun": "accommodation"
+    },
+    {
+     "spanish_noun": " el solicitante",
+     "english_noun": "applicant"
+    },
+    {
+     "spanish_noun": " la modificación",
+     "english_noun": "modification"
+    },
+    {
+     "spanish_noun": " el estaño",
+     "english_noun": "tin"
+    },
+    {
+     "spanish_noun": " el fragmento",
+     "english_noun": "fragment"
+    },
+    {
+     "spanish_noun": " el inquilino",
+     "english_noun": "tenant"
+    },
+    {
+     "spanish_noun": " la conversión",
+     "english_noun": "conversion"
+    },
+    {
+     "spanish_noun": " el vendedor",
+     "english_noun": "vendor"
+    },
+    {
+     "spanish_noun": " el practicante",
+     "english_noun": "practitioner"
+    },
+    {
+     "spanish_noun": " el deleite",
+     "english_noun": "delight"
+    },
+    {
+     "spanish_noun": " el filtro",
+     "english_noun": "filter"
+    },
+    {
+     "spanish_noun": " el bronce",
+     "english_noun": "bronze"
+    },
+    {
+     "spanish_noun": " la puerta",
+     "english_noun": "doorway"
+    },
+    {
+     "spanish_noun": " la incidencia",
+     "english_noun": "incidence"
+    },
+    {
+     "spanish_noun": " el contrato de arrendamiento",
+     "english_noun": "lease"
+    },
+    {
+     "spanish_noun": " la restricción",
+     "english_noun": "constraint"
+    },
+    {
+     "spanish_noun": " el paño",
+     "english_noun": "cloth"
+    },
+    {
+     "spanish_noun": " el vivero",
+     "english_noun": "nursery"
+    },
+    {
+     "spanish_noun": " el acreedor",
+     "english_noun": "creditor"
+    },
+    {
+     "spanish_noun": " la imposición",
+     "english_noun": "taxation"
+    },
+    {
+     "spanish_noun": " el disco",
+     "english_noun": "disk"
+    },
+    {
+     "spanish_noun": " el diccionario",
+     "english_noun": "dictionary"
+    },
+    {
+     "spanish_noun": " la concepción",
+     "english_noun": "conception"
+    },
+    {
+     "spanish_noun": " el fiduciario",
+     "english_noun": "trustee"
+    },
+    {
+     "spanish_noun": " la molécula",
+     "english_noun": "molecule"
+    },
+    {
+     "spanish_noun": " la celebración",
+     "english_noun": "holding"
+    },
+    {
+     "spanish_noun": " la casa de campo",
+     "english_noun": "cottage"
+    },
+    {
+     "spanish_noun": " el arrendador",
+     "english_noun": "landlord"
+    },
+    {
+     "spanish_noun": " la sucesión",
+     "english_noun": "succession"
+    },
+    {
+     "spanish_noun": " el calor",
+     "english_noun": "warmth"
+    },
+    {
+     "spanish_noun": " el hechizo",
+     "english_noun": "spell"
+    },
+    {
+     "spanish_noun": " la capilla",
+     "english_noun": "chapel"
+    },
+    {
+     "spanish_noun": " el ocio",
+     "english_noun": "leisure"
+    },
+    {
+     "spanish_noun": " el reinado",
+     "english_noun": "reign"
+    },
+    {
+     "spanish_noun": " la respuesta",
+     "english_noun": "reply"
+    },
+    {
+     "spanish_noun": " la duración",
+     "english_noun": "duration"
+    },
+    {
+     "spanish_noun": " el castillo",
+     "english_noun": "castle"
+    },
+    {
+     "spanish_noun": " la jerarquía",
+     "english_noun": "hierarchy"
+    },
+    {
+     "spanish_noun": " la correlación",
+     "english_noun": "correlation"
+    },
+    {
+     "spanish_noun": " la exclusión",
+     "english_noun": "exclusion"
+    },
+    {
+     "spanish_noun": " el pub",
+     "english_noun": "pub"
+    },
+    {
+     "spanish_noun": " la hipótesis",
+     "english_noun": "hypothesis"
+    },
+    {
+     "spanish_noun": " la lámpara",
+     "english_noun": "lamp"
+    },
+    {
+     "spanish_noun": " la esfera",
+     "english_noun": "sphere"
+    },
+    {
+     "spanish_noun": " el canciller",
+     "english_noun": "chancellor"
+    },
+    {
+     "spanish_noun": " el campesino",
+     "english_noun": "peasant"
+    },
+    {
+     "spanish_noun": " la salida",
+     "english_noun": "output"
+    },
+    {
+     "spanish_noun": " el emperador",
+     "english_noun": "emperor"
+    },
+    {
+     "spanish_noun": " la mirada",
+     "english_noun": "glance"
+    },
+    {
+     "spanish_noun": " el espécimen",
+     "english_noun": "specimen"
+    },
+    {
+     "spanish_noun": " la directiva",
+     "english_noun": "directive"
+    },
+    {
+     "spanish_noun": " la tesis",
+     "english_noun": "thesis"
+    },
+    {
+     "spanish_noun": " el trabajo",
+     "english_noun": "working"
+    },
+    {
+     "spanish_noun": " el roble",
+     "english_noun": "oak"
+    },
+    {
+     "spanish_noun": " el volumen de negocios",
+     "english_noun": "turnover"
+    },
+    {
+     "spanish_noun": " el subsidio",
+     "english_noun": "allowance"
+    },
+    {
+     "spanish_noun": " la bandeja",
+     "english_noun": "tray"
+    },
+    {
+     "spanish_noun": " el auditor",
+     "english_noun": "auditor"
+    },
+    {
+     "spanish_noun": " el servidor",
+     "english_noun": "server"
+    },
+    {
+     "spanish_noun": " la catedral",
+     "english_noun": "cathedral"
+    },
+    {
+     "spanish_noun": " la piedad",
+     "english_noun": "pity"
+    },
+    {
+     "spanish_noun": " la variable",
+     "english_noun": "variable"
+    },
+    {
+     "spanish_noun": " la arcilla",
+     "english_noun": "clay"
+    },
+    {
+     "spanish_noun": " el carro",
+     "english_noun": "carriage"
+    },
+    {
+     "spanish_noun": " el cine",
+     "english_noun": "cinema"
+    },
+    {
+     "spanish_noun": " el folleto",
+     "english_noun": "leaflet"
+    },
+    {
+     "spanish_noun": " el cobre",
+     "english_noun": "copper"
+    },
+    {
+     "spanish_noun": " la densidad",
+     "english_noun": "density"
+    },
+    {
+     "spanish_noun": " la filial",
+     "english_noun": "subsidiary"
+    },
+    {
+     "spanish_noun": " el despido",
+     "english_noun": "dismissal"
+    },
+    {
+     "spanish_noun": " la finalización",
+     "english_noun": "completion"
+    },
+    {
+     "spanish_noun": " el procesador",
+     "english_noun": "processor"
+    },
+    {
+     "spanish_noun": " el paquete",
+     "english_noun": "packet"
+    },
+    {
+     "spanish_noun": " la lana",
+     "english_noun": "wool"
+    },
+    {
+     "spanish_noun": " el encabezamiento",
+     "english_noun": "heading"
+    },
+    {
+     "spanish_noun": " la gramática",
+     "english_noun": "grammar"
+    },
+    {
+     "spanish_noun": " el pavimento",
+     "english_noun": "pavement"
+    },
+    {
+     "spanish_noun": " el receptor",
+     "english_noun": "receiver"
+    },
+    {
+     "spanish_noun": " el módulo",
+     "english_noun": "module"
+    },
+    {
+     "spanish_noun": " el ferrocarril",
+     "english_noun": "railway"
+    },
+    {
+     "spanish_noun": " la pupila",
+     "english_noun": "pupil"
+    },
+    {
+     "spanish_noun": " el grillo",
+     "english_noun": "cricket"
+    },
+    {
+     "spanish_noun": " la impresora",
+     "english_noun": "printer"
+    },
+    {
+     "spanish_noun": " el intervalo",
+     "english_noun": "interval"
+    },
+    {
+     "spanish_noun": " el diagrama",
+     "english_noun": "diagram"
+    },
+    {
+     "spanish_noun": " el hijo de puta",
+     "english_noun": "bastard"
+    }
+   ]

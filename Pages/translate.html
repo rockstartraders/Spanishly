@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en" class="notranslate" translate="no">
+
+<head>
+    <meta name="google" content="notranslate" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css">
+    <link rel="icon" type="image/x-icon" href="/IMG/favicon.ico">
+    <link rel="stylesheet" href="/CSS/uikit.min.css">
+    <link rel="stylesheet" href="/CSS/sweetalert2.min.css">
+    <link rel="stylesheet" href="/CSS/animate.min.css">
+    <link rel="stylesheet" href="/CSS/autoComplete.min.css">
+    <link rel="stylesheet" href="/CSS/override.css">
+
+
+    <title>Potenciador de Vocabulario</title>
+</head>
+
+<body onload="translate()">
+
+    <!--Nav-->
+    <div id="Nav_bar">
+        <nav class="uk-navbar uk-navbar-container uk-margin" uk-navbar>
+            <div class="uk-navbar-left">
+                <a class="uk-navbar-toggle uk-navbar-toggle-animate" uk-navbar-toggle-icon
+                    href="javascript:void(0)"></a>
+                <div class="uk-navbar-dropdown">
+                    <ul class="uk-nav uk-navbar-dropdown-nav">
+                        <li><a href="/Index.html"><i class="fa-regular fa-house-chimney"></i> Home</a></li>
+                        <li><a href="javascript:void(0)" class="uk-text-primary uk-text-bold"><i
+                                    class="fa-sharp fa-solid fa-spell-check"></i> Translate English-Spanish</a></li>
+                        <li><a href="/Pages/jumble.html"><i class="fa-solid fa-puzzle"></i> Jumble Words</a></li>
+                        <li><a href="/Pages/conjugation.html"><i class="fa-light fa-clone"></i> Conjugation (<span
+                                    id="important">Presente</span>)</a></li>
+                        <li><a id="about_dev" href="javascript:void(0)" onclick="about_dev()"><i
+                                    class="fa-regular fa-id-card"></i> Dev. Information</a></li>
+                        <li><a href="https://github.com/rockstartraders" target="_blank"><i
+                                    class="fa-brands fa-github"></i></i> View me via <span
+                                    id="important">GITHUB</span></a></li>
+                    </ul>
+                </div> <!--end of uk-navbar-dropdown-->
+            </div><!--end of uk-navbar-left-->
+
+
+            <!--Logo-->
+            <a class="uk-navbar-center uk-logo" href="javascript:void(0)"><img src="../IMG/hello_hola.png"
+                    id="logo"></a>
+
+
+            <!--  This is the section for magnifying glass that I removed  -->
+            <!--Start of -->
+            <!-- <div class="uk-navbar-right">        
+                <a class="uk-navbar-" href="#modal-full" uk-search-icon uk-toggle></a>  
+            </div>
+        </nav> End of uk-navbar uk-navbar-container uk-margin -->
+
+            <!-- END OF  This is the section for magnifying glass that I removed  -->
+
+            <div id="modal-full" class="uk-modal-full uk-modal" uk-modal>
+                <div class="uk-modal-dialog uk-flex uk-flex-center uk-flex-middle" uk-height-viewport>
+                    <button class="uk-modal-close-full" type="button" uk-close></button>
+                    <div class="autoComplete_wrapper">
+                        <form class="uk-search uk-search-large">
+                            <input class="uk-search-input uk-text-center" id="autoComplete" type="search"
+                                placeholder="English~Spanish" aria-label="Search" spellcheck="false" autofocus>
+                            <svg id="search_main" width="20" height="20" viewBox="0 0 20 20"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <circle fill="none" stroke="#000" stroke-width="1.1" cx="9" cy="9" r="7"></circle>
+                                <path fill="none" stroke="#000" stroke-width="1.1" d="M14,14 L18,18 L14,14 Z"></path>
+                            </svg>
+                        </form>
+                    </div><!-- end of autoComplete_wrapper-->
+                    <button id="fetchInput"></button>
+                </div>
+            </div>
+    </div> <!-- End of id="Nav_bar"-->
+    <!--End of NAV BAR-->
+
+    <!-- Invisible-->
+    <div id="invisible">
+        <p id="correctanswer"></p>
+        <!-- <p id="english_partOfSpeech"></p>
+        <p id="english_meaning"></p> -->
+    </div>
+
+
+
+    <!--Start of Content for Body-->
+    <div id="mainBody">
+        <div id="mainBody_container">
+            <br id="para_desktop">
+            <br id="para_desktop">
+            <br id="para_mobile">
+            <br id="para_mobile">
+            <a class="uk-text-lead " id="questionTotranslate" href="#modal-example" uk-toggle></a>
+        </div><!--End of mainBody_container-->
+        <div class="uk-position-center" id="containerforCHOICES">
+            <div id="choices1">
+                <div class="uk-margin uk-grid-small uk-child-width-auto uk-grid">
+                    <label><input class="uk-radio" type="radio" name="radio2" id="input_txt_value1"><span
+                            id="choice1"></span></label>
+                    <label><input class="uk-radio" type="radio" name="radio2" id="input_txt_value2"><span
+                            id="choice2"></span></label>
+                </div>
+            </div><!--End of choices1-->
+            <div id="choices2">
+                <div class="uk-margin uk-grid-small uk-child-width-auto uk-grid">
+                    <label><input class="uk-radio" type="radio" name="radio2" id="input_txt_value3"><span
+                            id="choice3"></span></label>
+                    <label><input class="uk-radio" type="radio" name="radio2" id="input_txt_value4"><span
+                            id="choice4"></span></label>
+                </div>
+                <br>
+                <button class="uk-button uk-button-primary uk-width-1-1 uk-margin-small-bottom" id="btnSubmit"
+                    onclick="getAnswer()">Submit</button>
+            </div><!--End of choices2-->
+        </div><!--containerforCHOICES-->
+    </div><!--End of mainBody-->
+
+
+    <!-- This is the modal -->
+    <div id="modal-example" uk-modal>
+        <div class="uk-modal-dialog uk-modal-body">
+            <p id="english_partOfSpeech"></p>
+            <p id="english_meaning"></p>
+            <p class="uk-text-right">
+                <!-- <button class="uk-button uk-button-default uk-modal-close" type="button">Cancel</button> -->
+                <button class="uk-button uk-button-primary uk-modal-close" type="button">OK</button>
+            </p>
+        </div>
+    </div>
+
+
+    <!--JS FUNCTIONS-->
+    <script src="/JS/uikit.min.js"></script>
+    <script src="/JS/uikit-icons.min.js"></script>
+    <script src="/JS/sweetalert2.min.js"></script>
+    <script src="/JS/autoComplete.min.js"></script>
+    <script src="/JS/all_wordsforsearch.js"></script>
+    <script src="/Datos/backup_data.js"></script>
+    <script src="/JS/main.js"></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css">
+    <link rel="icon" type="image/x-icon" href="/IMG/favicon.ico">
+    <link rel="stylesheet" href="/CSS/uikit.min.css">
+    <link rel="stylesheet" href="/CSS/autoComplete.min.css">
+    <link rel="stylesheet" href="/CSS/animate.min.css">
+    <link rel="stylesheet" href="/CSS/sweetalert2.min.css">
+    <link rel="stylesheet" href="/CSS/override.css">
+    <title>Potenciador de Vocabulario</title>
+</head>
+
+<body>
+
+    <!--Nav-->
+    <div id="Nav_bar">
+        <nav class="uk-navbar uk-navbar-container uk-margin" uk-navbar>
+            <div class="uk-navbar-left">
+                <a class="uk-navbar-toggle uk-navbar-toggle-animate" uk-navbar-toggle-icon
+                    href="javascript:void(0)"></a>
+                <div class="uk-navbar-dropdown">
+                    <ul class="uk-nav uk-navbar-dropdown-nav">
+                        <li><a href="javascript:void(0)" class="uk-text-primary uk-text-bold"><i
+                                    class="fa-regular fa-house-chimney"></i> Home</a></li>
+                        <li><a href="/Pages/translate.html"><i class="fa-sharp fa-solid fa-spell-check"></i> Translate
+                                English-Spanish</a></li>
+                        <li><a href="/Pages/jumble.html"><i class="fa-solid fa-puzzle"></i> Jumble Words</a></li>
+                        <li><a href="/Pages/conjugation.html"><i class="fa-light fa-clone"></i> Conjugation (<span
+                                    id="important">Presente</span>)</a></li>
+                        <li><a id="about_dev" href="javascript:void(0)" onclick="about_dev()"><i
+                                    class="fa-regular fa-id-card"></i> Dev. Information</a></li>
+                        <li><a href="https://github.com/rockstartraders" target="_blank"><i
+                                    class="fa-brands fa-github"></i></i> View me via <span
+                                    id="important">GITHUB</span></a></li>
+                    </ul>
+                </div> <!--end of uk-navbar-dropdown-->
+            </div><!--end of uk-navbar-left-->
+
+
+            <!--Logo-->
+            <a class="uk-navbar-center uk-logo" href="javascript:void(0)"><img src="./IMG/hello_hola.png" id="logo"></a>
+
+
+            <!--  This is the section for magnifying glass that I removed  -->
+            <!--Start of -->
+            <!-- <div class="uk-navbar-right">        
+                <a class="uk-navbar-toggle" href="#modal-full" uk-search-icon uk-toggle></a>  
+            </div>
+        </nav> End of uk-navbar uk-navbar-container uk-margin -->
+            <!-- END OF  This is the section for magnifying glass that I removed  -->
+
+
+
+
+            <div id="modal-full" class="uk-modal-full uk-modal" uk-modal>
+                <div class="uk-modal-dialog uk-flex uk-flex-center uk-flex-middle" uk-height-viewport>
+                    <button class="uk-modal-close-full" type="button" uk-close></button>
+                    <div class="autoComplete_wrapper">
+                        <form class="uk-search uk-search-large">
+                            <input class="uk-search-input uk-text-center" id="autoComplete" type="search"
+                                placeholder="English~Spanish" aria-label="Search" spellcheck="false" autofocus>
+                            <svg id="search_main" width="20" height="20" viewBox="0 0 20 20"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <circle fill="none" stroke="#000" stroke-width="1.1" cx="9" cy="9" r="7"></circle>
+                                <path fill="none" stroke="#000" stroke-width="1.1" d="M14,14 L18,18 L14,14 Z"></path>
+                            </svg>
+                        </form>
+                    </div><!-- end of autoComplete_wrapper-->
+                    <button id="fetchInput"></button>
+                </div>
+            </div>
+    </div> <!-- End of id="Nav_bar"-->
+    <!--End of NAV BAR-->
+
+
+    <!--Text Message via Home Page-->
+    <div id="para_mensahe">
+        <div id="container_para_mensahe">
+            <h3 id="main_message">Hola a todos! and welcome to my web application.</h3>
+            <p id="sub_message">This is a compilation of all the Web applications I created to help us <span
+                    id="important">NEW Learners</span> in Improving our Spanish Vocabularies and familiarization in
+                terms of words and its spelling in a game type of format, just to make it as fun as possible (at least
+                for me).</p>
+            <p id="sub_message_1">Please feel free to navigate or choose from the <span id="important">Menu</span> <i
+                    class="fa-solid fa-bars"></i> and have fun.</p>
+        </div> <!--End of container_para_mensahe-->
+    </div><!--end of para_mensahe-->
+
+
+
+
+
+    <!--JS FUNCTIONS-->
+    <script src="/JS/uikit.min.js"></script>
+    <script src="/JS/uikit-icons.min.js"></script>
+    <script src="/JS/autoComplete.min.js"></script>
+    <script src="/Datos/backup_data.js"></script>
+    <script src="/JS/all_wordsforsearch.js"></script>
+    <script src="/JS/sweetalert2.min.js"></script>
+    <script src="/JS/main.js"></script>
+
+
+
+</body>
+
+</html>

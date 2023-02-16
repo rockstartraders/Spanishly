@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="google" content="notranslate">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css">
+    <link rel="icon" type="image/x-icon" href="/IMG/favicon.ico">
+    <link rel="stylesheet" href="/CSS/uikit.min.css">
+    <link rel="stylesheet" href="/CSS/sweetalert2.min.css">
+    <link rel="stylesheet" href="/CSS/animate.min.css">
+    <link rel="stylesheet" href="/CSS/introjs.min.css">
+    <link rel="stylesheet" href="/CSS/override.css">
+    <title>Potenciador de Vocabulario</title>
+</head>
+<body onload="verbos();">
+
+    <!--Nav-->
+    <div id="Nav_bar">
+        <nav class="uk-navbar uk-navbar-container uk-margin" uk-navbar>
+            <div class="uk-navbar-left">
+                <a class="uk-navbar-toggle uk-navbar-toggle-animate" uk-navbar-toggle-icon href="javascript:void(0)"></a>                
+                <div class="uk-navbar-dropdown">
+                    <ul class="uk-nav uk-navbar-dropdown-nav">
+                        <li><a href="/Index.html" ><i class="fa-regular fa-house-chimney"></i> Home</a></li>
+                        <li><a href="/Pages/translate.html"><i class="fa-sharp fa-solid fa-spell-check"></i> Translate English-Spanish</a></li>
+                        <li><a href="/Pages/jumble.html"><i class="fa-solid fa-puzzle"></i> Jumble Words</a></li>                       
+                        <li><a href="javascript:void(0)" class="uk-text-primary uk-text-bold"><i class="fa-solid fa-clone"></i> Conjugation (Presente)</a></li>
+                        <li><a id ="about_dev" href="javascript:void(0)" onclick="about_dev()"><i class="fa-regular fa-id-card"></i> Dev. Information</a></li>
+                        <li><a href="https://github.com/rockstartraders" target="_blank"><i class="fa-brands fa-github"></i></i> View me via <span id="important">GITHUB</span></a></li>
+                    </ul>
+                </div> <!--end of uk-navbar-dropdown-->
+            </div><!--end of uk-navbar-left-->
+
+
+            <!--Logo-->
+            <a class="uk-navbar-center uk-logo" href="javascript:void(0)"><img src="../IMG/hello_hola.png" id="logo"></a>
+          
+
+
+     <!--This is the section for magnifying glass that I removed  -->           
+            <!--Start of -->
+            <!-- <div class="uk-navbar-right">        
+                <a class="uk-navbar-toggle" href="#modal-full" uk-search-icon uk-toggle></a>  
+            </div>
+        </nav> End of uk-navbar uk-navbar-container uk-margin -->
+    <!-- END OF  This is the section for magnifying glass that I removed  -->       
+        
+        <div id="modal-full" class="uk-modal-full uk-modal" uk-modal>
+            <div class="uk-modal-dialog uk-flex uk-flex-center uk-flex-middle" uk-height-viewport>               
+                <button class="uk-modal-close-full" type="button" uk-close></button>
+                <form class="uk-search uk-search-large">
+                    <input class="uk-search-input uk-text-center" type="search" placeholder="Word Finder" aria-label="Search" autofocus>
+                </form>
+            </div>
+        </div>
+    </div> <!-- End of id="Nav_bar"-->
+    <!--End of NAV BAR-->
+
+
+
+    <!-- DIV PARA main content-->
+    <button id="instructBTNconjugate" class="uk-button uk-button-default">Instruction</button> <!--Instruction Button-->
+
+     <!--Hint Button for Modal Button-->
+    <a id="instructBTNhint" class="uk-button uk-button-default" href="#modal-center" uk-toggle data-intro="Click to view Conjugation Table.">Hint <i class="fa-light fa-lightbulb-on"></i></a>
+    <div id="modal-center" class="uk-flex-top" uk-modal>
+        <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">   
+          
+     <img src="/IMG/Conjugation_table.PNG"> <!--Image for table-->
+            
+    
+        </div>
+    </div>   <!--End of Hint Button for Modal Button-->
+
+    <div id="maincontainer_conjugation">     
+
+        <div id="conjugation_info">
+            <h2 id="conjugation_question" data-intro="This is the infinitive or the base form of the verb you need to conjugate." >  
+            </h2>           
+            <span id="english_meaning_conjugation" data-intro="This is the English translation in case you are interested."></span>
+        </div>
+
+        <div id="form_container">
+            <br>
+             <form>        
+                <div class="uk-margin" uk-margin>
+                    <div id="conjugate_input" class="uk-width-1-2@s">
+                        <span id="conjugate_forma" class="uk-label" data-intro="Spanish Pronoun you need to follow for conjugation."></span><input  id="inputAnswer_conj" class="uk-input" type="text" spellcheck="false" data-intro="Type your answer here.
+                        <br><br>Note that answers are not case sensitive and not <strong>tilde</strong> sensitive <i><u>except</i></u> for the letter <b>ñ</b>.
+                        <br><br>Stem changing and Irregular verbs are also present so good luck.
+                        ">
+                    </div>  
+                    <div id="conj_btn_container">
+                        <button id="conjugate_sbmit_btn" class="uk-button uk-button-primary" onclick="checkAnswer();" data-intro="Click submit once done.">Submit</button>
+                        <button id="conjugate_rst_btn" class="uk-button uk-button-danger" onclick="resetBTNconjugate();" data-intro="Reset to show answer and to generate new question.">Reset</button>
+                    </div>   
+                </div>
+             </form>
+
+            
+            
+        </div> <!--end of form container-->
+
+       
+    </div> <!--end of maincontainer_conjugation-->
+
+
+    <!--Invisble section-->
+    <div id="invisible_conjugation">
+        <div id="correct_conjugation"></div>
+        <div id="form_conjugation"></div>
+    </div>
+    
+
+
+
+
+
+
+    
+    <!--JS FUNCTIONS-->
+    <script src="/JS/uikit.min.js"></script>
+    <script src="/JS/uikit-icons.min.js"></script>
+    <script src="/JS/sweetalert2.min.js"></script> 
+    <script src="/JS/intro.min.js"></script>
+    <script src="/JS/latinize.js"></script> 
+    <script src="/JS/main.js"></script>
+    <script src="/JS/conjugate.js"></script>
+   
+</body>
+</html>
