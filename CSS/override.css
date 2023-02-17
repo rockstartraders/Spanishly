@@ -405,7 +405,7 @@ body{
 
 #english_meaning_forjumble{
     font-size: 2.5rem;
-    letter-spacing: .5rem;
+    /* letter-spacing: .5rem; */
     text-transform: capitalize;
     color: #494747;
     font-weight: 700;
